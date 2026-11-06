@@ -1,0 +1,1751 @@
+year,loc,loc_name,sector,sector_name,ash_pct,consumption_tons,price_usd_per_ton,receipts_tons,stocks_tons,sulfur_pct,geo_level,sector_role,heat_btu_per_lb,heat_mmbtu_per_ton,price_usd_per_mmbtu
+2020,90,Pacific,1,Electric Utility,6.3,1541461.0,42.25,873007.0,,0.21,pacific_subtotal,end_use,8127.9,16.2558,2.5990723311064357
+2020,90,Pacific,2,IPP Non-CHP,8.36,3476488.0,,3525648.0,,0.4,pacific_subtotal,ipp_component,8326.7,16.6534,
+2020,90,Pacific,3,IPP CHP,4.92,890674.0,,725275.0,,0.27,pacific_subtotal,ipp_component,9318.0,18.636,
+2020,90,Pacific,94,Independent Power Producers,7.7,4367162.0,,4250923.0,,0.38,pacific_subtotal,ipp_subtotal,8528.85,17.0577,
+2020,90,Pacific,98,Electric Power,7.48,5908623.0,,5123930.0,,0.35,pacific_subtotal,power_total,8424.25,16.8485,
+2020,AK,Alaska,1,Electric Utility,9.43,556171.0,49.26,347822.0,,0.15,state,end_use,7265.6,14.5312,3.389947148205241
+2020,AK,Alaska,10,Other Industrial,,1315.0,,1315.0,,,state,end_use,,,
+2020,AK,Alaska,3,IPP CHP,,220848.0,,0.0,,,state,ipp_component,7511.75,15.0235,
+2020,AK,Alaska,8,Commercial and Institutional,7.53,472932.0,,464609.0,109294.0,0.16,state,end_use,7514.0,15.028,
+2020,AK,Alaska,94,Independent Power Producers,,220848.0,,0.0,,,state,ipp_subtotal,7511.75,15.0235,
+2020,AK,Alaska,98,Electric Power,9.43,777019.0,49.26,347822.0,,0.15,state,power_total,7335.55,14.6711,3.357621446244658
+2020,AL,Alabama,1,Electric Utility,6.36,11895538.0,39.06,11755664.0,,0.41,state,end_use,9244.85,18.4897,2.11252751531934
+2020,AL,Alabama,10,Other Industrial,8.44,554804.0,92.81,561124.0,76989.0,1.39,state,end_use,13148.0,26.296,3.529434134469121
+2020,AL,Alabama,9,Coke Plants,6.27,769913.0,,711214.0,193711.0,0.72,state,end_use,14387.0,28.774,
+2020,AL,Alabama,98,Electric Power,6.36,11895538.0,39.06,11755664.0,,0.41,state,power_total,9244.85,18.4897,2.11252751531934
+2020,AR,Arkansas,1,Electric Utility,4.63,7300440.0,32.79,7745952.0,,0.22,state,end_use,8598.45,17.1969,1.9067390052858364
+2020,AR,Arkansas,10,Other Industrial,8.69,148952.0,,154441.0,33015.0,1.14,state,end_use,11421.0,22.842,
+2020,AR,Arkansas,2,IPP Non-CHP,5.34,1900266.0,,1992754.0,,0.24,state,ipp_component,8691.6,17.3832,
+2020,AR,Arkansas,94,Independent Power Producers,5.34,1900266.0,,1992754.0,,0.24,state,ipp_subtotal,8691.6,17.3832,
+2020,AR,Arkansas,98,Electric Power,4.78,9200706.0,,9738706.0,,0.22,state,power_total,8617.65,17.2353,
+2020,AZ,Arizona,1,Electric Utility,10.46,8274361.0,38.82,8396863.0,,0.67,state,end_use,9083.0,18.166,2.136959154464384
+2020,AZ,Arizona,10,Other Industrial,10.58,276925.0,,268555.0,23736.0,0.7,state,end_use,11751.0,23.502,
+2020,AZ,Arizona,98,Electric Power,10.46,8274361.0,38.82,8396863.0,,0.67,state,power_total,9083.0,18.166,2.136959154464384
+2020,CA,California,10,Other Industrial,10.33,1211448.0,81.96,1202942.0,109730.0,0.45,state,end_use,11570.0,23.14,3.541918755401901
+2020,CA,California,3,IPP CHP,,0.0,,0.0,,,state,ipp_component,,,
+2020,CA,California,94,Independent Power Producers,,0.0,,0.0,,,state,ipp_subtotal,,,
+2020,CA,California,98,Electric Power,,0.0,,0.0,,,state,power_total,,,
+2020,CO,Colorado,1,Electric Utility,6.38,11476768.0,31.73,11552117.0,,0.35,state,end_use,9288.85,18.5777,1.7079616960118853
+2020,CO,Colorado,10,Other Industrial,9.38,158775.0,,145773.0,14710.0,0.56,state,end_use,12086.0,24.172,
+2020,CO,Colorado,8,Commercial and Institutional,10.66,1380.0,,1178.0,489.0,0.49,state,end_use,11453.0,22.906,
+2020,CO,Colorado,98,Electric Power,6.38,11476768.0,31.73,11552117.0,,0.35,state,power_total,9288.85,18.5777,1.7079616960118853
+2020,CT,Connecticut,2,IPP Non-CHP,,3658.0,,0.0,,,state,ipp_component,9120.0,18.24,
+2020,CT,Connecticut,94,Independent Power Producers,,3658.0,,0.0,,,state,ipp_subtotal,9120.0,18.24,
+2020,CT,Connecticut,98,Electric Power,,3658.0,,0.0,,,state,power_total,9120.0,18.24,
+2020,DC,District of Columbia,8,Commercial and Institutional,,,,,2710.0,,state,end_use,,,
+2020,DE,Delaware,2,IPP Non-CHP,,75581.0,,0.0,,,state,ipp_component,12940.0,25.88,
+2020,DE,Delaware,3,IPP CHP,,0.0,,0.0,,,state,ipp_component,,,
+2020,DE,Delaware,94,Independent Power Producers,,75581.0,,0.0,,,state,ipp_subtotal,12940.0,25.88,
+2020,DE,Delaware,98,Electric Power,,75581.0,,0.0,,,state,power_total,12940.0,25.88,
+2020,ENC,East North Central,1,Electric Utility,6.85,53673176.13,40.23,54459988.0,,1.55,region,end_use,10037.4,20.0748,2.004005021220635
+2020,ENC,East North Central,10,Other Industrial,7.08,5177398.0,69.99,4971591.0,618582.0,1.75,region,end_use,11290.0,22.58,3.099645704162976
+2020,ENC,East North Central,2,IPP Non-CHP,10.17,33515190.0,,33119921.0,,2.58,region,ipp_component,10492.1,20.9842,
+2020,ENC,East North Central,3,IPP CHP,8.73,2564089.0,,2592186.0,,2.96,region,ipp_component,11357.7,22.7154,
+2020,ENC,East North Central,8,Commercial and Institutional,9.46,130397.0,65.44,131337.0,21922.0,2.76,region,end_use,11511.0,23.022,2.842498479715055
+2020,ENC,East North Central,9,Coke Plants,7.23,8441405.0,136.37,8034404.0,928671.0,0.9,region,end_use,14347.0,28.694,4.752561511117307
+2020,ENC,East North Central,94,Independent Power Producers,10.06,36079279.0,36.37,35712107.0,,2.61,region,ipp_subtotal,10553.6,21.1072,1.723108702243784
+2020,ENC,East North Central,98,Electric Power,8.15,89752455.13,38.7,90172095.0,,1.98,region,power_total,10244.9,20.4898,1.888744643676366
+2020,ESC,East South Central,1,Electric Utility,8.0,41024149.0,41.3,40025073.0,,1.94,region,end_use,10476.3,20.9526,1.9711157565170907
+2020,ESC,East South Central,10,Other Industrial,7.29,2333387.0,99.2,2365884.0,236752.0,1.47,region,end_use,13158.0,26.316,3.7695698434412526
+2020,ESC,East South Central,2,IPP Non-CHP,13.76,2537345.0,,2537345.0,,0.5,region,ipp_component,5136.15,10.2723,
+2020,ESC,East South Central,8,Commercial and Institutional,6.42,2609.0,,2631.0,6699.0,0.78,region,end_use,13075.0,26.15,
+2020,ESC,East South Central,9,Coke Plants,6.27,769913.0,,711214.0,193711.0,0.72,region,end_use,14387.0,28.774,
+2020,ESC,East South Central,94,Independent Power Producers,13.76,2537345.0,,2537345.0,,0.5,region,ipp_subtotal,5136.15,10.2723,
+2020,ESC,East South Central,98,Electric Power,8.17,43561494.0,,42562418.0,,1.9,region,power_total,10165.25,20.3305,
+2020,FL,Florida,1,Electric Utility,8.31,7496395.0,58.8,6690103.0,,2.65,state,end_use,11668.3,23.3366,2.519647249385086
+2020,FL,Florida,10,Other Industrial,10.08,219106.0,103.02,178932.0,56445.0,1.28,state,end_use,12428.0,24.856,4.144673318313485
+2020,FL,Florida,98,Electric Power,8.31,7496395.0,58.8,6690103.0,,2.65,state,power_total,11668.3,23.3366,2.519647249385086
+2020,GA,Georgia,1,Electric Utility,6.75,7340393.0,53.72,7092001.0,,1.51,state,end_use,9963.95,19.9279,2.6957180636193474
+2020,GA,Georgia,10,Other Industrial,9.62,275144.0,91.6,222934.0,44005.0,0.89,state,end_use,12539.0,25.078,3.6526038759071695
+2020,GA,Georgia,98,Electric Power,6.75,7340393.0,53.72,7092001.0,,1.51,state,power_total,9963.95,19.9279,2.6957180636193474
+2020,HI,Hawaii,3,IPP CHP,4.92,669826.0,,725275.0,,0.27,state,ipp_component,9913.55,19.8271,
+2020,HI,Hawaii,94,Independent Power Producers,4.92,669826.0,,725275.0,,0.27,state,ipp_subtotal,9913.55,19.8271,
+2020,HI,Hawaii,98,Electric Power,4.92,669826.0,,725275.0,,0.27,state,power_total,9913.55,19.8271,
+2020,IA,Iowa,1,Electric Utility,4.86,8199079.0,26.49,10806086.0,,0.25,state,end_use,8700.55,17.4011,1.5223175546373504
+2020,IA,Iowa,10,Other Industrial,5.31,2121438.0,,2122467.0,163243.0,0.72,state,end_use,9108.0,18.216,
+2020,IA,Iowa,8,Commercial and Institutional,8.86,76102.0,,81123.0,22082.0,2.77,state,end_use,11180.0,22.36,
+2020,IA,Iowa,98,Electric Power,4.86,8199079.0,26.49,10806086.0,,0.25,state,power_total,8700.55,17.4011,1.5223175546373504
+2020,ID,Idaho,10,Other Industrial,10.1,108286.0,,62796.0,201133.0,0.55,state,end_use,12296.0,24.592,
+2020,IL,Illinois,1,Electric Utility,6.37,947608.0,29.37,3815294.0,,0.95,state,end_use,10532.1,21.0642,1.394308827299399
+2020,IL,Illinois,10,Other Industrial,7.28,2482046.0,43.21,2484538.0,121675.0,2.39,state,end_use,10187.0,20.374,2.1208402866398353
+2020,IL,Illinois,2,IPP Non-CHP,11.65,16852076.0,,18320058.0,,1.31,state,ipp_component,8662.5,17.325,
+2020,IL,Illinois,8,Commercial and Institutional,9.86,80509.0,,82939.0,19871.0,3.3,state,end_use,11333.0,22.666,
+2020,IL,Illinois,9,Coke Plants,7.08,926254.0,,881437.0,126380.0,1.0,state,end_use,14485.0,28.97,
+2020,IL,Illinois,94,Independent Power Producers,11.65,16852076.0,,18320058.0,,1.31,state,ipp_subtotal,8662.5,17.325,
+2020,IL,Illinois,98,Electric Power,10.7,17799684.0,,22135352.0,,1.24,state,power_total,8762.0,17.524,
+2020,IN,Indiana,1,Electric Utility,8.84,21678729.13,46.3,20077244.0,,2.69,state,end_use,10856.3,21.7126,2.132402383869274
+2020,IN,Indiana,10,Other Industrial,7.05,1421818.0,102.18,1322677.0,210751.0,1.1,state,end_use,13154.0,26.308,3.8839896609396383
+2020,IN,Indiana,2,IPP Non-CHP,,0.0,,0.0,,,state,ipp_component,,,
+2020,IN,Indiana,3,IPP CHP,8.94,2354972.0,,2358992.0,,3.18,state,ipp_component,11365.2,22.7304,
+2020,IN,Indiana,8,Commercial and Institutional,9.17,34641.0,,35490.0,2051.0,2.21,state,end_use,11251.0,22.502,
+2020,IN,Indiana,9,Coke Plants,7.23,3697577.0,,3707369.0,230803.0,0.88,state,end_use,14455.0,28.91,
+2020,IN,Indiana,94,Independent Power Producers,8.94,2354972.0,,2358992.0,,3.18,state,ipp_subtotal,11365.2,22.7304,
+2020,IN,Indiana,98,Electric Power,8.85,24033701.13,,22436236.0,,2.75,state,power_total,10906.15,21.8123,
+2020,KS,Kansas,1,Electric Utility,5.05,11263098.0,26.52,11239352.0,,0.35,state,end_use,8548.15,17.0963,1.5512128355258155
+2020,KS,Kansas,10,Other Industrial,12.29,56372.0,,45435.0,7702.0,1.99,state,end_use,10842.0,21.684,
+2020,KS,Kansas,98,Electric Power,5.05,11263098.0,26.52,11239352.0,,0.35,state,power_total,8548.15,17.0963,1.5512128355258155
+2020,KY,Kentucky,1,Electric Utility,8.76,20808581.0,41.78,22665909.0,,2.57,state,end_use,11215.75,22.4315,1.8625593473463657
+2020,KY,Kentucky,10,Other Industrial,8.05,591041.0,105.38,622089.0,66021.0,1.33,state,end_use,13053.0,26.106,4.036619934114762
+2020,KY,Kentucky,8,Commercial and Institutional,6.42,2609.0,,2631.0,6699.0,0.78,state,end_use,13075.0,26.15,
+2020,KY,Kentucky,98,Electric Power,8.76,20808581.0,41.78,22665909.0,,2.57,state,power_total,11215.75,22.4315,1.8625593473463657
+2020,LA,Louisiana,1,Electric Utility,7.54,2512349.0,83.27,2272949.0,,0.88,state,end_use,8279.45,16.5589,5.028715675558159
+2020,LA,Louisiana,10,Other Industrial,6.01,218602.0,,212136.0,3217.0,0.54,state,end_use,7641.0,15.282,
+2020,LA,Louisiana,2,IPP Non-CHP,4.83,231059.0,,1310801.0,,0.3,state,ipp_component,8170.999999999999,16.342,
+2020,LA,Louisiana,94,Independent Power Producers,4.83,231059.0,,1310801.0,,0.3,state,ipp_subtotal,8170.999999999999,16.342,
+2020,LA,Louisiana,98,Electric Power,6.57,2743408.0,,3583750.0,,0.67,state,power_total,8270.300000000001,16.5406,
+2020,MAT,Middle Atlantic,1,Electric Utility,8.54,0.0,75.5,37177.0,,3.2,region,end_use,,,
+2020,MAT,Middle Atlantic,10,Other Industrial,10.64,647658.0,86.65,631661.0,212017.0,1.74,region,end_use,12625.0,25.25,3.431683168316832
+2020,MAT,Middle Atlantic,2,IPP Non-CHP,15.68,11403008.0,,9416623.0,,2.65,region,ipp_component,10383.85,20.7677,
+2020,MAT,Middle Atlantic,3,IPP CHP,36.75,2755472.0,,2597110.0,,0.89,region,ipp_component,5992.25,11.9845,
+2020,MAT,Middle Atlantic,8,Commercial and Institutional,6.95,8721.0,129.33,7614.0,27714.0,0.64,region,end_use,12837.0,25.674,5.037391913998598
+2020,MAT,Middle Atlantic,9,Coke Plants,6.87,3667070.0,,3581953.0,364116.0,1.05,region,end_use,14407.0,28.814,
+2020,MAT,Middle Atlantic,94,Independent Power Producers,18.59,14158480.0,33.36,12013733.0,,2.41,region,ipp_subtotal,9529.2,19.0584,1.7504092683541117
+2020,MAT,Middle Atlantic,98,Electric Power,18.55,14158480.0,33.49,12050910.0,,2.41,region,power_total,9529.2,19.0584,1.7572304075893046
+2020,MD,Maryland,10,Other Industrial,22.69,392531.0,,389339.0,6249.0,1.46,state,end_use,11506.0,23.012,
+2020,MD,Maryland,2,IPP Non-CHP,7.62,1136431.0,,837623.0,,2.56,state,ipp_component,12926.0,25.852,
+2020,MD,Maryland,3,IPP CHP,21.13,509606.0,,503606.0,,1.72,state,ipp_component,11067.6,22.1352,
+2020,MD,Maryland,94,Independent Power Producers,12.23,1646037.0,,1341229.0,,2.27,state,ipp_subtotal,12350.65,24.7013,
+2020,MD,Maryland,98,Electric Power,12.23,1646037.0,,1341229.0,,2.27,state,power_total,12350.65,24.7013,
+2020,ME,Maine,10,Other Industrial,5.74,13354.0,,12538.0,,0.77,state,end_use,12336.0,24.672,
+2020,ME,Maine,2,IPP Non-CHP,,0.0,,0.0,,,state,ipp_component,,,
+2020,ME,Maine,3,IPP CHP,6.07,58042.0,,58042.0,,0.59,state,ipp_component,11434.45,22.8689,
+2020,ME,Maine,94,Independent Power Producers,6.07,58042.0,,58042.0,,0.59,state,ipp_subtotal,11434.45,22.8689,
+2020,ME,Maine,98,Electric Power,6.07,58042.0,,58042.0,,0.59,state,power_total,11434.45,22.8689,
+2020,MI,Michigan,1,Electric Utility,5.11,15710014.0,38.33,15244627.0,,0.56,state,end_use,9492.2,18.9844,2.0190261477844964
+2020,MI,Michigan,10,Other Industrial,7.42,292598.0,91.78,219175.0,140226.0,0.57,state,end_use,11390.0,22.78,4.028972783143108
+2020,MI,Michigan,3,IPP CHP,6.81,209117.0,,233194.0,,0.87,state,ipp_component,11273.35,22.5467,
+2020,MI,Michigan,9,Coke Plants,7.77,933260.0,,689648.0,278096.0,0.7,state,end_use,13288.0,26.576,
+2020,MI,Michigan,94,Independent Power Producers,6.81,209117.0,,233194.0,,0.87,state,ipp_subtotal,11273.35,22.5467,
+2020,MI,Michigan,98,Electric Power,5.14,15919131.0,,15477821.0,,0.57,state,power_total,9515.6,19.0312,
+2020,MN,Minnesota,1,Electric Utility,6.0,8467051.0,34.49,7894008.0,,0.35,state,end_use,8796.25,17.5925,1.9604945289185733
+2020,MN,Minnesota,10,Other Industrial,4.17,733626.0,49.14,735962.0,37723.0,0.35,state,end_use,9318.0,18.636,2.6368319381841596
+2020,MN,Minnesota,8,Commercial and Institutional,4.63,4050.0,,5310.0,8746.0,0.29,state,end_use,9056.0,18.112,
+2020,MN,Minnesota,98,Electric Power,6.0,8467051.0,34.49,7894008.0,,0.35,state,power_total,8796.25,17.5925,1.9604945289185733
+2020,MO,Missouri,1,Electric Utility,4.82,30467658.0,27.55,29912758.0,,0.27,state,end_use,8747.0,17.494,1.5748256545101178
+2020,MO,Missouri,10,Other Industrial,8.63,809340.0,50.13,802554.0,44698.0,2.32,state,end_use,11243.0,22.486,2.2293871742417504
+2020,MO,Missouri,3,IPP CHP,,0.0,,0.0,,,state,ipp_component,,,
+2020,MO,Missouri,8,Commercial and Institutional,8.14,6102.0,,6457.0,1176.0,2.98,state,end_use,11427.0,22.854,
+2020,MO,Missouri,94,Independent Power Producers,,0.0,,0.0,,,state,ipp_subtotal,,,
+2020,MO,Missouri,98,Electric Power,4.82,30467658.0,27.55,29912758.0,,0.27,state,power_total,8747.0,17.494,1.5748256545101178
+2020,MS,Mississippi,1,Electric Utility,5.59,1451244.0,48.16,1377723.0,,0.48,state,end_use,8915.1,17.8302,2.701035322093975
+2020,MS,Mississippi,10,Other Industrial,3.28,75696.0,,80040.0,8379.0,0.81,state,end_use,14844.0,29.688,
+2020,MS,Mississippi,2,IPP Non-CHP,13.76,2537345.0,,2537345.0,,0.5,state,ipp_component,5136.15,10.2723,
+2020,MS,Mississippi,94,Independent Power Producers,13.76,2537345.0,,2537345.0,,0.5,state,ipp_subtotal,5136.15,10.2723,
+2020,MS,Mississippi,98,Electric Power,9.74,3988589.0,,3915068.0,,0.49,state,power_total,6511.1,13.0222,
+2020,MT,Montana,1,Electric Utility,9.29,229467.0,30.01,217174.0,,0.57,state,end_use,6645.8,13.2916,2.257816967107045
+2020,MT,Montana,10,Other Industrial,5.42,201467.0,,207104.0,72648.0,0.39,state,end_use,8875.0,17.75,
+2020,MT,Montana,2,IPP Non-CHP,9.22,5394391.0,,5142261.0,,0.69,state,ipp_component,8550.0,17.1,
+2020,MT,Montana,8,Commercial and Institutional,8.47,693.0,,2026.0,3053.0,0.53,state,end_use,11097.0,22.194,
+2020,MT,Montana,94,Independent Power Producers,9.22,5394391.0,,5142261.0,,0.69,state,ipp_subtotal,8550.0,17.1,
+2020,MT,Montana,98,Electric Power,9.23,5623858.0,,5359435.0,,0.69,state,power_total,8472.35,16.9447,
+2020,MTN,Mountain,1,Electric Utility,10.2,58814198.0,36.84,60425280.0,,0.51,region,end_use,9386.3,18.7726,1.9624346121474916
+2020,MTN,Mountain,10,Other Industrial,7.19,2575599.0,60.5,2554357.0,529704.0,0.52,region,end_use,10649.0,21.298,2.840642313832285
+2020,MTN,Mountain,2,IPP Non-CHP,9.68,6841849.0,,6581722.0,,0.63,region,ipp_component,8438.3,16.8766,
+2020,MTN,Mountain,8,Commercial and Institutional,10.37,4138.0,,5269.0,3642.0,0.51,region,end_use,11235.0,22.47,
+2020,MTN,Mountain,94,Independent Power Producers,9.68,6841849.0,,6581722.0,,0.63,region,ipp_subtotal,8438.3,16.8766,
+2020,MTN,Mountain,98,Electric Power,10.15,65656047.0,,67007002.0,,0.52,region,power_total,9287.55,18.5751,
+2020,NC,North Carolina,1,Electric Utility,9.39,8509367.0,63.44,7754563.0,,1.64,state,end_use,12431.1,24.8622,2.5516647762466715
+2020,NC,North Carolina,10,Other Industrial,7.67,347316.0,96.5,356024.0,65330.0,0.93,state,end_use,13466.0,26.932,3.5830981731768903
+2020,NC,North Carolina,2,IPP Non-CHP,6.05,27184.0,,26907.0,,0.74,state,ipp_component,13131.55,26.2631,
+2020,NC,North Carolina,3,IPP CHP,6.04,38588.0,,35894.0,,0.73,state,ipp_component,13180.3,26.3606,
+2020,NC,North Carolina,8,Commercial and Institutional,7.48,48365.0,,45034.0,27864.0,1.78,state,end_use,13014.0,26.028,
+2020,NC,North Carolina,94,Independent Power Producers,6.05,65772.0,,62801.0,,0.73,state,ipp_subtotal,13160.15,26.3203,
+2020,NC,North Carolina,98,Electric Power,9.36,8575139.0,,7817364.0,,1.63,state,power_total,12436.7,24.8734,
+2020,ND,North Dakota,1,Electric Utility,9.86,20480003.0,21.06,21023160.0,,0.78,state,end_use,6764.1,13.5282,1.5567481261365148
+2020,ND,North Dakota,10,Other Industrial,6.94,5930255.0,19.44,5945974.0,170584.0,0.86,state,end_use,7222.0,14.444,1.3458875657712546
+2020,ND,North Dakota,8,Commercial and Institutional,7.0,29977.0,,25427.0,6584.0,0.5,state,end_use,9020.0,18.04,
+2020,ND,North Dakota,98,Electric Power,9.86,20480003.0,21.06,21023160.0,,0.78,state,power_total,6764.1,13.5282,1.5567481261365148
+2020,NE,Nebraska,1,Electric Utility,4.7,11587128.0,21.18,11876088.0,,0.24,state,end_use,8569.3,17.1386,1.2358068920448577
+2020,NE,Nebraska,10,Other Industrial,4.56,869780.0,24.28,860070.0,35426.0,0.22,state,end_use,8715.0,17.43,1.3930005737234654
+2020,NE,Nebraska,98,Electric Power,4.7,11587128.0,21.18,11876088.0,,0.24,state,power_total,8569.3,17.1386,1.2358068920448577
+2020,NEW,New England,1,Electric Utility,8.01,57545.0,80.97,88525.0,,3.03,region,end_use,13189.2,26.3784,3.069556910199254
+2020,NEW,New England,10,Other Industrial,5.74,13354.0,,12538.0,,0.77,region,end_use,12336.0,24.672,
+2020,NEW,New England,2,IPP Non-CHP,,3658.0,,0.0,,,region,ipp_component,9120.0,18.24,
+2020,NEW,New England,3,IPP CHP,6.07,58042.0,,58042.0,,0.59,region,ipp_component,11434.45,22.8689,
+2020,NEW,New England,94,Independent Power Producers,6.07,61700.0,,58042.0,,0.59,region,ipp_subtotal,11297.2,22.5944,
+2020,NEW,New England,98,Electric Power,7.21,119245.0,,146567.0,,2.02,region,power_total,12210.25,24.4205,
+2020,NH,New Hampshire,1,Electric Utility,8.01,57545.0,80.97,88525.0,,3.03,state,end_use,13189.2,26.3784,3.069556910199254
+2020,NH,New Hampshire,98,Electric Power,8.01,57545.0,80.97,88525.0,,3.03,state,power_total,13189.2,26.3784,3.069556910199254
+2020,NJ,New Jersey,1,Electric Utility,,0.0,,0.0,,,state,end_use,,,
+2020,NJ,New Jersey,2,IPP Non-CHP,,0.0,,0.0,,,state,ipp_component,,,
+2020,NJ,New Jersey,3,IPP CHP,7.72,472639.0,,494121.0,,1.69,state,ipp_component,12847.1,25.6942,
+2020,NJ,New Jersey,94,Independent Power Producers,7.72,472639.0,,494121.0,,1.69,state,ipp_subtotal,12847.1,25.6942,
+2020,NJ,New Jersey,98,Electric Power,7.72,472639.0,,494121.0,,1.69,state,power_total,12847.1,25.6942,
+2020,NM,New Mexico,1,Electric Utility,21.72,7442666.0,47.52,7356214.0,,0.78,state,end_use,9231.35,18.4627,2.573838062688556
+2020,NM,New Mexico,10,Other Industrial,10.49,63645.0,,62976.0,3323.0,0.69,state,end_use,12228.0,24.456,
+2020,NM,New Mexico,98,Electric Power,21.72,7442666.0,47.52,7356214.0,,0.78,state,power_total,9231.35,18.4627,2.573838062688556
+2020,NV,Nevada,1,Electric Utility,9.67,507286.0,52.9,496346.0,,0.41,state,end_use,10965.4,21.9308,2.412132708337133
+2020,NV,Nevada,10,Other Industrial,9.05,248976.0,75.6,272299.0,54059.0,0.42,state,end_use,11846.0,23.692,3.1909505318250884
+2020,NV,Nevada,2,IPP Non-CHP,5.03,598207.0,,590210.0,,0.28,state,ipp_component,8988.45,17.9769,
+2020,NV,Nevada,94,Independent Power Producers,5.03,598207.0,,590210.0,,0.28,state,ipp_subtotal,8988.45,17.9769,
+2020,NV,Nevada,98,Electric Power,7.42,1105493.0,,1086556.0,,0.35,state,power_total,9895.6,19.7912,
+2020,NY,New York,1,Electric Utility,,0.0,,0.0,,,state,end_use,,,
+2020,NY,New York,10,Other Industrial,9.14,158071.0,,143390.0,62780.0,2.17,state,end_use,12760.0,25.52,
+2020,NY,New York,2,IPP Non-CHP,,63711.0,,0.0,,,state,ipp_component,12923.7,25.8474,
+2020,NY,New York,94,Independent Power Producers,,63711.0,,0.0,,,state,ipp_subtotal,12923.7,25.8474,
+2020,NY,New York,98,Electric Power,,63711.0,,0.0,,,state,power_total,12923.7,25.8474,
+2020,OH,Ohio,1,Electric Utility,8.83,2098069.0,47.26,1999708.0,,3.65,state,end_use,12447.95,24.8959,1.898304540104997
+2020,OH,Ohio,10,Other Industrial,6.64,393026.0,103.27,401486.0,28786.0,1.78,state,end_use,12727.0,25.454,4.05712265262827
+2020,OH,Ohio,2,IPP Non-CHP,8.9,16663114.0,,14799863.0,,3.67,state,ipp_component,12342.45,24.6849,
+2020,OH,Ohio,3,IPP CHP,,0.0,,0.0,,,state,ipp_component,,,
+2020,OH,Ohio,9,Coke Plants,7.15,2884314.0,135.47,2755950.0,293392.0,0.94,state,end_use,14424.0,28.848,4.695992789794786
+2020,OH,Ohio,94,Independent Power Producers,8.9,16663114.0,43.75,14799863.0,,3.67,state,ipp_subtotal,12342.45,24.6849,1.7723385551490993
+2020,OH,Ohio,98,Electric Power,8.89,18761183.0,44.17,16799571.0,,3.66,state,power_total,12354.25,24.7085,1.7876439282028451
+2020,OK,Oklahoma,1,Electric Utility,4.78,3970163.0,27.49,3704199.0,,0.2,state,end_use,8437.7,16.8754,1.6289984237410668
+2020,OK,Oklahoma,10,Other Industrial,6.65,157216.0,115.78,130069.0,79119.0,0.72,state,end_use,11820.0,23.64,4.897631133671743
+2020,OK,Oklahoma,98,Electric Power,4.78,3970163.0,27.49,3704199.0,,0.2,state,power_total,8437.7,16.8754,1.6289984237410668
+2020,OR,Oregon,1,Electric Utility,4.59,985290.0,37.61,525185.0,,0.25,state,end_use,8614.65,17.2293,2.1829093462880094
+2020,OR,Oregon,10,Other Industrial,9.39,35099.0,,30878.0,1822.0,0.4,state,end_use,11898.0,23.796,
+2020,OR,Oregon,98,Electric Power,4.59,985290.0,37.61,525185.0,,0.25,state,power_total,8614.65,17.2293,2.1829093462880094
+2020,PA,Pennsylvania,1,Electric Utility,8.54,0.0,75.5,37177.0,,3.2,state,end_use,,,
+2020,PA,Pennsylvania,10,Other Industrial,11.09,489587.0,,488271.0,149237.0,1.62,state,end_use,12585.0,25.17,
+2020,PA,Pennsylvania,2,IPP Non-CHP,15.68,11339297.0,,9416623.0,,2.65,state,ipp_component,10369.6,20.7392,
+2020,PA,Pennsylvania,3,IPP CHP,55.8,2282833.0,,2102989.0,,0.37,state,ipp_component,4573.0,9.146,
+2020,PA,Pennsylvania,8,Commercial and Institutional,6.95,8721.0,129.33,7614.0,27714.0,0.64,state,end_use,12837.0,25.674,5.037391913998598
+2020,PA,Pennsylvania,9,Coke Plants,6.87,3667070.0,,3581953.0,364116.0,1.05,state,end_use,14407.0,28.814,
+2020,PA,Pennsylvania,94,Independent Power Producers,19.22,13622130.0,,11519612.0,,2.45,state,ipp_subtotal,9398.2,18.7964,
+2020,PA,Pennsylvania,98,Electric Power,19.18,13622130.0,,11556789.0,,2.46,state,power_total,9398.2,18.7964,
+2020,PCC,Pacific Contiguous,1,Electric Utility,4.59,985290.0,37.61,525185.0,,0.25,region,end_use,8614.65,17.2293,2.1829093462880094
+2020,PCC,Pacific Contiguous,10,Other Industrial,9.93,1328485.0,82.09,1312873.0,116003.0,0.44,region,end_use,11450.0,22.9,3.5847161572052406
+2020,PCC,Pacific Contiguous,2,IPP Non-CHP,8.36,3476488.0,,3525648.0,,0.4,region,ipp_component,8326.7,16.6534,
+2020,PCC,Pacific Contiguous,3,IPP CHP,,0.0,,0.0,,,region,ipp_component,,,
+2020,PCC,Pacific Contiguous,94,Independent Power Producers,8.36,3476488.0,,3525648.0,,0.4,region,ipp_subtotal,8326.7,16.6534,
+2020,PCC,Pacific Contiguous,98,Electric Power,7.87,4461778.0,,4050833.0,,0.38,region,power_total,8390.25,16.7805,
+2020,PCN,Pacific Noncontiguous,1,Electric Utility,9.43,556171.0,49.26,347822.0,,0.15,region,end_use,7265.6,14.5312,3.389947148205241
+2020,PCN,Pacific Noncontiguous,10,Other Industrial,,1315.0,,1315.0,,,region,end_use,,,
+2020,PCN,Pacific Noncontiguous,3,IPP CHP,4.92,890674.0,,725275.0,,0.27,region,ipp_component,9318.0,18.636,
+2020,PCN,Pacific Noncontiguous,8,Commercial and Institutional,7.53,472932.0,,464609.0,109294.0,0.16,region,end_use,7514.0,15.028,
+2020,PCN,Pacific Noncontiguous,94,Independent Power Producers,4.92,890674.0,,725275.0,,0.27,region,ipp_subtotal,9318.0,18.636,
+2020,PCN,Pacific Noncontiguous,98,Electric Power,6.08,1446845.0,,1073097.0,,0.24,region,power_total,8529.05,17.0581,
+2020,PR,Puerto Rico,2,IPP Non-CHP,5.75,1500174.0,,1644063.0,,0.51,territory,ipp_component,10800.0,21.6,
+2020,PR,Puerto Rico,94,Independent Power Producers,5.75,1500174.0,,1644063.0,,0.51,territory,ipp_subtotal,10800.0,21.6,
+2020,PR,Puerto Rico,98,Electric Power,5.75,1500174.0,,1644063.0,,0.51,territory,power_total,10800.0,21.6,
+2020,RI,Rhode Island,2,IPP Non-CHP,,0.0,,0.0,,,state,ipp_component,,,
+2020,RI,Rhode Island,94,Independent Power Producers,,0.0,,0.0,,,state,ipp_subtotal,,,
+2020,RI,Rhode Island,98,Electric Power,,0.0,,0.0,,,state,power_total,,,
+2020,SAT,South Atlantic,1,Electric Utility,9.2,46752223.0,58.32,43806042.0,,2.31,region,end_use,11861.55,23.7231,2.45836336735081
+2020,SAT,South Atlantic,10,Other Industrial,11.26,2047873.0,94.21,1949026.0,355345.0,1.21,region,end_use,12821.0,25.642,3.6740503860853284
+2020,SAT,South Atlantic,2,IPP Non-CHP,10.33,5588268.0,,5015964.0,,3.12,region,ipp_component,12272.4,24.5448,
+2020,SAT,South Atlantic,3,IPP CHP,16.91,753047.0,,729882.0,,1.5,region,ipp_component,11569.45,23.1389,
+2020,SAT,South Atlantic,8,Commercial and Institutional,7.28,58083.0,117.9,56603.0,42250.0,1.6,region,end_use,13103.0,26.206,4.498969701595055
+2020,SAT,South Atlantic,9,Coke Plants,7.23,1535208.0,,1498327.0,167367.0,0.9,region,end_use,14293.0,28.586,
+2020,SAT,South Atlantic,94,Independent Power Producers,11.14,6341315.0,46.42,5745846.0,,2.92,region,ipp_subtotal,12188.9,24.3778,1.9041915185127452
+2020,SAT,South Atlantic,98,Electric Power,9.43,53093538.0,56.94,49551888.0,,2.38,region,power_total,11900.65,23.8013,2.392306302596917
+2020,SC,South Carolina,1,Electric Utility,8.97,5367600.0,77.22,4322975.0,,1.77,state,end_use,12005.2,24.0104,3.216106353913304
+2020,SC,South Carolina,10,Other Industrial,8.57,135913.0,101.06,133036.0,45230.0,1.45,state,end_use,12984.0,25.968,3.8917128773875542
+2020,SC,South Carolina,3,IPP CHP,9.43,187863.0,,190382.0,,1.14,state,ipp_component,12967.25,25.9345,
+2020,SC,South Carolina,94,Independent Power Producers,9.43,187863.0,,190382.0,,1.14,state,ipp_subtotal,12967.25,25.9345,
+2020,SC,South Carolina,98,Electric Power,8.99,5555463.0,,4513357.0,,1.75,state,power_total,12037.75,24.0755,
+2020,SD,South Dakota,1,Electric Utility,5.22,1129699.0,30.9,1049584.0,,0.64,state,end_use,8161.949999999999,16.3239,1.8929299983459835
+2020,SD,South Dakota,10,Other Industrial,6.28,192574.0,,188922.0,39399.0,0.57,state,end_use,8441.0,16.882,
+2020,SD,South Dakota,98,Electric Power,5.22,1129699.0,30.9,1049584.0,,0.64,state,power_total,8161.949999999999,16.3239,1.8929299983459835
+2020,TN,Tennessee,1,Electric Utility,8.3,6868786.0,42.77,4225777.0,,2.45,state,end_use,10698.75,21.3975,1.9988316392101881
+2020,TN,Tennessee,10,Other Industrial,6.56,1111846.0,,1102631.0,85363.0,1.63,state,end_use,13100.0,26.2,
+2020,TN,Tennessee,98,Electric Power,8.3,6868786.0,42.77,4225777.0,,2.45,state,power_total,10698.75,21.3975,1.9988316392101881
+2020,TX,Texas,1,Electric Utility,7.82,19747784.0,32.24,20248685.0,,0.5,state,end_use,7870.95,15.7419,2.0480374033629998
+2020,TX,Texas,10,Other Industrial,9.19,296322.0,86.95,313628.0,164986.0,0.6,state,end_use,10340.0,20.68,4.204545454545455
+2020,TX,Texas,2,IPP Non-CHP,8.96,36321190.0,,35423742.0,,0.52,state,ipp_component,7651.9,15.3038,
+2020,TX,Texas,94,Independent Power Producers,8.96,36321190.0,,35423742.0,,0.52,state,ipp_subtotal,7651.9,15.3038,
+2020,TX,Texas,98,Electric Power,8.54,56068974.0,,55672427.0,,0.51,state,power_total,7729.05,15.4581,
+2020,US,U.S. Total,1,Electric Utility,7.75,326987204.13,37.49,327487913.0,107964767.0,1.15,national,end_use,9531.1,19.0622,1.9667194762409377
+2020,US,U.S. Total,10,Other Industrial,7.39,25659546.0,57.18,25310903.0,2847515.0,1.08,national,end_use,10213.0,20.426,2.7993733476941154
+2020,US,U.S. Total,2,IPP Non-CHP,10.23,101818321.0,30.85,98924520.0,22571473.0,1.71,national,ipp_component,9180.15,18.3603,1.6802557692412434
+2020,US,U.S. Total,3,IPP CHP,16.64,7021324.0,47.67,6702495.0,894433.0,1.89,national,ipp_component,9016.65,18.0333,2.6434429638502106
+2020,US,U.S. Total,8,Commercial and Institutional,7.95,793111.0,84.52,786380.0,250109.0,1.01,national,end_use,9149.0,18.298,4.619084052901957
+2020,US,U.S. Total,9,Coke Plants,7.09,14413596.0,127.16,13825898.0,1653865.0,0.93,national,end_use,14359.0,28.718,4.427884950205446
+2020,US,U.S. Total,94,Independent Power Producers,10.64,108839645.0,31.92,105627015.0,23465906.0,1.72,national,ipp_subtotal,9169.6,18.3392,1.7405339382306753
+2020,US,U.S. Total,98,Electric Power,8.43,435826849.13,36.13,433114928.0,131430673.0,1.28,national,power_total,9440.85,18.8817,1.9134929587907872
+2020,UT,Utah,1,Electric Utility,11.67,10544287.0,44.99,12133432.0,,0.54,state,end_use,11059.95,22.1199,2.03391516236511
+2020,UT,Utah,10,Other Industrial,10.62,306288.0,53.73,301049.0,27591.0,0.41,state,end_use,11592.0,23.184,2.3175465838509313
+2020,UT,Utah,2,IPP Non-CHP,41.98,322189.0,,322189.0,,0.68,state,ipp_component,6115.65,12.2313,
+2020,UT,Utah,94,Independent Power Producers,41.98,322189.0,,322189.0,,0.68,state,ipp_subtotal,6115.65,12.2313,
+2020,UT,Utah,98,Electric Power,12.11,10866476.0,44.99,12455621.0,,0.54,state,power_total,10913.35,21.8267,2.0612369254170355
+2020,VA,Virginia,1,Electric Utility,17.43,1773947.0,52.94,1281890.0,,1.52,state,end_use,10968.85,21.9377,2.4131973725595666
+2020,VA,Virginia,10,Other Industrial,8.34,356456.0,91.37,349012.0,53039.0,0.84,state,end_use,13070.0,26.14,3.4954093343534813
+2020,VA,Virginia,2,IPP Non-CHP,,40489.0,,0.0,,,state,ipp_component,11920.6,23.8412,
+2020,VA,Virginia,3,IPP CHP,,0.0,,0.0,,,state,ipp_component,,,
+2020,VA,Virginia,8,Commercial and Institutional,6.5,9718.0,,11569.0,11676.0,0.89,state,end_use,13449.0,26.898,
+2020,VA,Virginia,9,Coke Plants,7.17,896297.0,,887889.0,45615.0,0.83,state,end_use,14490.0,28.98,
+2020,VA,Virginia,94,Independent Power Producers,,40489.0,,0.0,,,state,ipp_subtotal,11920.6,23.8412,
+2020,VA,Virginia,98,Electric Power,17.43,1814436.0,52.94,1281890.0,,1.52,state,power_total,10990.1,21.9802,2.408531314546728
+2020,WA,Washington,10,Other Industrial,4.08,81938.0,,79053.0,4451.0,0.33,state,end_use,9446.0,18.892,
+2020,WA,Washington,2,IPP Non-CHP,8.36,3476488.0,,3525648.0,,0.4,state,ipp_component,8326.7,16.6534,
+2020,WA,Washington,94,Independent Power Producers,8.36,3476488.0,,3525648.0,,0.4,state,ipp_subtotal,8326.7,16.6534,
+2020,WA,Washington,98,Electric Power,8.36,3476488.0,,3525648.0,,0.4,state,power_total,8326.7,16.6534,
+2020,WI,Wisconsin,1,Electric Utility,4.95,13238756.0,35.31,13323115.0,,0.36,state,end_use,8925.95,17.8519,1.9779407233963893
+2020,WI,Wisconsin,10,Other Industrial,6.49,587910.0,80.66,543715.0,117144.0,0.84,state,end_use,10692.0,21.384,3.7719790497568275
+2020,WI,Wisconsin,8,Commercial and Institutional,7.65,15247.0,159.13,12908.0,,0.78,state,end_use,13375.0,26.75,5.948785046728972
+2020,WI,Wisconsin,98,Electric Power,4.95,13238756.0,35.31,13323115.0,,0.36,state,power_total,8925.95,17.8519,1.9779407233963893
+2020,WNC,West North Central,1,Electric Utility,5.84,91593716.0,25.67,93801036.0,,0.38,region,end_use,8249.9,16.4998,1.5557764336537414
+2020,WNC,West North Central,10,Other Industrial,6.37,10713385.0,27.69,10701384.0,498775.0,0.85,region,end_use,8199.0,16.398,1.6886205634833518
+2020,WNC,West North Central,3,IPP CHP,,0.0,,0.0,,,region,ipp_component,,,
+2020,WNC,West North Central,8,Commercial and Institutional,8.23,116231.0,82.38,118317.0,38588.0,2.18,region,end_use,10634.0,21.268,3.873424863644912
+2020,WNC,West North Central,94,Independent Power Producers,,0.0,,0.0,,,region,ipp_subtotal,,,
+2020,WNC,West North Central,98,Electric Power,5.84,91593716.0,25.67,93801036.0,,0.38,region,power_total,8249.9,16.4998,1.5557764336537414
+2020,WSC,West South Central,1,Electric Utility,6.68,33530736.0,35.26,33971785.0,,0.43,region,end_use,8127.050000000001,16.2541,2.16929882306618
+2020,WSC,West South Central,10,Other Industrial,7.85,821092.0,81.72,810274.0,280337.0,0.71,region,end_use,10077.0,20.154,4.054778207799941
+2020,WSC,West South Central,2,IPP Non-CHP,8.6,38452515.0,,38727297.0,,0.49,region,ipp_component,7706.4,15.4128,
+2020,WSC,West South Central,94,Independent Power Producers,8.6,38452515.0,24.88,38727297.0,,0.49,region,ipp_subtotal,7706.4,15.4128,1.6142427073601162
+2020,WSC,West South Central,98,Electric Power,7.68,71983251.0,29.73,72699082.0,,0.46,region,power_total,7902.35,15.8047,1.881086006061488
+2020,WV,West Virginia,1,Electric Utility,9.8,16264521.0,53.21,16664510.0,,2.95,state,end_use,12559.0,25.118,2.1184011465881043
+2020,WV,West Virginia,10,Other Industrial,7.37,321407.0,,319749.0,85047.0,1.7,state,end_use,13804.0,27.608,
+2020,WV,West Virginia,2,IPP Non-CHP,10.95,4308583.0,,4151434.0,,3.26,state,ipp_component,12086.15,24.1723,
+2020,WV,West Virginia,3,IPP CHP,,16990.0,,0.0,,,state,ipp_component,7508.5,15.017,
+2020,WV,West Virginia,9,Coke Plants,7.31,638911.0,,610438.0,121752.0,1.01,state,end_use,14007.0,28.014,
+2020,WV,West Virginia,94,Independent Power Producers,10.95,4325573.0,36.35,4151434.0,,3.26,state,ipp_subtotal,12068.2,24.1364,1.5060240963855422
+2020,WV,West Virginia,98,Electric Power,10.02,20590094.0,49.85,20815944.0,,3.01,state,power_total,12455.9,24.9118,2.0010597387583395
+2020,WY,Wyoming,1,Electric Utility,6.88,20339363.0,29.85,20273134.0,,0.42,state,end_use,8745.3,17.4906,1.7066309903605366
+2020,WY,Wyoming,10,Other Industrial,4.93,1211237.0,48.18,1233805.0,132504.0,0.55,state,end_use,9879.0,19.758,2.438505921651989
+2020,WY,Wyoming,2,IPP Non-CHP,5.27,527062.0,,527062.0,,0.35,state,ipp_component,8090.55,16.1811,
+2020,WY,Wyoming,8,Commercial and Institutional,12.06,2065.0,,2065.0,100.0,0.5,state,end_use,11246.0,22.492,
+2020,WY,Wyoming,94,Independent Power Producers,5.27,527062.0,,527062.0,,0.35,state,ipp_subtotal,8090.55,16.1811,
+2020,WY,Wyoming,98,Electric Power,6.84,20866425.0,,20800196.0,,0.42,state,power_total,8728.75,17.4575,
+2021,90,Pacific,1,Electric Utility,6.58,556326.0,,353054.0,,0.13,pacific_subtotal,end_use,7368.95,14.7379,
+2021,90,Pacific,2,IPP Non-CHP,8.15,2119522.0,,1772844.0,,0.38,pacific_subtotal,ipp_component,8366.250000000002,16.732500000000005,
+2021,90,Pacific,3,IPP CHP,5.88,838639.0,,597191.0,,0.26,pacific_subtotal,ipp_component,9343.65,18.6873,
+2021,90,Pacific,94,Independent Power Producers,7.5,2958161.0,,2370035.0,,0.35,pacific_subtotal,ipp_subtotal,8643.35,17.2867,
+2021,90,Pacific,98,Electric Power,7.4,3514487.0,,2723089.0,,0.32,pacific_subtotal,power_total,8441.6,16.8832,
+2021,AK,Alaska,1,Electric Utility,6.58,556326.0,,353054.0,,0.13,state,end_use,7368.95,14.7379,
+2021,AK,Alaska,10,Other Industrial,,1444.0,,1444.0,,,state,end_use,,,
+2021,AK,Alaska,3,IPP CHP,,204310.0,,0.0,,,state,ipp_component,7601.4,15.2028,
+2021,AK,Alaska,8,Commercial and Institutional,5.38,491944.0,,453554.0,53510.0,0.13,state,end_use,7488.0,14.976,
+2021,AK,Alaska,94,Independent Power Producers,,204310.0,,0.0,,,state,ipp_subtotal,7601.4,15.2028,
+2021,AK,Alaska,98,Electric Power,6.58,760636.0,,353054.0,,0.13,state,power_total,7431.4,14.8628,
+2021,AL,Alabama,1,Electric Utility,6.41,14588460.0,,13189937.0,,0.41,state,end_use,9264.5,18.529,
+2021,AL,Alabama,10,Other Industrial,9.82,691997.0,89.64,682677.0,59141.0,1.56,state,end_use,12875.0,25.75,3.4811650485436894
+2021,AL,Alabama,9,Coke Plants,6.5,752282.0,,663927.0,97544.0,0.72,state,end_use,14398.0,28.796,
+2021,AL,Alabama,98,Electric Power,6.41,14588460.0,,13189937.0,,0.41,state,power_total,9264.5,18.529,
+2021,AR,Arkansas,1,Electric Utility,4.66,9964689.0,,9216401.0,,0.22,state,end_use,8652.5,17.305,
+2021,AR,Arkansas,10,Other Industrial,8.64,149675.0,,142150.0,28256.0,1.22,state,end_use,11516.0,23.032,
+2021,AR,Arkansas,2,IPP Non-CHP,4.95,2312601.0,,2145573.0,,0.25,state,ipp_component,8699.55,17.3991,
+2021,AR,Arkansas,94,Independent Power Producers,4.95,2312601.0,,2145573.0,,0.25,state,ipp_subtotal,8699.55,17.3991,
+2021,AR,Arkansas,98,Electric Power,4.72,12277290.0,,11361974.0,,0.22,state,power_total,8661.35,17.3227,
+2021,AZ,Arizona,1,Electric Utility,9.88,8419371.0,,7191544.0,,0.61,state,end_use,9142.5,18.285,
+2021,AZ,Arizona,10,Other Industrial,9.82,273269.0,,281145.0,31612.0,0.66,state,end_use,11621.0,23.242,
+2021,AZ,Arizona,98,Electric Power,9.88,8419371.0,,7191544.0,,0.61,state,power_total,9142.5,18.285,
+2021,CA,California,10,Other Industrial,9.39,1222609.0,83.16,1227217.0,116239.0,0.4,state,end_use,11551.0,23.102,3.5996883386719762
+2021,CA,California,3,IPP CHP,,0.0,,0.0,,,state,ipp_component,,,
+2021,CA,California,94,Independent Power Producers,,0.0,,0.0,,,state,ipp_subtotal,,,
+2021,CA,California,98,Electric Power,,0.0,,0.0,,,state,power_total,,,
+2021,CO,Colorado,1,Electric Utility,6.19,13400323.0,,12316285.0,,0.32,state,end_use,9289.6,18.5792,
+2021,CO,Colorado,10,Other Industrial,9.02,143729.0,,146020.0,17001.0,0.56,state,end_use,12062.0,24.124,
+2021,CO,Colorado,8,Commercial and Institutional,9.79,291.0,,425.0,623.0,0.52,state,end_use,11545.0,23.09,
+2021,CO,Colorado,98,Electric Power,6.19,13400323.0,,12316285.0,,0.32,state,power_total,9289.6,18.5792,
+2021,CT,Connecticut,2,IPP Non-CHP,,157874.0,,0.0,,,state,ipp_component,9120.0,18.24,
+2021,CT,Connecticut,94,Independent Power Producers,,157874.0,,0.0,,,state,ipp_subtotal,9120.0,18.24,
+2021,CT,Connecticut,98,Electric Power,,157874.0,,0.0,,,state,power_total,9120.0,18.24,
+2021,DC,District of Columbia,8,Commercial and Institutional,,,,,2710.0,,state,end_use,,,
+2021,DE,Delaware,2,IPP Non-CHP,8.03,171900.0,,133534.0,,2.62,state,ipp_component,13209.9,26.4198,
+2021,DE,Delaware,3,IPP CHP,,0.0,,0.0,,,state,ipp_component,,,
+2021,DE,Delaware,94,Independent Power Producers,8.03,171900.0,,133534.0,,2.62,state,ipp_subtotal,13209.9,26.4198,
+2021,DE,Delaware,98,Electric Power,8.03,171900.0,,133534.0,,2.62,state,power_total,13209.9,26.4198,
+2021,ENC,East North Central,1,Electric Utility,6.69,64622349.19,,54740172.0,,1.49,region,end_use,9929.2,19.8584,
+2021,ENC,East North Central,10,Other Industrial,7.49,4588245.0,71.02,4656470.0,633732.0,1.93,region,end_use,11655.0,23.31,3.0467610467610466
+2021,ENC,East North Central,2,IPP Non-CHP,9.91,41482176.0,,37771984.0,,2.42,region,ipp_component,10171.65,20.3433,
+2021,ENC,East North Central,3,IPP CHP,8.97,2509707.0,,2316502.0,,3.07,region,ipp_component,11456.3,22.9126,
+2021,ENC,East North Central,8,Commercial and Institutional,9.66,130803.0,53.86,136025.0,24847.0,2.97,region,end_use,11170.0,22.34,2.4109221128021487
+2021,ENC,East North Central,9,Coke Plants,7.42,9846906.0,134.54,9899408.0,885781.0,0.86,region,end_use,14270.0,28.54,4.714085494043448
+2021,ENC,East North Central,94,Independent Power Producers,9.85,43991883.0,,40088486.0,,2.46,region,ipp_subtotal,10244.95,20.4899,
+2021,ENC,East North Central,98,Electric Power,8.05,108614232.19,,94828658.0,,1.91,region,power_total,10057.05,20.1141,
+2021,ESC,East South Central,1,Electric Utility,7.88,49033017.0,,44576031.0,,1.87,region,end_use,10473.1,20.9462,
+2021,ESC,East South Central,10,Other Industrial,7.89,2622095.0,97.77,2554406.0,150145.0,1.48,region,end_use,12959.0,25.918,3.7722818118681998
+2021,ESC,East South Central,2,IPP Non-CHP,13.89,3049761.0,,3049761.0,,0.52,region,ipp_component,5194.55,10.3891,
+2021,ESC,East South Central,8,Commercial and Institutional,6.46,3164.0,,547.0,4079.0,0.8,region,end_use,13041.0,26.082,
+2021,ESC,East South Central,9,Coke Plants,6.5,752282.0,,663927.0,97544.0,0.72,region,end_use,14398.0,28.796,
+2021,ESC,East South Central,94,Independent Power Producers,13.89,3049761.0,,3049761.0,,0.52,region,ipp_subtotal,5194.55,10.3891,
+2021,ESC,East South Central,98,Electric Power,8.08,52082778.0,,47625792.0,,1.83,region,power_total,10164.0,20.328,
+2021,FL,Florida,1,Electric Utility,8.52,8304441.0,,7466057.0,,2.76,state,end_use,11696.9,23.3938,
+2021,FL,Florida,10,Other Industrial,9.55,234594.0,,234427.0,50053.0,1.84,state,end_use,12618.0,25.236,
+2021,FL,Florida,98,Electric Power,8.52,8304441.0,,7466057.0,,2.76,state,power_total,11696.9,23.3938,
+2021,GA,Georgia,1,Electric Utility,6.73,9929525.0,,8028095.0,,1.57,state,end_use,9900.35,19.8007,
+2021,GA,Georgia,10,Other Industrial,9.17,287633.0,95.02,272640.0,39255.0,0.89,state,end_use,12618.0,25.236,3.7652559835156123
+2021,GA,Georgia,98,Electric Power,6.73,9929525.0,,8028095.0,,1.57,state,power_total,9900.35,19.8007,
+2021,HI,Hawaii,3,IPP CHP,5.88,634329.0,,597191.0,,0.26,state,ipp_component,9904.8,19.8096,
+2021,HI,Hawaii,94,Independent Power Producers,5.88,634329.0,,597191.0,,0.26,state,ipp_subtotal,9904.8,19.8096,
+2021,HI,Hawaii,98,Electric Power,5.88,634329.0,,597191.0,,0.26,state,power_total,9904.8,19.8096,
+2021,IA,Iowa,1,Electric Utility,4.89,13021828.0,,9611781.0,,0.25,state,end_use,8650.6,17.3012,
+2021,IA,Iowa,10,Other Industrial,5.2,2050563.0,,2048052.0,174852.0,0.68,state,end_use,9090.0,18.18,
+2021,IA,Iowa,8,Commercial and Institutional,8.22,81618.0,,73450.0,14103.0,2.63,state,end_use,11306.0,22.612,
+2021,IA,Iowa,98,Electric Power,4.89,13021828.0,,9611781.0,,0.25,state,power_total,8650.6,17.3012,
+2021,ID,Idaho,10,Other Industrial,9.62,125063.0,,81062.0,171891.0,0.4,state,end_use,12198.0,24.396,
+2021,IL,Illinois,1,Electric Utility,7.99,1059893.0,,2003173.0,,1.78,state,end_use,10278.1,20.5562,
+2021,IL,Illinois,10,Other Industrial,7.68,1982929.0,35.76,2001376.0,137993.0,2.93,state,end_use,10491.0,20.982,1.7043179868458678
+2021,IL,Illinois,2,IPP Non-CHP,10.75,24670259.0,,22189672.0,,1.22,state,ipp_component,8679.25,17.3585,
+2021,IL,Illinois,8,Commercial and Institutional,9.76,82651.0,,86215.0,21139.0,3.27,state,end_use,11150.0,22.3,
+2021,IL,Illinois,9,Coke Plants,7.16,1012678.0,,1001994.0,111530.0,0.9,state,end_use,14483.0,28.966,
+2021,IL,Illinois,94,Independent Power Producers,10.75,24670259.0,,22189672.0,,1.22,state,ipp_subtotal,8679.25,17.3585,
+2021,IL,Illinois,98,Electric Power,10.5,25730152.0,,24192845.0,,1.27,state,power_total,8745.1,17.4902,
+2021,IN,Indiana,1,Electric Utility,8.92,25398588.19,,17381165.0,,2.82,state,end_use,10716.95,21.4339,
+2021,IN,Indiana,10,Other Industrial,7.42,1353541.0,102.11,1433046.0,242846.0,1.18,state,end_use,13207.0,26.414,3.8657530097675474
+2021,IN,Indiana,2,IPP Non-CHP,,0.0,,0.0,,,state,ipp_component,,,
+2021,IN,Indiana,3,IPP CHP,9.1,2329401.0,,2147984.0,,3.18,state,ipp_component,11402.0,22.804,
+2021,IN,Indiana,8,Commercial and Institutional,9.48,48152.0,,49810.0,3708.0,2.45,state,end_use,11204.0,22.408,
+2021,IN,Indiana,9,Coke Plants,7.51,4128911.0,,4195028.0,252429.0,0.91,state,end_use,14437.0,28.874,
+2021,IN,Indiana,94,Independent Power Producers,9.1,2329401.0,,2147984.0,,3.18,state,ipp_subtotal,11402.0,22.804,
+2021,IN,Indiana,98,Electric Power,8.94,27727989.19,,19529149.0,,2.86,state,power_total,10774.5,21.549,
+2021,KS,Kansas,1,Electric Utility,5.13,12594503.0,,12455629.0,,0.29,state,end_use,8647.45,17.2949,
+2021,KS,Kansas,10,Other Industrial,12.73,56673.0,,47154.0,4844.0,2.39,state,end_use,10674.0,21.348,
+2021,KS,Kansas,98,Electric Power,5.13,12594503.0,,12455629.0,,0.29,state,power_total,8647.45,17.2949,
+2021,KY,Kentucky,1,Electric Utility,8.6,23805391.0,,25233117.0,,2.5,state,end_use,11152.4,22.3048,
+2021,KY,Kentucky,10,Other Industrial,7.0,680541.0,104.78,667152.0,41393.0,1.34,state,end_use,12774.0,25.548,4.101299514639111
+2021,KY,Kentucky,8,Commercial and Institutional,6.46,3164.0,,547.0,4079.0,0.8,state,end_use,13041.0,26.082,
+2021,KY,Kentucky,98,Electric Power,8.6,23805391.0,,25233117.0,,2.5,state,power_total,11152.4,22.3048,
+2021,LA,Louisiana,1,Electric Utility,6.23,3761702.0,,3195576.0,,0.57,state,end_use,8283.7,16.567400000000003,
+2021,LA,Louisiana,10,Other Industrial,6.74,292052.0,,292457.0,3622.0,0.53,state,end_use,7489.0,14.978,
+2021,LA,Louisiana,2,IPP Non-CHP,4.95,1793704.0,,510626.0,,0.29,state,ipp_component,8128.399999999999,16.2568,
+2021,LA,Louisiana,94,Independent Power Producers,4.95,1793704.0,,510626.0,,0.29,state,ipp_subtotal,8128.399999999999,16.2568,
+2021,LA,Louisiana,98,Electric Power,6.06,5555406.0,,3706202.0,,0.53,state,power_total,8233.55,16.4671,
+2021,MAT,Middle Atlantic,1,Electric Utility,10.95,0.0,,6912.0,,1.26,region,end_use,,,
+2021,MAT,Middle Atlantic,10,Other Industrial,10.83,679070.0,87.46,693465.0,216129.0,1.75,region,end_use,12508.0,25.016,3.496162456028142
+2021,MAT,Middle Atlantic,2,IPP Non-CHP,15.52,14248984.0,,12334100.0,,2.86,region,ipp_component,10574.6,21.1492,
+2021,MAT,Middle Atlantic,3,IPP CHP,34.66,2517012.0,,2567584.0,,0.88,region,ipp_component,6289.0,12.578,
+2021,MAT,Middle Atlantic,8,Commercial and Institutional,6.69,6779.0,124.33,6078.0,20876.0,0.83,region,end_use,12607.0,25.214,4.9309907194415805
+2021,MAT,Middle Atlantic,9,Coke Plants,6.96,5292023.0,,5370086.0,442179.0,1.05,region,end_use,14453.0,28.906,
+2021,MAT,Middle Atlantic,94,Independent Power Producers,17.65,16765996.0,,14901684.0,,2.64,region,ipp_subtotal,9931.2,19.8624,
+2021,MAT,Middle Atlantic,98,Electric Power,17.65,16765996.0,,14908596.0,,2.64,region,power_total,9931.2,19.8624,
+2021,MD,Maryland,10,Other Industrial,20.62,405027.0,,414044.0,15266.0,1.46,state,end_use,11751.0,23.502,
+2021,MD,Maryland,2,IPP Non-CHP,7.81,1762475.0,,1458083.0,,2.56,state,ipp_component,12932.8,25.8656,
+2021,MD,Maryland,3,IPP CHP,21.03,638089.0,,637165.0,,1.76,state,ipp_component,11032.4,22.0648,
+2021,MD,Maryland,94,Independent Power Producers,11.42,2400564.0,,2095248.0,,2.34,state,ipp_subtotal,12427.65,24.8553,
+2021,MD,Maryland,98,Electric Power,11.42,2400564.0,,2095248.0,,2.34,state,power_total,12427.65,24.8553,
+2021,ME,Maine,2,IPP Non-CHP,,0.0,,0.0,,,state,ipp_component,,,
+2021,ME,Maine,3,IPP CHP,7.97,68815.0,,68815.0,,0.79,state,ipp_component,11534.55,23.0691,
+2021,ME,Maine,94,Independent Power Producers,7.97,68815.0,,68815.0,,0.79,state,ipp_subtotal,11534.55,23.0691,
+2021,ME,Maine,98,Electric Power,7.97,68815.0,,68815.0,,0.79,state,power_total,11534.55,23.0691,
+2021,MI,Michigan,1,Electric Utility,5.06,20538533.0,,19221889.0,,0.54,state,end_use,9404.85,18.8097,
+2021,MI,Michigan,10,Other Industrial,8.48,304272.0,87.6,309642.0,138330.0,0.77,state,end_use,11803.0,23.606,3.710920952300262
+2021,MI,Michigan,3,IPP CHP,7.35,180306.0,,168518.0,,1.76,state,ipp_component,12157.6,24.3152,
+2021,MI,Michigan,9,Coke Plants,7.73,1449041.0,,1421677.0,250732.0,0.68,state,end_use,13220.0,26.44,
+2021,MI,Michigan,94,Independent Power Producers,7.35,180306.0,,168518.0,,1.76,state,ipp_subtotal,12157.6,24.3152,
+2021,MI,Michigan,98,Electric Power,5.09,20718839.0,,19390407.0,,0.56,state,power_total,9428.8,18.8576,
+2021,MN,Minnesota,1,Electric Utility,5.45,9359604.0,,8105047.0,,0.31,state,end_use,8777.85,17.5557,
+2021,MN,Minnesota,10,Other Industrial,4.24,783788.0,49.46,780507.0,34443.0,0.35,state,end_use,9329.0,18.658,2.650873619894951
+2021,MN,Minnesota,8,Commercial and Institutional,3.99,6170.0,,2772.0,5133.0,0.31,state,end_use,9454.0,18.908,
+2021,MN,Minnesota,98,Electric Power,5.45,9359604.0,,8105047.0,,0.31,state,power_total,8777.85,17.5557,
+2021,MO,Missouri,1,Electric Utility,4.8,33809787.0,,31256231.0,,0.28,state,end_use,8803.15,17.6063,
+2021,MO,Missouri,10,Other Industrial,8.51,928118.0,48.22,950431.0,53078.0,2.43,state,end_use,11247.0,22.494,2.1436827598470702
+2021,MO,Missouri,3,IPP CHP,,0.0,,0.0,,,state,ipp_component,,,
+2021,MO,Missouri,8,Commercial and Institutional,8.76,11789.0,,11504.0,892.0,2.85,state,end_use,11478.0,22.956,
+2021,MO,Missouri,94,Independent Power Producers,,0.0,,0.0,,,state,ipp_subtotal,,,
+2021,MO,Missouri,98,Electric Power,4.8,33809787.0,,31256231.0,,0.28,state,power_total,8803.15,17.6063,
+2021,MS,Mississippi,1,Electric Utility,5.63,1724021.0,,1692249.0,,0.5,state,end_use,8865.95,17.7319,
+2021,MS,Mississippi,10,Other Industrial,3.53,74129.0,,68562.0,2812.0,0.77,state,end_use,14780.0,29.56,
+2021,MS,Mississippi,2,IPP Non-CHP,13.89,3049761.0,,3049761.0,,0.52,state,ipp_component,5194.55,10.3891,
+2021,MS,Mississippi,94,Independent Power Producers,13.89,3049761.0,,3049761.0,,0.52,state,ipp_subtotal,5194.55,10.3891,
+2021,MS,Mississippi,98,Electric Power,9.79,4773782.0,,4742010.0,,0.51,state,power_total,6520.45,13.0409,
+2021,MT,Montana,1,Electric Utility,9.2,63857.0,,63857.0,,0.55,state,end_use,6578.95,13.1579,
+2021,MT,Montana,10,Other Industrial,5.66,231802.0,45.09,221426.0,41579.0,0.39,state,end_use,9019.0,18.038,2.4997228074065863
+2021,MT,Montana,2,IPP Non-CHP,9.17,6844188.0,,6589798.0,,0.65,state,ipp_component,8599.55,17.1991,
+2021,MT,Montana,8,Commercial and Institutional,7.73,1421.0,,1018.0,2650.0,0.55,state,end_use,10484.0,20.968,
+2021,MT,Montana,94,Independent Power Producers,9.17,6844188.0,,6589798.0,,0.65,state,ipp_subtotal,8599.55,17.1991,
+2021,MT,Montana,98,Electric Power,9.17,6908045.0,,6653655.0,,0.65,state,power_total,8580.9,17.1618,
+2021,MTN,Mountain,1,Electric Utility,9.84,61276807.0,,56789186.0,,0.5,region,end_use,9480.2,18.9604,
+2021,MTN,Mountain,10,Other Industrial,6.56,2700519.0,61.08,2629988.0,453373.0,0.48,region,end_use,10718.0,21.436,2.8494122037693597
+2021,MTN,Mountain,2,IPP Non-CHP,9.83,8304341.0,,8033908.0,,0.61,region,ipp_component,8478.2,16.9564,
+2021,MTN,Mountain,8,Commercial and Institutional,9.86,7304.0,,7035.0,3373.0,0.5,region,end_use,11389.0,22.778,
+2021,MTN,Mountain,94,Independent Power Producers,9.83,8304341.0,,8033908.0,,0.61,region,ipp_subtotal,8478.2,16.9564,
+2021,MTN,Mountain,98,Electric Power,9.83,69581148.0,,64823094.0,,0.51,region,power_total,9360.65,18.7213,
+2021,NC,North Carolina,1,Electric Utility,9.14,8438172.0,,7570284.0,,1.84,state,end_use,12496.95,24.9939,
+2021,NC,North Carolina,10,Other Industrial,7.34,373508.0,97.85,374521.0,66049.0,0.9,state,end_use,13526.0,27.052,3.6171077923998225
+2021,NC,North Carolina,2,IPP Non-CHP,5.67,4972.0,,2401.0,,0.7,state,ipp_component,12894.2,25.7884,
+2021,NC,North Carolina,3,IPP CHP,4.0,7416.0,,3153.0,,0.84,state,ipp_component,13057.2,26.1144,
+2021,NC,North Carolina,8,Commercial and Institutional,8.61,46395.0,,49172.0,30641.0,1.81,state,end_use,12639.0,25.278,
+2021,NC,North Carolina,94,Independent Power Producers,4.72,12388.0,,5554.0,,0.78,state,ipp_subtotal,12991.8,25.9836,
+2021,NC,North Carolina,98,Electric Power,9.13,8450560.0,,7575838.0,,1.84,state,power_total,12497.7,24.9954,
+2021,ND,North Dakota,1,Electric Utility,10.08,20469653.0,,21380693.0,,0.73,state,end_use,6762.75,13.5255,
+2021,ND,North Dakota,10,Other Industrial,6.88,5871687.0,20.47,5927938.0,234180.0,0.81,state,end_use,7208.0,14.416,1.4199500554938955
+2021,ND,North Dakota,8,Commercial and Institutional,5.0,16424.0,,16000.0,6160.0,0.39,state,end_use,9158.0,18.316,
+2021,ND,North Dakota,98,Electric Power,10.08,20469653.0,,21380693.0,,0.73,state,power_total,6762.75,13.5255,
+2021,NE,Nebraska,1,Electric Utility,4.75,11626180.0,,11253268.0,,0.26,state,end_use,8571.05,17.1421,
+2021,NE,Nebraska,10,Other Industrial,4.53,975846.0,24.74,983231.0,39955.0,0.22,state,end_use,8711.0,17.422,1.4200436230053954
+2021,NE,Nebraska,98,Electric Power,4.75,11626180.0,,11253268.0,,0.26,state,power_total,8571.05,17.1421,
+2021,NEW,New England,2,IPP Non-CHP,7.6,281332.0,,18457.0,,2.88,region,ipp_component,10909.2,21.8184,
+2021,NEW,New England,3,IPP CHP,7.97,68815.0,,68815.0,,0.79,region,ipp_component,11534.55,23.0691,
+2021,NEW,New England,94,Independent Power Producers,7.88,350147.0,,87272.0,,1.28,region,ipp_subtotal,11032.1,22.0642,
+2021,NEW,New England,98,Electric Power,7.88,350147.0,,87272.0,,1.28,region,power_total,11032.1,22.0642,
+2021,NH,New Hampshire,2,IPP Non-CHP,7.6,123458.0,,18457.0,,2.88,state,ipp_component,13197.1,26.3942,
+2021,NH,New Hampshire,94,Independent Power Producers,7.6,123458.0,,18457.0,,2.88,state,ipp_subtotal,13197.1,26.3942,
+2021,NH,New Hampshire,98,Electric Power,7.6,123458.0,,18457.0,,2.88,state,power_total,13197.1,26.3942,
+2021,NJ,New Jersey,1,Electric Utility,,0.0,,0.0,,,state,end_use,,,
+2021,NJ,New Jersey,2,IPP Non-CHP,,0.0,,0.0,,,state,ipp_component,,,
+2021,NJ,New Jersey,3,IPP CHP,8.23,496132.0,,550554.0,,1.53,state,ipp_component,12684.25,25.3685,
+2021,NJ,New Jersey,94,Independent Power Producers,8.23,496132.0,,550554.0,,1.53,state,ipp_subtotal,12684.25,25.3685,
+2021,NJ,New Jersey,98,Electric Power,8.23,496132.0,,550554.0,,1.53,state,power_total,12684.25,25.3685,
+2021,NM,New Mexico,1,Electric Utility,21.33,7075106.0,,7235447.0,,0.75,state,end_use,9316.75,18.6335,
+2021,NM,New Mexico,10,Other Industrial,10.06,56849.0,,55470.0,2324.0,0.67,state,end_use,12264.0,24.528,
+2021,NM,New Mexico,98,Electric Power,21.33,7075106.0,,7235447.0,,0.75,state,power_total,9316.75,18.6335,
+2021,NV,Nevada,1,Electric Utility,9.55,824858.0,,609735.0,,0.37,state,end_use,11126.05,22.2521,
+2021,NV,Nevada,10,Other Industrial,9.1,241569.0,78.58,204078.0,16168.0,0.39,state,end_use,11680.0,23.36,3.3638698630136985
+2021,NV,Nevada,2,IPP Non-CHP,5.13,665346.0,,649303.0,,0.27,state,ipp_component,8951.45,17.9029,
+2021,NV,Nevada,94,Independent Power Producers,5.13,665346.0,,649303.0,,0.27,state,ipp_subtotal,8951.45,17.9029,
+2021,NV,Nevada,98,Electric Power,7.54,1490204.0,,1259038.0,,0.33,state,power_total,10155.15,20.3103,
+2021,NY,New York,1,Electric Utility,,0.0,,0.0,,,state,end_use,,,
+2021,NY,New York,10,Other Industrial,9.31,211317.0,,203359.0,56656.0,2.2,state,end_use,12707.0,25.414,
+2021,NY,New York,2,IPP Non-CHP,,0.0,,0.0,,,state,ipp_component,,,
+2021,NY,New York,94,Independent Power Producers,,0.0,,0.0,,,state,ipp_subtotal,,,
+2021,NY,New York,98,Electric Power,,0.0,,0.0,,,state,power_total,,,
+2021,OH,Ohio,1,Electric Utility,9.16,2217751.0,,1875725.0,,3.63,state,end_use,12475.95,24.9519,
+2021,OH,Ohio,10,Other Industrial,6.84,423660.0,104.07,420384.0,18772.0,1.84,state,end_use,12805.0,25.61,4.063647012885592
+2021,OH,Ohio,2,IPP Non-CHP,9.07,16811917.0,,15582312.0,,3.63,state,ipp_component,12361.6,24.7232,
+2021,OH,Ohio,3,IPP CHP,,0.0,,0.0,,,state,ipp_component,,,
+2021,OH,Ohio,9,Coke Plants,7.26,3256276.0,119.44,3280709.0,271090.0,0.87,state,end_use,14447.0,28.894,4.133730186197827
+2021,OH,Ohio,94,Independent Power Producers,9.07,16811917.0,,15582312.0,,3.63,state,ipp_subtotal,12361.6,24.7232,
+2021,OH,Ohio,98,Electric Power,9.08,19029668.0,,17458037.0,,3.63,state,power_total,12374.95,24.7499,
+2021,OK,Oklahoma,1,Electric Utility,4.77,7434569.0,,6882938.0,,0.23,state,end_use,8617.6,17.2352,
+2021,OK,Oklahoma,10,Other Industrial,6.49,148329.0,,132421.0,83953.0,0.63,state,end_use,11994.0,23.988,
+2021,OK,Oklahoma,98,Electric Power,4.77,7434569.0,,6882938.0,,0.23,state,power_total,8617.6,17.2352,
+2021,OR,Oregon,10,Other Industrial,9.38,57277.0,,61412.0,5957.0,0.35,state,end_use,11373.0,22.746,
+2021,PA,Pennsylvania,1,Electric Utility,10.95,0.0,,6912.0,,1.26,state,end_use,,,
+2021,PA,Pennsylvania,10,Other Industrial,11.46,467753.0,,490106.0,159473.0,1.56,state,end_use,12426.0,24.852,
+2021,PA,Pennsylvania,2,IPP Non-CHP,15.52,14248984.0,,12334100.0,,2.86,state,ipp_component,10574.6,21.1492,
+2021,PA,Pennsylvania,3,IPP CHP,54.22,2020880.0,,2017030.0,,0.4,state,ipp_component,4718.9,9.4378,
+2021,PA,Pennsylvania,8,Commercial and Institutional,6.69,6779.0,124.33,6078.0,20876.0,0.83,state,end_use,12607.0,25.214,4.9309907194415805
+2021,PA,Pennsylvania,9,Coke Plants,6.96,5292023.0,,5370086.0,442179.0,1.05,state,end_use,14453.0,28.906,
+2021,PA,Pennsylvania,94,Independent Power Producers,18.12,16269864.0,,14351130.0,,2.7,state,ipp_subtotal,9847.25,19.6945,
+2021,PA,Pennsylvania,98,Electric Power,18.11,16269864.0,,14358042.0,,2.7,state,power_total,9847.25,19.6945,
+2021,PCC,Pacific Contiguous,10,Other Industrial,9.1,1358660.0,83.06,1368318.0,127562.0,0.39,region,end_use,11416.0,22.832,3.6378766643307636
+2021,PCC,Pacific Contiguous,2,IPP Non-CHP,8.15,2119522.0,,1772844.0,,0.38,region,ipp_component,8366.250000000002,16.732500000000005,
+2021,PCC,Pacific Contiguous,3,IPP CHP,,0.0,,0.0,,,region,ipp_component,,,
+2021,PCC,Pacific Contiguous,94,Independent Power Producers,8.15,2119522.0,,1772844.0,,0.38,region,ipp_subtotal,8366.250000000002,16.732500000000005,
+2021,PCC,Pacific Contiguous,98,Electric Power,8.15,2119522.0,,1772844.0,,0.38,region,power_total,8366.250000000002,16.732500000000005,
+2021,PCN,Pacific Noncontiguous,1,Electric Utility,6.58,556326.0,,353054.0,,0.13,region,end_use,7368.95,14.7379,
+2021,PCN,Pacific Noncontiguous,10,Other Industrial,,1444.0,,1444.0,,,region,end_use,,,
+2021,PCN,Pacific Noncontiguous,3,IPP CHP,5.88,838639.0,,597191.0,,0.26,region,ipp_component,9343.65,18.6873,
+2021,PCN,Pacific Noncontiguous,8,Commercial and Institutional,5.38,491944.0,,453554.0,53510.0,0.13,region,end_use,7488.0,14.976,
+2021,PCN,Pacific Noncontiguous,94,Independent Power Producers,5.88,838639.0,,597191.0,,0.26,region,ipp_subtotal,9343.65,18.6873,
+2021,PCN,Pacific Noncontiguous,98,Electric Power,6.09,1394965.0,,950245.0,,0.22,region,power_total,8556.15,17.1123,
+2021,PR,Puerto Rico,2,IPP Non-CHP,6.12,1631295.0,,1542670.0,,0.5,territory,ipp_component,10750.0,21.5,
+2021,PR,Puerto Rico,94,Independent Power Producers,6.12,1631295.0,,1542670.0,,0.5,territory,ipp_subtotal,10750.0,21.5,
+2021,PR,Puerto Rico,98,Electric Power,6.12,1631295.0,,1542670.0,,0.5,territory,power_total,10750.0,21.5,
+2021,RI,Rhode Island,2,IPP Non-CHP,,0.0,,0.0,,,state,ipp_component,,,
+2021,RI,Rhode Island,94,Independent Power Producers,,0.0,,0.0,,,state,ipp_subtotal,,,
+2021,RI,Rhode Island,98,Electric Power,,0.0,,0.0,,,state,power_total,,,
+2021,SAT,South Atlantic,1,Electric Utility,9.47,53116843.0,,45536254.0,,2.39,region,end_use,11801.55,23.6031,
+2021,SAT,South Atlantic,10,Other Industrial,11.16,2160255.0,97.46,2102742.0,254580.0,1.22,region,end_use,12766.0,25.532,3.817170609431302
+2021,SAT,South Atlantic,2,IPP Non-CHP,9.59,7591909.0,,7189006.0,,3.27,region,ipp_component,12352.9,24.7058,
+2021,SAT,South Atlantic,3,IPP CHP,18.28,814343.0,,809624.0,,1.59,region,ipp_component,11451.6,22.9032,
+2021,SAT,South Atlantic,8,Commercial and Institutional,7.34,54632.0,122.13,74185.0,42991.0,1.44,region,end_use,13097.0,26.194,4.6625181339237995
+2021,SAT,South Atlantic,9,Coke Plants,6.96,1697416.0,,1760277.0,232994.0,0.9,region,end_use,14295.0,28.59,
+2021,SAT,South Atlantic,94,Independent Power Producers,10.41,8406252.0,,7998630.0,,3.11,region,ipp_subtotal,12265.6,24.5312,
+2021,SAT,South Atlantic,98,Electric Power,9.61,61523095.0,,53534884.0,,2.5,region,power_total,11864.95,23.7299,
+2021,SC,South Carolina,1,Electric Utility,8.59,6365449.0,,5826448.0,,1.95,state,end_use,12164.75,24.3295,
+2021,SC,South Carolina,10,Other Industrial,7.88,129732.0,106.87,121736.0,34945.0,1.3,state,end_use,13033.0,26.066,4.099976981508479
+2021,SC,South Carolina,3,IPP CHP,9.62,168838.0,,169306.0,,1.06,state,ipp_component,12965.5,25.931,
+2021,SC,South Carolina,94,Independent Power Producers,9.62,168838.0,,169306.0,,1.06,state,ipp_subtotal,12965.5,25.931,
+2021,SC,South Carolina,98,Electric Power,8.62,6534287.0,,5995754.0,,1.93,state,power_total,12185.45,24.3709,
+2021,SD,South Dakota,1,Electric Utility,5.15,1091940.0,,1244367.0,,0.81,state,end_use,8222.9,16.4458,
+2021,SD,South Dakota,10,Other Industrial,5.69,220115.0,,197876.0,17227.0,0.45,state,end_use,8249.0,16.498,
+2021,SD,South Dakota,98,Electric Power,5.15,1091940.0,,1244367.0,,0.81,state,power_total,8222.9,16.4458,
+2021,TN,Tennessee,1,Electric Utility,8.05,8915145.0,,4460728.0,,2.29,state,end_use,10947.8,21.8956,
+2021,TN,Tennessee,10,Other Industrial,7.52,1175428.0,,1136015.0,46799.0,1.56,state,end_use,13009.0,26.018,
+2021,TN,Tennessee,98,Electric Power,8.05,8915145.0,,4460728.0,,2.29,state,power_total,10947.8,21.8956,
+2021,TX,Texas,1,Electric Utility,7.93,23107934.0,,21600978.0,,0.48,state,end_use,7915.65,15.8313,
+2021,TX,Texas,10,Other Industrial,8.42,258352.0,91.75,248759.0,114373.0,0.54,state,end_use,11564.0,23.128,3.967052922864061
+2021,TX,Texas,2,IPP Non-CHP,8.33,38653968.0,,37293823.0,,0.52,state,ipp_component,7717.15,15.4343,
+2021,TX,Texas,94,Independent Power Producers,8.33,38653968.0,,37293823.0,,0.52,state,ipp_subtotal,7717.15,15.4343,
+2021,TX,Texas,98,Electric Power,8.18,61761902.0,,58894801.0,,0.51,state,power_total,7791.4,15.5828,
+2021,US,U.S. Total,1,Electric Utility,7.62,374847731.19,,338204518.0,75231151.0,1.14,national,end_use,9550.05,19.1001,
+2021,US,U.S. Total,10,Other Industrial,7.41,25845486.0,57.89,25757809.0,2624304.0,1.09,national,end_use,10289.0,20.578,2.8131985615706094
+2021,US,U.S. Total,2,IPP Non-CHP,10.08,119838298.0,,110120082.0,15900891.0,1.78,national,ipp_component,9232.85,18.4657,
+2021,US,U.S. Total,3,IPP CHP,17.29,6748516.0,,6359716.0,752210.0,1.91,national,ipp_component,9266.75,18.5335,
+2021,US,U.S. Total,8,Commercial and Institutional,6.67,810627.0,83.0,781150.0,175964.0,1.04,national,end_use,9200.0,18.4,4.510869565217392
+2021,US,U.S. Total,9,Coke Plants,7.2,17588627.0,122.37,17693698.0,1658498.0,0.92,national,end_use,14333.0,28.666,4.26882020512105
+2021,US,U.S. Total,94,Independent Power Producers,10.47,126586814.0,,116479798.0,16653101.0,1.79,national,ipp_subtotal,9234.65,18.4693,
+2021,US,U.S. Total,98,Electric Power,8.34,501434545.19,,454684316.0,91884252.0,1.3,national,power_total,9470.45,18.9409,
+2021,UT,Utah,1,Electric Utility,11.35,11871102.0,,10225567.0,,0.59,state,end_use,11102.55,22.2051,
+2021,UT,Utah,10,Other Industrial,10.13,334892.0,50.63,349858.0,42649.0,0.42,state,end_use,11535.0,23.07,2.1946250541829215
+2021,UT,Utah,2,IPP Non-CHP,42.52,403039.0,,403039.0,,0.66,state,ipp_component,5997.95,11.9959,
+2021,UT,Utah,94,Independent Power Producers,42.52,403039.0,,403039.0,,0.66,state,ipp_subtotal,5997.95,11.9959,
+2021,UT,Utah,98,Electric Power,12.01,12274141.0,,10628606.0,,0.6,state,power_total,10934.9,21.8698,
+2021,VA,Virginia,1,Electric Utility,18.12,1440522.0,,1384974.0,,1.54,state,end_use,10716.0,21.432,
+2021,VA,Virginia,10,Other Industrial,8.68,410783.0,89.29,385704.0,27960.0,0.91,state,end_use,13008.0,26.016,3.4321186961869623
+2021,VA,Virginia,2,IPP Non-CHP,,41202.0,,0.0,,,state,ipp_component,11644.35,23.2887,
+2021,VA,Virginia,3,IPP CHP,,0.0,,0.0,,,state,ipp_component,,,
+2021,VA,Virginia,8,Commercial and Institutional,4.83,8237.0,,25013.0,9640.0,0.71,state,end_use,13999.0,27.998,
+2021,VA,Virginia,9,Coke Plants,6.63,886785.0,,883292.0,46371.0,0.79,state,end_use,14577.0,29.154,
+2021,VA,Virginia,94,Independent Power Producers,,41202.0,,0.0,,,state,ipp_subtotal,11644.35,23.2887,
+2021,VA,Virginia,98,Electric Power,18.12,1481724.0,,1384974.0,,1.54,state,power_total,10741.8,21.4836,
+2021,WA,Washington,10,Other Industrial,4.48,78774.0,,79689.0,5366.0,0.35,state,end_use,9380.0,18.76,
+2021,WA,Washington,2,IPP Non-CHP,8.15,2119522.0,,1772844.0,,0.38,state,ipp_component,8366.250000000002,16.732500000000005,
+2021,WA,Washington,94,Independent Power Producers,8.15,2119522.0,,1772844.0,,0.38,state,ipp_subtotal,8366.250000000002,16.732500000000005,
+2021,WA,Washington,98,Electric Power,8.15,2119522.0,,1772844.0,,0.38,state,power_total,8366.250000000002,16.732500000000005,
+2021,WI,Wisconsin,1,Electric Utility,4.96,15407584.0,,14258220.0,,0.37,state,end_use,8938.95,17.8779,
+2021,WI,Wisconsin,10,Other Industrial,6.92,523843.0,85.24,492022.0,95791.0,0.9,state,end_use,10790.0,21.58,3.9499536607970342
+2021,WI,Wisconsin,98,Electric Power,4.96,15407584.0,,14258220.0,,0.37,state,power_total,8938.95,17.8779,
+2021,WNC,West North Central,1,Electric Utility,5.85,101973495.0,,95307016.0,,0.37,region,end_use,8319.85,16.6397,
+2021,WNC,West North Central,10,Other Industrial,6.31,10886790.0,28.27,10935189.0,558579.0,0.84,region,end_use,8232.0,16.464,1.7170796890184647
+2021,WNC,West North Central,3,IPP CHP,,0.0,,0.0,,,region,ipp_component,,,
+2021,WNC,West North Central,8,Commercial and Institutional,7.67,116001.0,81.58,103726.0,26288.0,2.25,region,end_use,10945.0,21.89,3.7268158976701686
+2021,WNC,West North Central,94,Independent Power Producers,,0.0,,0.0,,,region,ipp_subtotal,,,
+2021,WNC,West North Central,98,Electric Power,5.85,101973495.0,,95307016.0,,0.37,region,power_total,8319.85,16.6397,
+2021,WSC,West South Central,1,Electric Utility,6.45,44268894.0,,40895893.0,,0.38,region,end_use,8230.7,16.4614,
+2021,WSC,West South Central,10,Other Industrial,7.54,848408.0,75.43,815787.0,230204.0,0.67,region,end_use,10165.0,20.33,3.7102803738317762
+2021,WSC,West South Central,2,IPP Non-CHP,8.09,42760273.0,,39950022.0,,0.5,region,ipp_component,7787.55,15.5751,
+2021,WSC,West South Central,94,Independent Power Producers,8.09,42760273.0,,39950022.0,,0.5,region,ipp_subtotal,7787.55,15.5751,
+2021,WSC,West South Central,98,Electric Power,7.24,87029167.0,,80845915.0,,0.44,region,power_total,8012.95,16.0259,
+2021,WV,West Virginia,1,Electric Utility,10.89,18638734.0,,15260396.0,,3.07,state,end_use,12506.0,25.012,
+2021,WV,West Virginia,10,Other Industrial,10.48,318978.0,,299670.0,21052.0,1.49,state,end_use,13049.0,26.098,
+2021,WV,West Virginia,2,IPP Non-CHP,10.12,5611360.0,,5594988.0,,3.49,state,ipp_component,12149.25,24.2985,
+2021,WV,West Virginia,9,Coke Plants,7.29,810631.0,,876985.0,186623.0,1.01,state,end_use,14012.0,28.024,
+2021,WV,West Virginia,94,Independent Power Producers,10.12,5611360.0,,5594988.0,,3.49,state,ipp_subtotal,12149.25,24.2985,
+2021,WV,West Virginia,98,Electric Power,10.69,24250094.0,,20855384.0,,3.18,state,power_total,12423.45,24.8469,
+2021,WY,Wyoming,1,Electric Utility,6.67,19622190.0,,19146751.0,,0.41,state,end_use,8773.05,17.5461,
+2021,WY,Wyoming,10,Other Industrial,4.01,1293346.0,51.52,1290929.0,130149.0,0.48,state,end_use,10128.0,20.256,2.543443917851501
+2021,WY,Wyoming,2,IPP Non-CHP,5.37,391768.0,,391768.0,,0.37,state,ipp_component,8105.35,16.2107,
+2021,WY,Wyoming,8,Commercial and Institutional,10.25,5592.0,,5592.0,100.0,0.49,state,end_use,11542.0,23.084,
+2021,WY,Wyoming,94,Independent Power Producers,5.37,391768.0,,391768.0,,0.37,state,ipp_subtotal,8105.35,16.2107,
+2021,WY,Wyoming,98,Electric Power,6.64,20013958.0,,19538519.0,,0.41,state,power_total,8759.95,17.5199,
+2022,90,Pacific,1,Electric Utility,7.67,574511.0,56.51,368429.0,,0.13,pacific_subtotal,end_use,7408.65,14.8173,3.813785237526405
+2022,90,Pacific,2,IPP Non-CHP,8.28,2404535.0,,2433840.0,,0.39,pacific_subtotal,ipp_component,8479.45,16.9589,
+2022,90,Pacific,3,IPP CHP,7.58,564954.0,,256110.0,,0.21,pacific_subtotal,ipp_component,9267.05,18.5341,
+2022,90,Pacific,94,Independent Power Producers,8.2,2969489.0,,2689950.0,,0.37,pacific_subtotal,ipp_subtotal,8629.3,17.2586,
+2022,90,Pacific,98,Electric Power,8.14,3544000.0,,3058379.0,,0.34,pacific_subtotal,power_total,8431.4,16.8628,
+2022,AK,Alaska,1,Electric Utility,7.67,574511.0,56.51,368429.0,,0.13,state,end_use,7408.65,14.8173,3.813785237526405
+2022,AK,Alaska,10,Other Industrial,,1444.0,,1444.0,,,state,end_use,,,
+2022,AK,Alaska,3,IPP CHP,,185346.0,,,,,state,ipp_component,7530.25,15.0605,
+2022,AK,Alaska,8,Commercial and Institutional,6.73,478461.0,88.72,472192.0,59209.0,0.18,state,end_use,7582.0,15.164,5.8506990240042205
+2022,AK,Alaska,94,Independent Power Producers,,185346.0,,,,,state,ipp_subtotal,7530.25,15.0605,
+2022,AK,Alaska,98,Electric Power,7.67,759857.0,56.51,368429.0,,0.13,state,power_total,7438.3,14.8766,3.7985830095586355
+2022,AL,Alabama,1,Electric Utility,6.55,14635074.0,51.01,14380068.0,,0.43,state,end_use,9036.9,18.0738,2.82231738759973
+2022,AL,Alabama,10,Other Industrial,9.56,655119.0,130.55,664878.0,63146.0,1.53,state,end_use,12538.0,25.076,5.206173233370554
+2022,AL,Alabama,9,Coke Plants,6.61,566277.0,,615767.0,127869.0,0.69,state,end_use,14759.0,29.518,
+2022,AL,Alabama,98,Electric Power,6.55,14635074.0,51.01,14380068.0,,0.43,state,power_total,9036.9,18.0738,2.82231738759973
+2022,AR,Arkansas,1,Electric Utility,4.71,9508456.0,41.31,10029749.0,,0.22,state,end_use,8740.8,17.4816,2.363056013179572
+2022,AR,Arkansas,10,Other Industrial,9.21,141061.0,,138335.0,26173.0,1.19,state,end_use,11323.0,22.646,
+2022,AR,Arkansas,2,IPP Non-CHP,4.74,2417514.0,,2528877.0,,0.23,state,ipp_component,8750.1,17.5002,
+2022,AR,Arkansas,94,Independent Power Producers,4.74,2417514.0,,2528877.0,,0.23,state,ipp_subtotal,8750.1,17.5002,
+2022,AR,Arkansas,98,Electric Power,4.72,11925970.0,,12558626.0,,0.22,state,power_total,8742.7,17.4854,
+2022,AZ,Arizona,1,Electric Utility,9.56,8152430.0,51.56,8402283.0,,0.55,state,end_use,9078.25,18.1565,2.8397543579434363
+2022,AZ,Arizona,10,Other Industrial,9.28,259588.0,,243925.0,15949.0,0.65,state,end_use,11532.0,23.064,
+2022,AZ,Arizona,98,Electric Power,9.56,8152430.0,51.56,8402283.0,,0.55,state,power_total,9078.25,18.1565,2.8397543579434363
+2022,CA,California,10,Other Industrial,8.21,1321876.0,91.34,1314121.0,107074.0,0.42,state,end_use,11366.0,22.732,4.018124230160127
+2022,CA,California,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2022,CA,California,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2022,CA,California,98,Electric Power,,0.0,,,,,state,power_total,,,
+2022,CO,Colorado,1,Electric Utility,6.65,12275303.0,35.46,11077237.0,,0.34,state,end_use,9353.9,18.7078,1.895466062284181
+2022,CO,Colorado,10,Other Industrial,8.45,152631.0,,161167.0,17865.0,0.61,state,end_use,11819.0,23.638,
+2022,CO,Colorado,8,Commercial and Institutional,,153.0,,,470.0,,state,end_use,,,
+2022,CO,Colorado,98,Electric Power,6.65,12275303.0,35.46,11077237.0,,0.34,state,power_total,9353.9,18.7078,1.895466062284181
+2022,CT,Connecticut,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2022,CT,Connecticut,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2022,CT,Connecticut,98,Electric Power,,0.0,,,,,state,power_total,,,
+2022,DC,District of Columbia,8,Commercial and Institutional,,,,,2710.0,,state,end_use,,,
+2022,DE,Delaware,2,IPP Non-CHP,7.45,70069.0,,143614.0,,2.17,state,ipp_component,13170.5,26.341,
+2022,DE,Delaware,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2022,DE,Delaware,94,Independent Power Producers,7.45,70069.0,,143614.0,,2.17,state,ipp_subtotal,13170.5,26.341,
+2022,DE,Delaware,98,Electric Power,7.45,70069.0,,143614.0,,2.17,state,power_total,13170.5,26.341,
+2022,ENC,East North Central,1,Electric Utility,6.89,60120151.42,51.13,58164136.0,,1.56,region,end_use,10009.95,20.0199,2.553958810983072
+2022,ENC,East North Central,10,Other Industrial,7.75,4240582.0,82.97,4183391.0,471864.0,2.03,region,end_use,11639.0,23.278,3.5643096485952404
+2022,ENC,East North Central,2,IPP Non-CHP,9.89,39052948.0,,36834373.0,,2.4,region,ipp_component,10170.7,20.3414,
+2022,ENC,East North Central,3,IPP CHP,8.85,2415304.0,,2655922.0,,3.04,region,ipp_component,11397.0,22.794,
+2022,ENC,East North Central,8,Commercial and Institutional,10.03,130254.0,59.64,130495.0,23843.0,2.99,region,end_use,11114.0,22.228,2.683102393377722
+2022,ENC,East North Central,9,Coke Plants,7.32,9032690.0,211.51,9112761.0,931588.0,0.84,region,end_use,14234.0,28.468,7.42974567935928
+2022,ENC,East North Central,94,Independent Power Producers,9.81,41468252.0,37.64,39490295.0,,2.45,region,ipp_subtotal,10242.1,20.4842,1.837513791117056
+2022,ENC,East North Central,98,Electric Power,8.09,101588403.42,45.67,97654431.0,,1.92,region,power_total,10104.75,20.2095,2.2598282985724536
+2022,ESC,East South Central,1,Electric Utility,8.08,47301118.0,55.11,48305533.0,,1.85,region,end_use,10306.05,20.6121,2.6736722604683654
+2022,ESC,East South Central,10,Other Industrial,7.8,2589998.0,128.77,2707809.0,241828.0,1.45,region,end_use,12883.0,25.766,4.997671349840877
+2022,ESC,East South Central,2,IPP Non-CHP,14.83,3209122.0,,3209122.0,,0.57,region,ipp_component,5210.1,10.4202,
+2022,ESC,East South Central,8,Commercial and Institutional,4.53,737.0,,207.0,3549.0,0.6,region,end_use,13232.0,26.464,
+2022,ESC,East South Central,9,Coke Plants,6.61,566277.0,,615767.0,127869.0,0.69,region,end_use,14759.0,29.518,
+2022,ESC,East South Central,94,Independent Power Producers,14.83,3209122.0,,3209122.0,,0.57,region,ipp_subtotal,5210.1,10.4202,
+2022,ESC,East South Central,98,Electric Power,8.3,50510240.0,,51514655.0,,1.8,region,power_total,9982.25,19.9645,
+2022,FL,Florida,1,Electric Utility,8.51,7153075.0,85.38,6678038.0,,2.69,state,end_use,11704.4,23.4088,3.6473462971190322
+2022,FL,Florida,10,Other Industrial,10.02,187587.0,183.56,176527.0,42704.0,2.46,state,end_use,12017.0,24.034,7.637513522509778
+2022,FL,Florida,98,Electric Power,8.51,7153075.0,85.38,6678038.0,,2.69,state,power_total,11704.4,23.4088,3.6473462971190322
+2022,GA,Georgia,1,Electric Utility,7.05,8858307.0,76.28,8608958.0,,1.37,state,end_use,9842.1,19.6842,3.8751892380691113
+2022,GA,Georgia,10,Other Industrial,10.2,260997.0,196.69,246086.0,44725.0,0.93,state,end_use,12488.0,24.976,7.875160153747598
+2022,GA,Georgia,98,Electric Power,7.05,8858307.0,76.28,8608958.0,,1.37,state,power_total,9842.1,19.6842,3.8751892380691113
+2022,HI,Hawaii,3,IPP CHP,7.58,379608.0,,256110.0,,0.21,state,ipp_component,10115.05,20.2301,
+2022,HI,Hawaii,94,Independent Power Producers,7.58,379608.0,,256110.0,,0.21,state,ipp_subtotal,10115.05,20.2301,
+2022,HI,Hawaii,98,Electric Power,7.58,379608.0,,256110.0,,0.21,state,power_total,10115.05,20.2301,
+2022,IA,Iowa,1,Electric Utility,4.92,10549868.0,31.67,10474093.0,,0.26,state,end_use,8695.5,17.391,1.8210568684951989
+2022,IA,Iowa,10,Other Industrial,4.98,2362198.0,,2328795.0,141338.0,0.53,state,end_use,8968.0,17.936,
+2022,IA,Iowa,8,Commercial and Institutional,8.96,91294.0,91.66,88764.0,5386.0,2.77,state,end_use,11138.0,22.276,4.114742323576944
+2022,IA,Iowa,98,Electric Power,4.92,10549868.0,31.67,10474093.0,,0.26,state,power_total,8695.5,17.391,1.8210568684951989
+2022,ID,Idaho,10,Other Industrial,9.26,76482.0,,39574.0,140487.0,0.58,state,end_use,12297.0,24.594,
+2022,IL,Illinois,1,Electric Utility,5.87,1075613.0,37.35,3799661.0,,0.88,state,end_use,11159.2,22.3184,1.673507061438096
+2022,IL,Illinois,10,Other Industrial,7.75,1866455.0,,1855326.0,47779.0,3.04,state,end_use,10618.0,21.236,
+2022,IL,Illinois,2,IPP Non-CHP,10.54,23275738.0,,22141925.0,,1.18,state,ipp_component,8658.95,17.3179,
+2022,IL,Illinois,8,Commercial and Institutional,10.06,73709.0,,74789.0,20974.0,3.18,state,end_use,11089.0,22.178,
+2022,IL,Illinois,9,Coke Plants,6.98,986834.0,,1035183.0,156980.0,0.97,state,end_use,14499.0,28.998,
+2022,IL,Illinois,94,Independent Power Producers,10.54,23275738.0,32.82,22141925.0,,1.18,state,ipp_subtotal,8658.95,17.3179,1.8951489499304186
+2022,IL,Illinois,98,Electric Power,9.82,24351351.0,33.49,25941586.0,,1.14,state,power_total,8769.4,17.5388,1.909480694232217
+2022,IN,Indiana,1,Electric Utility,8.88,24599486.42,61.39,21861971.0,,2.73,state,end_use,10759.2,21.5184,2.8529072793516246
+2022,IN,Indiana,10,Other Industrial,7.88,1228781.0,129.93,1218975.0,217311.0,1.14,state,end_use,13083.0,26.166,4.965604219215776
+2022,IN,Indiana,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2022,IN,Indiana,3,IPP CHP,8.94,2233646.0,,2487565.0,,3.15,state,ipp_component,11349.45,22.6989,
+2022,IN,Indiana,8,Commercial and Institutional,9.98,56545.0,,55706.0,2869.0,2.73,state,end_use,11147.0,22.294,
+2022,IN,Indiana,9,Coke Plants,7.24,3732730.0,,3725693.0,211367.0,0.83,state,end_use,14170.0,28.34,
+2022,IN,Indiana,94,Independent Power Producers,8.94,2233646.0,,2487565.0,,3.15,state,ipp_subtotal,11349.45,22.6989,
+2022,IN,Indiana,98,Electric Power,8.89,26833132.42,,24349536.0,,2.77,state,power_total,10808.35,21.6167,
+2022,KS,Kansas,1,Electric Utility,5.3,13053195.0,32.42,13126049.0,,0.28,state,end_use,8615.0,17.23,1.8816018572257691
+2022,KS,Kansas,10,Other Industrial,13.66,86011.0,,92861.0,11137.0,2.26,state,end_use,10497.0,20.994,
+2022,KS,Kansas,98,Electric Power,5.3,13053195.0,32.42,13126049.0,,0.28,state,power_total,8615.0,17.23,1.8816018572257691
+2022,KY,Kentucky,1,Electric Utility,8.85,22588730.0,52.76,27858629.0,,2.51,state,end_use,11123.45,22.2469,2.3715663755399627
+2022,KY,Kentucky,10,Other Industrial,7.28,801056.0,133.56,826760.0,61623.0,1.39,state,end_use,12938.0,25.876,5.1615396506415205
+2022,KY,Kentucky,8,Commercial and Institutional,4.53,737.0,,207.0,3549.0,0.6,state,end_use,13232.0,26.464,
+2022,KY,Kentucky,98,Electric Power,8.85,22588730.0,52.76,27858629.0,,2.51,state,power_total,11123.45,22.2469,2.3715663755399627
+2022,LA,Louisiana,1,Electric Utility,4.97,3132886.0,47.94,3063948.0,,0.43,state,end_use,8986.5,17.973,2.6673343348355867
+2022,LA,Louisiana,10,Other Industrial,7.21,332276.0,,330252.0,1598.0,0.55,state,end_use,7489.0,14.978,
+2022,LA,Louisiana,2,IPP Non-CHP,4.91,2163133.0,,2080602.0,,0.28,state,ipp_component,8235.6,16.4712,
+2022,LA,Louisiana,94,Independent Power Producers,4.91,2163133.0,,2080602.0,,0.28,state,ipp_subtotal,8235.6,16.4712,
+2022,LA,Louisiana,98,Electric Power,4.95,5296019.0,,5144550.0,,0.37,state,power_total,8679.8,17.3596,
+2022,MAT,Middle Atlantic,1,Electric Utility,,0.0,,,,,region,end_use,,,
+2022,MAT,Middle Atlantic,10,Other Industrial,10.93,702872.0,103.11,720268.0,206359.0,1.8,region,end_use,12323.0,24.646,4.183640347318023
+2022,MAT,Middle Atlantic,2,IPP Non-CHP,17.17,12432433.0,,11165854.0,,2.51,region,ipp_component,9901.8,19.8036,
+2022,MAT,Middle Atlantic,3,IPP CHP,45.61,2557133.0,,2273585.0,,0.63,region,ipp_component,5424.25,10.8485,
+2022,MAT,Middle Atlantic,8,Commercial and Institutional,6.72,2997.0,,2273.0,20152.0,0.78,region,end_use,13078.0,26.156,
+2022,MAT,Middle Atlantic,9,Coke Plants,6.87,5426821.0,,5475319.0,496150.0,1.04,region,end_use,14424.0,28.848,
+2022,MAT,Middle Atlantic,94,Independent Power Producers,19.93,14989566.0,59.83,13439439.0,,2.33,region,ipp_subtotal,9137.95,18.2759,3.273710186639235
+2022,MAT,Middle Atlantic,98,Electric Power,19.93,14989566.0,59.83,13439439.0,,2.33,region,power_total,9137.95,18.2759,3.273710186639235
+2022,MD,Maryland,10,Other Industrial,22.59,425437.0,,442826.0,32655.0,1.38,state,end_use,11096.0,22.192,
+2022,MD,Maryland,2,IPP Non-CHP,7.97,1485702.0,,1197952.0,,2.47,state,ipp_component,12991.35,25.9827,
+2022,MD,Maryland,3,IPP CHP,21.76,633368.0,,659437.0,,1.86,state,ipp_component,10963.15,21.9263,
+2022,MD,Maryland,94,Independent Power Producers,12.38,2119070.0,,1857389.0,,2.27,state,ipp_subtotal,12385.15,24.7703,
+2022,MD,Maryland,98,Electric Power,12.38,2119070.0,,1857389.0,,2.27,state,power_total,12385.15,24.7703,
+2022,ME,Maine,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2022,ME,Maine,3,IPP CHP,6.97,65391.0,,65391.0,,0.94,state,ipp_component,9705.25,19.4105,
+2022,ME,Maine,94,Independent Power Producers,6.97,65391.0,,65391.0,,0.94,state,ipp_subtotal,9705.25,19.4105,
+2022,ME,Maine,98,Electric Power,6.97,65391.0,,65391.0,,0.94,state,power_total,9705.25,19.4105,
+2022,MI,Michigan,1,Electric Utility,5.08,19679544.0,44.56,18202522.0,,0.52,state,end_use,9453.8,18.9076,2.3567242801836303
+2022,MI,Michigan,10,Other Industrial,8.57,313448.0,,284587.0,105839.0,0.8,state,end_use,11913.0,23.826,
+2022,MI,Michigan,3,IPP CHP,7.62,181658.0,,168357.0,,1.45,state,ipp_component,11981.9,23.9638,
+2022,MI,Michigan,9,Coke Plants,7.46,1427767.0,,1481089.0,304054.0,0.71,state,end_use,13864.0,27.728,
+2022,MI,Michigan,94,Independent Power Producers,7.62,181658.0,,168357.0,,1.45,state,ipp_subtotal,11981.9,23.9638,
+2022,MI,Michigan,98,Electric Power,5.11,19861202.0,,18370879.0,,0.53,state,power_total,9476.9,18.9538,
+2022,MN,Minnesota,1,Electric Utility,5.68,9594115.0,41.2,9997218.0,,0.32,state,end_use,8759.35,17.5187,2.3517726771963674
+2022,MN,Minnesota,10,Other Industrial,4.26,879545.0,54.18,869601.0,24497.0,0.35,state,end_use,9306.0,18.612,2.9110251450676987
+2022,MN,Minnesota,8,Commercial and Institutional,4.7,3997.0,,6319.0,6176.0,0.29,state,end_use,8866.0,17.732,
+2022,MN,Minnesota,98,Electric Power,5.68,9594115.0,41.2,9997218.0,,0.32,state,power_total,8759.35,17.5187,2.3517726771963674
+2022,MO,Missouri,1,Electric Utility,4.75,31082596.0,33.99,28981627.0,,0.26,state,end_use,8811.4,17.6228,1.928751390244456
+2022,MO,Missouri,10,Other Industrial,8.54,845125.0,62.41,889757.0,76817.0,2.12,state,end_use,11183.0,22.366,2.790396136993651
+2022,MO,Missouri,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2022,MO,Missouri,8,Commercial and Institutional,9.0,11999.0,,11762.0,655.0,3.03,state,end_use,11444.0,22.888,
+2022,MO,Missouri,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2022,MO,Missouri,98,Electric Power,4.75,31082596.0,33.99,28981627.0,,0.26,state,power_total,8811.4,17.6228,1.928751390244456
+2022,MS,Mississippi,1,Electric Utility,5.8,1705844.0,70.71,1632456.0,,0.38,state,end_use,9010.3,18.0206,3.9238427133391776
+2022,MS,Mississippi,10,Other Industrial,3.73,69025.0,,71658.0,5445.0,0.81,state,end_use,14734.0,29.468,
+2022,MS,Mississippi,2,IPP Non-CHP,14.83,3209122.0,,3209122.0,,0.57,state,ipp_component,5210.1,10.4202,
+2022,MS,Mississippi,94,Independent Power Producers,14.83,3209122.0,,3209122.0,,0.57,state,ipp_subtotal,5210.1,10.4202,
+2022,MS,Mississippi,98,Electric Power,10.62,4914966.0,,4841578.0,,0.48,state,power_total,6529.05,13.0581,
+2022,MT,Montana,1,Electric Utility,,0.0,,,,,state,end_use,,,
+2022,MT,Montana,10,Other Industrial,5.15,250001.0,53.08,229091.0,24454.0,0.35,state,end_use,9081.0,18.162,2.922585618323973
+2022,MT,Montana,2,IPP Non-CHP,9.12,7394917.0,,7082214.0,,0.7,state,ipp_component,8571.1,17.1422,
+2022,MT,Montana,8,Commercial and Institutional,10.67,1825.0,,1028.0,1853.0,0.74,state,end_use,10689.0,21.378,
+2022,MT,Montana,94,Independent Power Producers,9.12,7394917.0,,7082214.0,,0.7,state,ipp_subtotal,8571.1,17.1422,
+2022,MT,Montana,98,Electric Power,9.12,7394917.0,,7082214.0,,0.7,state,power_total,8571.1,17.1422,
+2022,MTN,Mountain,1,Electric Utility,9.81,59112057.0,40.73,56463768.0,,0.5,region,end_use,9405.4,18.8108,2.165245497267527
+2022,MTN,Mountain,10,Other Industrial,6.52,2694647.0,68.78,2625722.0,377828.0,0.51,region,end_use,10600.0,21.2,3.2443396226415095
+2022,MTN,Mountain,2,IPP Non-CHP,9.74,9072831.0,,8736634.0,,0.65,region,ipp_component,8448.15,16.8963,
+2022,MTN,Mountain,8,Commercial and Institutional,11.2,10652.0,,9702.0,2423.0,0.48,region,end_use,11428.0,22.856,
+2022,MTN,Mountain,94,Independent Power Producers,9.74,9072831.0,31.14,8736634.0,,0.65,region,ipp_subtotal,8448.15,16.8963,1.8430070488805241
+2022,MTN,Mountain,98,Electric Power,9.8,68184888.0,39.5,65200402.0,,0.52,region,power_total,9278.05,18.5561,2.1286800566929474
+2022,NC,North Carolina,1,Electric Utility,9.12,6028693.0,90.04,5686084.0,,1.85,state,end_use,12609.9,25.2198,3.570210707460012
+2022,NC,North Carolina,10,Other Industrial,8.17,374760.0,149.7,394360.0,81306.0,1.0,state,end_use,13402.0,26.804,5.584987315326071
+2022,NC,North Carolina,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2022,NC,North Carolina,8,Commercial and Institutional,8.83,36746.0,,35851.0,29746.0,1.58,state,end_use,12818.0,25.636,
+2022,NC,North Carolina,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2022,NC,North Carolina,98,Electric Power,9.12,6028693.0,90.04,5686084.0,,1.85,state,power_total,12609.9,25.2198,3.570210707460012
+2022,ND,North Dakota,1,Electric Utility,9.79,21064630.0,21.87,21440734.0,,0.73,state,end_use,6735.25,13.4705,1.6235477524961954
+2022,ND,North Dakota,10,Other Industrial,6.73,5890605.0,22.12,5858388.0,201964.0,0.82,state,end_use,7228.0,14.456,1.5301604869950194
+2022,ND,North Dakota,8,Commercial and Institutional,6.13,23865.0,,22585.0,4880.0,0.39,state,end_use,9083.0,18.166,
+2022,ND,North Dakota,98,Electric Power,9.79,21064630.0,21.87,21440734.0,,0.73,state,power_total,6735.25,13.4705,1.6235477524961954
+2022,NE,Nebraska,1,Electric Utility,4.93,11929240.0,22.06,11557052.0,,0.26,state,end_use,8656.0,17.312,1.274260628465804
+2022,NE,Nebraska,10,Other Industrial,4.66,972478.0,25.08,969502.0,35373.0,0.23,state,end_use,8767.0,17.534,1.4303638644918444
+2022,NE,Nebraska,98,Electric Power,4.93,11929240.0,22.06,11557052.0,,0.26,state,power_total,8656.0,17.312,1.274260628465804
+2022,NEW,New England,2,IPP Non-CHP,7.65,146526.0,,175564.0,,2.83,region,ipp_component,13184.15,26.3683,
+2022,NEW,New England,3,IPP CHP,6.97,65391.0,,65391.0,,0.94,region,ipp_component,9705.25,19.4105,
+2022,NEW,New England,94,Independent Power Producers,7.5,211917.0,,240955.0,,2.42,region,ipp_subtotal,12110.65,24.2213,
+2022,NEW,New England,98,Electric Power,7.5,211917.0,,240955.0,,2.42,region,power_total,12110.65,24.2213,
+2022,NH,New Hampshire,2,IPP Non-CHP,7.65,146526.0,,175564.0,,2.83,state,ipp_component,13184.15,26.3683,
+2022,NH,New Hampshire,94,Independent Power Producers,7.65,146526.0,,175564.0,,2.83,state,ipp_subtotal,13184.15,26.3683,
+2022,NH,New Hampshire,98,Electric Power,7.65,146526.0,,175564.0,,2.83,state,power_total,13184.15,26.3683,
+2022,NJ,New Jersey,1,Electric Utility,,0.0,,,,,state,end_use,,,
+2022,NJ,New Jersey,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2022,NJ,New Jersey,3,IPP CHP,7.18,241610.0,,183955.0,,1.34,state,ipp_component,12828.8,25.6576,
+2022,NJ,New Jersey,94,Independent Power Producers,7.18,241610.0,,183955.0,,1.34,state,ipp_subtotal,12828.8,25.6576,
+2022,NJ,New Jersey,98,Electric Power,7.18,241610.0,,183955.0,,1.34,state,power_total,12828.8,25.6576,
+2022,NM,New Mexico,1,Electric Utility,20.47,7369919.0,54.31,7519747.0,,0.79,state,end_use,9264.15,18.5283,2.931191744520544
+2022,NM,New Mexico,10,Other Industrial,10.31,62467.0,,62201.0,2443.0,0.71,state,end_use,12205.0,24.41,
+2022,NM,New Mexico,98,Electric Power,20.47,7369919.0,54.31,7519747.0,,0.79,state,power_total,9264.15,18.5283,2.931191744520544
+2022,NV,Nevada,1,Electric Utility,9.11,835195.0,69.31,926821.0,,0.44,state,end_use,10614.05,21.2281,3.2650119417187593
+2022,NV,Nevada,10,Other Industrial,9.86,211650.0,95.92,239795.0,45019.0,0.46,state,end_use,11516.0,23.032,4.164640500173672
+2022,NV,Nevada,2,IPP Non-CHP,5.27,741757.0,,718263.0,,0.32,state,ipp_component,8918.5,17.837,
+2022,NV,Nevada,94,Independent Power Producers,5.27,741757.0,,718263.0,,0.32,state,ipp_subtotal,8918.5,17.837,
+2022,NV,Nevada,98,Electric Power,7.59,1576952.0,,1645084.0,,0.4,state,power_total,9816.5,19.633,
+2022,NY,New York,1,Electric Utility,,0.0,,,,,state,end_use,,,
+2022,NY,New York,10,Other Industrial,9.54,241423.0,,265780.0,55974.0,2.21,state,end_use,12723.0,25.446,
+2022,NY,New York,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2022,NY,New York,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2022,NY,New York,98,Electric Power,,0.0,,,,,state,power_total,,,
+2022,OH,Ohio,1,Electric Utility,9.43,2309854.0,70.52,1916252.0,,3.47,state,end_use,12043.7,24.0874,2.927671728787665
+2022,OH,Ohio,10,Other Industrial,7.6,375971.0,127.09,376831.0,20490.0,2.18,state,end_use,12604.0,25.208,5.041653443351318
+2022,OH,Ohio,2,IPP Non-CHP,9.21,15777210.0,,14692448.0,,3.68,state,ipp_component,12400.95,24.8019,
+2022,OH,Ohio,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2022,OH,Ohio,9,Coke Plants,7.48,2885359.0,,2870796.0,259187.0,0.88,state,end_use,14412.0,28.824,
+2022,OH,Ohio,94,Independent Power Producers,9.21,15777210.0,,14692448.0,,3.68,state,ipp_subtotal,12400.95,24.8019,
+2022,OH,Ohio,98,Electric Power,9.24,18087064.0,,16608700.0,,3.65,state,power_total,12355.35,24.7107,
+2022,OK,Oklahoma,1,Electric Utility,5.13,5854440.0,45.45,6134389.0,,0.25,state,end_use,8740.6,17.4812,2.599935931171773
+2022,OK,Oklahoma,10,Other Industrial,7.11,200746.0,114.02,226910.0,110119.0,0.64,state,end_use,11240.0,22.48,5.072064056939501
+2022,OK,Oklahoma,98,Electric Power,5.13,5854440.0,45.45,6134389.0,,0.25,state,power_total,8740.6,17.4812,2.599935931171773
+2022,OR,Oregon,10,Other Industrial,10.48,47732.0,,57799.0,16024.0,0.64,state,end_use,11162.0,22.324,
+2022,PA,Pennsylvania,1,Electric Utility,,0.0,,,,,state,end_use,,,
+2022,PA,Pennsylvania,10,Other Industrial,11.74,461449.0,,454488.0,150385.0,1.56,state,end_use,12089.0,24.178,
+2022,PA,Pennsylvania,2,IPP Non-CHP,17.17,12432433.0,,11165854.0,,2.51,state,ipp_component,9901.8,19.8036,
+2022,PA,Pennsylvania,3,IPP CHP,54.91,2315523.0,,2089630.0,,0.46,state,ipp_component,4651.6,9.3032,
+2022,PA,Pennsylvania,8,Commercial and Institutional,6.72,2997.0,,2273.0,20152.0,0.78,state,end_use,13078.0,26.156,
+2022,PA,Pennsylvania,9,Coke Plants,6.87,5426821.0,,5475319.0,496150.0,1.04,state,end_use,14424.0,28.848,
+2022,PA,Pennsylvania,94,Independent Power Producers,20.17,14747956.0,,13255484.0,,2.35,state,ipp_subtotal,9077.45,18.1549,
+2022,PA,Pennsylvania,98,Electric Power,20.17,14747956.0,,13255484.0,,2.35,state,power_total,9077.45,18.1549,
+2022,PCC,Pacific Contiguous,10,Other Industrial,8.11,1447298.0,90.69,1447951.0,126810.0,0.43,region,end_use,11254.0,22.508,4.029234050115514
+2022,PCC,Pacific Contiguous,2,IPP Non-CHP,8.28,2404535.0,,2433840.0,,0.39,region,ipp_component,8479.45,16.9589,
+2022,PCC,Pacific Contiguous,3,IPP CHP,,0.0,,,,,region,ipp_component,,,
+2022,PCC,Pacific Contiguous,94,Independent Power Producers,8.28,2404535.0,,2433840.0,,0.39,region,ipp_subtotal,8479.45,16.9589,
+2022,PCC,Pacific Contiguous,98,Electric Power,8.28,2404535.0,,2433840.0,,0.39,region,power_total,8479.45,16.9589,
+2022,PCN,Pacific Noncontiguous,1,Electric Utility,7.67,574511.0,56.51,368429.0,,0.13,region,end_use,7408.65,14.8173,3.813785237526405
+2022,PCN,Pacific Noncontiguous,10,Other Industrial,,1444.0,,1444.0,,,region,end_use,,,
+2022,PCN,Pacific Noncontiguous,3,IPP CHP,7.58,564954.0,,256110.0,,0.21,region,ipp_component,9267.05,18.5341,
+2022,PCN,Pacific Noncontiguous,8,Commercial and Institutional,6.73,478461.0,88.72,472192.0,59209.0,0.18,region,end_use,7582.0,15.164,5.8506990240042205
+2022,PCN,Pacific Noncontiguous,94,Independent Power Producers,7.58,564954.0,,256110.0,,0.21,region,ipp_subtotal,9267.05,18.5341,
+2022,PCN,Pacific Noncontiguous,98,Electric Power,7.62,1139465.0,,624539.0,,0.17,region,power_total,8330.05,16.6601,
+2022,PR,Puerto Rico,2,IPP Non-CHP,5.92,1516205.0,,1510354.0,,0.57,territory,ipp_component,10750.0,21.5,
+2022,PR,Puerto Rico,94,Independent Power Producers,5.92,1516205.0,,1510354.0,,0.57,territory,ipp_subtotal,10750.0,21.5,
+2022,PR,Puerto Rico,98,Electric Power,5.92,1516205.0,,1510354.0,,0.57,territory,power_total,10750.0,21.5,
+2022,RI,Rhode Island,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2022,RI,Rhode Island,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2022,RI,Rhode Island,98,Electric Power,,0.0,,,,,state,power_total,,,
+2022,SAT,South Atlantic,1,Electric Utility,9.56,45214545.0,75.09,45730408.0,,2.33,region,end_use,11758.05,23.5161,3.1931315141541328
+2022,SAT,South Atlantic,10,Other Industrial,12.04,1968967.0,144.95,2028543.0,310460.0,1.29,region,end_use,12526.0,25.052,5.785965192399808
+2022,SAT,South Atlantic,2,IPP Non-CHP,10.26,7071662.0,,6785128.0,,3.36,region,ipp_component,12250.3,24.5006,
+2022,SAT,South Atlantic,3,IPP CHP,18.37,852134.0,,880804.0,,1.64,region,ipp_component,11455.35,22.9107,
+2022,SAT,South Atlantic,8,Commercial and Institutional,8.25,45472.0,188.38,43864.0,40325.0,1.44,region,end_use,12942.0,25.884,7.277855045588008
+2022,SAT,South Atlantic,9,Coke Plants,6.56,983465.0,,849434.0,71005.0,0.84,region,end_use,14526.0,29.052,
+2022,SAT,South Atlantic,94,Independent Power Producers,11.14,7923796.0,68.84,7665932.0,,3.17,region,ipp_subtotal,12164.85,24.3297,2.8294635774382755
+2022,SAT,South Atlantic,98,Electric Power,9.8,53138341.0,74.19,53396340.0,,2.46,region,power_total,11818.7,23.6374,3.1386700736967685
+2022,SC,South Carolina,1,Electric Utility,9.23,5862384.0,87.74,6406643.0,,2.04,state,end_use,12191.6,24.3832,3.5983792119164013
+2022,SC,South Carolina,10,Other Industrial,9.13,92739.0,142.14,104621.0,37446.0,1.55,state,end_use,12909.0,25.818,5.505461306065535
+2022,SC,South Carolina,3,IPP CHP,9.67,218766.0,,221367.0,,1.07,state,ipp_component,12880.3,25.7606,
+2022,SC,South Carolina,94,Independent Power Producers,9.67,218766.0,,221367.0,,1.07,state,ipp_subtotal,12880.3,25.7606,
+2022,SC,South Carolina,98,Electric Power,9.25,6081150.0,,6628010.0,,2.01,state,power_total,12216.35,24.4327,
+2022,SD,South Dakota,1,Electric Utility,5.18,1248717.0,34.29,1299430.0,,0.33,state,end_use,8231.400000000001,16.462800000000005,2.0828777607697346
+2022,SD,South Dakota,10,Other Industrial,4.85,262716.0,,280146.0,36755.0,0.35,state,end_use,8015.0,16.03,
+2022,SD,South Dakota,98,Electric Power,5.18,1248717.0,34.29,1299430.0,,0.33,state,power_total,8231.400000000001,16.462800000000005,2.0828777607697346
+2022,TN,Tennessee,1,Electric Utility,8.05,8371470.0,77.5,4434380.0,,1.87,state,end_use,10583.2,21.1664,3.6614634515080504
+2022,TN,Tennessee,10,Other Industrial,7.4,1064798.0,,1144513.0,111614.0,1.5,state,end_use,12928.0,25.856,
+2022,TN,Tennessee,98,Electric Power,8.05,8371470.0,77.5,4434380.0,,1.87,state,power_total,10583.2,21.1664,3.6614634515080504
+2022,TX,Texas,1,Electric Utility,8.65,22248451.0,36.03,20983805.0,,0.56,state,end_use,7909.15,15.8183,2.277741603079977
+2022,TX,Texas,10,Other Industrial,8.72,272928.0,103.74,285329.0,98427.0,0.54,state,end_use,11613.0,23.226,4.466546112115732
+2022,TX,Texas,2,IPP Non-CHP,8.29,36819109.0,,36782617.0,,0.51,state,ipp_component,7798.9,15.5978,
+2022,TX,Texas,94,Independent Power Producers,8.29,36819109.0,,36782617.0,,0.51,state,ipp_subtotal,7798.9,15.5978,
+2022,TX,Texas,98,Electric Power,8.42,59067560.0,,57766422.0,,0.53,state,power_total,7840.4,15.6808,
+2022,US,U.S. Total,1,Electric Utility,7.72,351588976.42,45.96,346120368.0,74917384.0,1.15,national,end_use,9491.4,18.9828,2.4211391364814463
+2022,US,U.S. Total,10,Other Industrial,7.39,25891497.0,69.76,25985004.0,2499347.0,1.06,national,end_use,10194.0,20.388,3.421620561114381
+2022,US,U.S. Total,2,IPP Non-CHP,10.12,114789813.0,39.58,110732611.0,13246222.0,1.67,national,ipp_component,9136.15,18.2723,2.1661203023155267
+2022,US,U.S. Total,3,IPP CHP,18.49,6454916.0,50.66,6131812.0,696977.0,2.11,national,ipp_component,8835.0,17.67,2.8670062252405204
+2022,US,U.S. Total,8,Commercial and Institutional,7.67,799728.0,89.85,788163.0,166598.0,1.06,national,end_use,9041.0,18.082,4.9690299745603355
+2022,US,U.S. Total,9,Coke Plants,7.1,16009253.0,195.61,16053281.0,1626612.0,0.9,national,end_use,14334.0,28.668,6.8232872889633045
+2022,US,U.S. Total,94,Independent Power Producers,10.55,121244729.0,40.16,116864423.0,13943199.0,1.69,national,ipp_subtotal,9120.1,18.2402,2.2017302441859186
+2022,US,U.S. Total,98,Electric Power,8.41,472833705.42,44.5,462984791.0,88860583.0,1.28,national,power_total,9396.2,18.7924,2.3679785445179964
+2022,UT,Utah,1,Electric Utility,10.42,10154867.0,47.77,9630793.0,,0.6,state,end_use,11103.35,22.2067,2.151152580077184
+2022,UT,Utah,10,Other Industrial,10.24,317521.0,59.63,323370.0,51782.0,0.44,state,end_use,11631.0,23.262,2.5634081334365058
+2022,UT,Utah,2,IPP Non-CHP,42.88,416316.0,,416316.0,,0.72,state,ipp_component,5978.85,11.9577,
+2022,UT,Utah,94,Independent Power Producers,42.88,416316.0,,416316.0,,0.72,state,ipp_subtotal,5978.85,11.9577,
+2022,UT,Utah,98,Electric Power,11.16,10571183.0,47.77,10047109.0,,0.6,state,power_total,10901.5,21.803,2.1909828922625327
+2022,VA,Virginia,1,Electric Utility,18.18,1652415.0,68.06,1655075.0,,1.56,state,end_use,10230.9,20.4618,3.326198086189876
+2022,VA,Virginia,10,Other Industrial,9.02,366863.0,130.79,401723.0,48299.0,1.09,state,end_use,12944.0,25.888,5.052147713226205
+2022,VA,Virginia,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2022,VA,Virginia,8,Commercial and Institutional,5.68,8726.0,,8013.0,7869.0,0.8,state,end_use,13495.0,26.99,
+2022,VA,Virginia,9,Coke Plants,6.5,830274.0,,785339.0,57980.0,0.83,state,end_use,14570.0,29.14,
+2022,VA,Virginia,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2022,VA,Virginia,98,Electric Power,18.18,1652415.0,68.06,1655075.0,,1.56,state,power_total,10230.9,20.4618,3.326198086189876
+2022,WA,Washington,10,Other Industrial,4.66,77690.0,,76031.0,3712.0,0.35,state,end_use,9395.0,18.79,
+2022,WA,Washington,2,IPP Non-CHP,8.28,2404535.0,,2433840.0,,0.39,state,ipp_component,8479.45,16.9589,
+2022,WA,Washington,94,Independent Power Producers,8.28,2404535.0,,2433840.0,,0.39,state,ipp_subtotal,8479.45,16.9589,
+2022,WA,Washington,98,Electric Power,8.28,2404535.0,,2433840.0,,0.39,state,power_total,8479.45,16.9589,
+2022,WI,Wisconsin,1,Electric Utility,5.12,12455654.0,43.89,12383730.0,,0.4,state,end_use,8932.6,17.8652,2.456731522736941
+2022,WI,Wisconsin,10,Other Industrial,7.06,455927.0,92.03,447672.0,80445.0,0.88,state,end_use,10948.0,21.896,4.2030507855316035
+2022,WI,Wisconsin,98,Electric Power,5.12,12455654.0,43.89,12383730.0,,0.4,state,power_total,8932.6,17.8652,2.456731522736941
+2022,WNC,West North Central,1,Electric Utility,5.86,98522361.0,30.17,96876203.0,,0.35,region,end_use,8297.85,16.5957,1.8179407918918755
+2022,WNC,West North Central,10,Other Industrial,6.15,11298678.0,31.17,11289050.0,527881.0,0.77,region,end_use,8237.0,16.474,1.8920723564404518
+2022,WNC,West North Central,3,IPP CHP,,0.0,,,,,region,ipp_component,,,
+2022,WNC,West North Central,8,Commercial and Institutional,8.26,131155.0,86.07,129430.0,17097.0,2.26,region,end_use,10696.0,21.392,4.023466716529543
+2022,WNC,West North Central,94,Independent Power Producers,,0.0,,,,,region,ipp_subtotal,,,
+2022,WNC,West North Central,98,Electric Power,5.86,98522361.0,30.17,96876203.0,,0.35,region,power_total,8297.85,16.5957,1.8179407918918755
+2022,WSC,West South Central,1,Electric Utility,6.74,40744233.0,39.69,40211891.0,,0.41,region,end_use,8305.55,16.611099999999997,2.389366146733209
+2022,WSC,West South Central,10,Other Industrial,7.91,947011.0,87.3,980826.0,236317.0,0.66,region,end_use,10097.0,20.194,4.323066257304149
+2022,WSC,West South Central,2,IPP Non-CHP,7.88,41399756.0,,41392096.0,,0.48,region,ipp_component,7877.25,15.7545,
+2022,WSC,West South Central,94,Independent Power Producers,7.88,41399756.0,31.93,41392096.0,,0.48,region,ipp_subtotal,7877.25,15.7545,2.0267225237233806
+2022,WSC,West South Central,98,Electric Power,7.3,82143989.0,35.76,81603987.0,,0.44,region,power_total,8089.700000000001,16.1794,2.210217931443687
+2022,WV,West Virginia,1,Electric Utility,10.54,15659671.0,61.11,16695610.0,,2.93,state,end_use,12537.3,25.0746,2.437127611208155
+2022,WV,West Virginia,10,Other Industrial,8.96,260584.0,,262400.0,23325.0,1.32,state,end_use,13209.0,26.418,
+2022,WV,West Virginia,2,IPP Non-CHP,10.88,5515891.0,,5443562.0,,3.6,state,ipp_component,12039.05,24.0781,
+2022,WV,West Virginia,9,Coke Plants,7.38,153191.0,,64095.0,13025.0,1.01,state,end_use,13989.0,27.978,
+2022,WV,West Virginia,94,Independent Power Producers,10.88,5515891.0,42.64,5443562.0,,3.6,state,ipp_subtotal,12039.05,24.0781,1.7709038503868662
+2022,WV,West Virginia,98,Electric Power,10.62,21175562.0,56.57,22139172.0,,3.09,state,power_total,12407.5,24.815,2.2796695547048156
+2022,WY,Wyoming,1,Electric Utility,7.03,20324343.0,28.62,18906887.0,,0.41,state,end_use,8720.95,17.4419,1.6408762806804305
+2022,WY,Wyoming,10,Other Industrial,4.24,1364307.0,56.25,1326599.0,79829.0,0.52,state,end_use,10000.0,20.0,2.8125
+2022,WY,Wyoming,2,IPP Non-CHP,5.92,519841.0,,519841.0,,0.4,state,ipp_component,8005.599999999999,16.0112,
+2022,WY,Wyoming,8,Commercial and Institutional,11.26,8674.0,,8674.0,100.0,0.45,state,end_use,11515.0,23.03,
+2022,WY,Wyoming,94,Independent Power Producers,5.92,519841.0,,519841.0,,0.4,state,ipp_subtotal,8005.599999999999,16.0112,
+2022,WY,Wyoming,98,Electric Power,7.0,20844184.0,,19426728.0,,0.41,state,power_total,8703.1,17.4062,
+2023,90,Pacific,1,Electric Utility,6.8,546216.0,67.4,342146.0,,0.12,pacific_subtotal,end_use,7438.65,14.8773,4.530391939397606
+2023,90,Pacific,2,IPP Non-CHP,7.71,2795016.0,,2598987.0,,0.38,pacific_subtotal,ipp_component,8607.55,17.2151,
+2023,90,Pacific,3,IPP CHP,,175675.0,,,,,pacific_subtotal,ipp_component,7648.65,15.2973,
+2023,90,Pacific,94,Independent Power Producers,7.71,2970691.0,,2598987.0,,0.38,pacific_subtotal,ipp_subtotal,8550.85,17.1017,
+2023,90,Pacific,98,Electric Power,7.62,3516907.0,,2941133.0,,0.35,pacific_subtotal,power_total,8378.1,16.7562,
+2023,AK,Alaska,1,Electric Utility,6.8,546216.0,67.4,342146.0,,0.12,state,end_use,7438.65,14.8773,4.530391939397606
+2023,AK,Alaska,10,Other Industrial,,1082.0,,1082.0,,,state,end_use,,,
+2023,AK,Alaska,3,IPP CHP,,175675.0,,,,,state,ipp_component,7648.65,15.2973,
+2023,AK,Alaska,8,Commercial and Institutional,5.69,497824.0,,472986.0,27694.0,0.13,state,end_use,7613.0,15.226,
+2023,AK,Alaska,94,Independent Power Producers,,175675.0,,,,,state,ipp_subtotal,7648.65,15.2973,
+2023,AK,Alaska,98,Electric Power,6.8,721891.0,67.4,342146.0,,0.12,state,power_total,7489.75,14.9795,4.499482626255883
+2023,AL,Alabama,1,Electric Utility,6.65,10966126.0,55.53,13184791.0,,0.46,state,end_use,9098.25,18.1965,3.0516857637457755
+2023,AL,Alabama,10,Other Industrial,7.49,424684.0,175.54,442472.0,82132.0,1.38,state,end_use,12930.0,25.86,6.788089713843774
+2023,AL,Alabama,9,Coke Plants,6.39,481433.0,,508523.0,149852.0,0.68,state,end_use,14954.0,29.908,
+2023,AL,Alabama,98,Electric Power,6.65,10966126.0,55.53,13184791.0,,0.46,state,power_total,9098.25,18.1965,3.0516857637457755
+2023,AR,Arkansas,1,Electric Utility,4.67,8159249.0,38.69,9041559.0,,0.22,state,end_use,8753.2,17.5064,2.210048896403601
+2023,AR,Arkansas,10,Other Industrial,10.18,138686.0,,139023.0,26487.0,1.36,state,end_use,11379.0,22.758,
+2023,AR,Arkansas,2,IPP Non-CHP,4.57,1929255.0,,2076293.0,,0.22,state,ipp_component,8880.6,17.7612,
+2023,AR,Arkansas,94,Independent Power Producers,4.57,1929255.0,,2076293.0,,0.22,state,ipp_subtotal,8880.6,17.7612,
+2023,AR,Arkansas,98,Electric Power,4.65,10088504.0,,11117852.0,,0.22,state,power_total,8777.6,17.5552,
+2023,AZ,Arizona,1,Electric Utility,8.97,7301485.0,55.08,8509850.0,,0.54,state,end_use,9068.65,18.1373,3.0368356921923327
+2023,AZ,Arizona,10,Other Industrial,10.86,239370.0,,283945.0,54182.0,0.65,state,end_use,11397.0,22.794,
+2023,AZ,Arizona,98,Electric Power,8.97,7301485.0,55.08,8509850.0,,0.54,state,power_total,9068.65,18.1373,3.0368356921923327
+2023,CA,California,10,Other Industrial,9.73,1276575.0,114.84,1278692.0,110355.0,0.58,state,end_use,11259.0,22.518,5.099920063948841
+2023,CA,California,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2023,CA,California,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2023,CA,California,98,Electric Power,,0.0,,,,,state,power_total,,,
+2023,CO,Colorado,1,Electric Utility,6.93,10964061.0,38.89,12452604.0,,0.34,state,end_use,9205.9,18.4118,2.1122323727174965
+2023,CO,Colorado,10,Other Industrial,10.7,126589.0,,151660.0,28095.0,0.56,state,end_use,11660.0,23.32,
+2023,CO,Colorado,8,Commercial and Institutional,10.06,242.0,,147.0,375.0,0.53,state,end_use,12531.0,25.062,
+2023,CO,Colorado,98,Electric Power,6.93,10964061.0,38.89,12452604.0,,0.34,state,power_total,9205.9,18.4118,2.1122323727174965
+2023,CT,Connecticut,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2023,CT,Connecticut,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2023,CT,Connecticut,98,Electric Power,,0.0,,,,,state,power_total,,,
+2023,DC,District of Columbia,8,Commercial and Institutional,,,,,2710.0,,state,end_use,,,
+2023,DE,Delaware,2,IPP Non-CHP,7.77,13316.0,,95449.0,,2.29,state,ipp_component,12688.0,25.376,
+2023,DE,Delaware,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2023,DE,Delaware,94,Independent Power Producers,7.77,13316.0,,95449.0,,2.29,state,ipp_subtotal,12688.0,25.376,
+2023,DE,Delaware,98,Electric Power,7.77,13316.0,,95449.0,,2.29,state,power_total,12688.0,25.376,
+2023,ENC,East North Central,1,Electric Utility,6.78,46314874.74,54.08,52618930.0,,1.57,region,end_use,10088.5,20.177,2.6802795261931904
+2023,ENC,East North Central,10,Other Industrial,6.95,3848034.0,107.33,3872542.0,515652.0,1.59,region,end_use,11466.0,22.932,4.680359323216466
+2023,ENC,East North Central,2,IPP Non-CHP,10.62,25749526.0,,29899232.0,,2.31,region,ipp_component,10278.6,20.5572,
+2023,ENC,East North Central,3,IPP CHP,9.02,2207705.0,,2399190.0,,3.24,region,ipp_component,11342.1,22.6842,
+2023,ENC,East North Central,8,Commercial and Institutional,9.87,93450.0,63.33,98078.0,21534.0,3.01,region,end_use,11147.0,22.294,2.840674620974253
+2023,ENC,East North Central,9,Coke Plants,7.1,9468704.0,227.42,9433037.0,894723.0,0.85,region,end_use,14409.0,28.818,7.89159553057117
+2023,ENC,East North Central,94,Independent Power Producers,10.49,27957231.0,48.28,32298422.0,,2.38,region,ipp_subtotal,10362.55,20.7251,2.329542438878461
+2023,ENC,East North Central,98,Electric Power,8.22,74272105.74,51.87,84917352.0,,1.89,region,power_total,10191.65,20.3833,2.54473024485731
+2023,ESC,East South Central,1,Electric Utility,8.14,41065512.0,57.12,44447554.0,,1.85,region,end_use,10405.45,20.8109,2.7447155096608027
+2023,ESC,East South Central,10,Other Industrial,7.5,2300592.0,154.03,2327913.0,256423.0,1.38,region,end_use,12992.0,25.984,5.92787869458128
+2023,ESC,East South Central,2,IPP Non-CHP,14.63,2925597.0,,2925597.0,,0.48,region,ipp_component,5113.9,10.2278,
+2023,ESC,East South Central,8,Commercial and Institutional,,,,,3549.0,,region,end_use,,,
+2023,ESC,East South Central,9,Coke Plants,6.39,481433.0,,508523.0,149852.0,0.68,region,end_use,14954.0,29.908,
+2023,ESC,East South Central,94,Independent Power Producers,14.63,2925597.0,,2925597.0,,0.48,region,ipp_subtotal,5113.9,10.2278,
+2023,ESC,East South Central,98,Electric Power,8.34,43991109.0,,47373151.0,,1.81,region,power_total,10053.55,20.1071,
+2023,FL,Florida,1,Electric Utility,8.77,5451222.0,79.21,5913157.0,,2.81,state,end_use,11653.05,23.3061,3.3986810320044962
+2023,FL,Florida,10,Other Industrial,9.09,99222.0,,77749.0,34169.0,2.14,state,end_use,11795.0,23.59,
+2023,FL,Florida,98,Electric Power,8.77,5451222.0,79.21,5913157.0,,2.81,state,power_total,11653.05,23.3061,3.3986810320044962
+2023,GA,Georgia,1,Electric Utility,7.4,8616413.0,90.07,10204266.0,,1.49,state,end_use,10047.1,20.0942,4.482387952742582
+2023,GA,Georgia,10,Other Industrial,10.94,177249.0,,192768.0,58743.0,1.12,state,end_use,12358.0,24.716,
+2023,GA,Georgia,98,Electric Power,7.4,8616413.0,90.07,10204266.0,,1.49,state,power_total,10047.1,20.0942,4.482387952742582
+2023,IA,Iowa,1,Electric Utility,4.86,9296722.0,31.05,11042761.0,,0.25,state,end_use,8768.2,17.5364,1.770602860336215
+2023,IA,Iowa,10,Other Industrial,5.19,2128157.0,32.18,2125097.0,136129.0,0.47,state,end_use,8904.0,17.808,1.8070530098831985
+2023,IA,Iowa,8,Commercial and Institutional,7.67,15831.0,,16634.0,11250.0,1.85,state,end_use,10880.0,21.76,
+2023,IA,Iowa,98,Electric Power,4.86,9296722.0,31.05,11042761.0,,0.25,state,power_total,8768.2,17.5364,1.770602860336215
+2023,ID,Idaho,10,Other Industrial,10.23,48743.0,,35882.0,104216.0,0.81,state,end_use,11735.0,23.47,
+2023,IL,Illinois,1,Electric Utility,5.88,768249.0,38.16,4040459.0,,0.72,state,end_use,11455.65,22.9113,1.665553678752406
+2023,IL,Illinois,10,Other Industrial,6.79,1721368.0,,1734863.0,61274.0,2.02,state,end_use,9919.0,19.838,
+2023,IL,Illinois,2,IPP Non-CHP,12.34,15032720.0,,17481818.0,,1.45,state,ipp_component,8707.05,17.4141,
+2023,IL,Illinois,8,Commercial and Institutional,9.9,69883.0,,75100.0,19256.0,3.12,state,end_use,11121.0,22.242,
+2023,IL,Illinois,9,Coke Plants,6.77,952300.0,,916809.0,116090.0,0.93,state,end_use,14489.0,28.978,
+2023,IL,Illinois,94,Independent Power Producers,12.34,15032720.0,31.4,17481818.0,,1.45,state,ipp_subtotal,8707.05,17.4141,1.8031365387817915
+2023,IL,Illinois,98,Electric Power,11.09,15800969.0,32.67,21522277.0,,1.31,state,power_total,8840.7,17.6814,1.8477043673012319
+2023,IN,Indiana,1,Electric Utility,8.74,19025309.74,66.69,19256857.0,,2.79,state,end_use,10960.65,21.9213,3.0422465820913906
+2023,IN,Indiana,10,Other Industrial,6.77,1133203.0,193.31,1082254.0,176808.0,1.2,state,end_use,13603.0,27.206,7.105417922517092
+2023,IN,Indiana,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2023,IN,Indiana,3,IPP CHP,9.07,2099968.0,,2297602.0,,3.32,state,ipp_component,11301.55,22.6031,
+2023,IN,Indiana,8,Commercial and Institutional,9.78,23567.0,,22978.0,2278.0,2.64,state,end_use,11234.0,22.468,
+2023,IN,Indiana,9,Coke Plants,6.99,4087307.0,,4111626.0,239279.0,0.83,state,end_use,14392.0,28.784,
+2023,IN,Indiana,94,Independent Power Producers,9.07,2099968.0,,2297602.0,,3.32,state,ipp_subtotal,11301.55,22.6031,
+2023,IN,Indiana,98,Electric Power,8.77,21125277.74,,21554459.0,,2.85,state,power_total,10994.55,21.9891,
+2023,KS,Kansas,1,Electric Utility,5.22,10482428.0,29.4,12351027.0,,0.28,state,end_use,8683.9,17.3678,1.6927878027153698
+2023,KS,Kansas,10,Other Industrial,10.8,116873.0,,119905.0,14593.0,1.81,state,end_use,10940.0,21.88,
+2023,KS,Kansas,98,Electric Power,5.22,10482428.0,29.4,12351027.0,,0.28,state,power_total,8683.9,17.3678,1.6927878027153698
+2023,KY,Kentucky,1,Electric Utility,8.85,20800626.0,55.27,27296953.0,,2.43,state,end_use,11161.1,22.3222,2.4760104290795715
+2023,KY,Kentucky,10,Other Industrial,7.5,680141.0,155.96,685963.0,62917.0,1.46,state,end_use,12864.0,25.728,6.061878109452736
+2023,KY,Kentucky,8,Commercial and Institutional,,,,,3549.0,,state,end_use,,,
+2023,KY,Kentucky,98,Electric Power,8.85,20800626.0,55.27,27296953.0,,2.43,state,power_total,11161.1,22.3222,2.4760104290795715
+2023,LA,Louisiana,1,Electric Utility,5.16,2135536.0,54.07,2905653.0,,0.51,state,end_use,8961.0,17.922,3.016962392590113
+2023,LA,Louisiana,10,Other Industrial,6.56,278255.0,,279905.0,3248.0,0.51,state,end_use,7489.0,14.978,
+2023,LA,Louisiana,2,IPP Non-CHP,4.89,962764.0,,2021981.0,,0.26,state,ipp_component,8196.8,16.3936,
+2023,LA,Louisiana,94,Independent Power Producers,4.89,962764.0,,2021981.0,,0.26,state,ipp_subtotal,8196.8,16.3936,
+2023,LA,Louisiana,98,Electric Power,5.05,3098300.0,,4927634.0,,0.41,state,power_total,8723.5,17.447,
+2023,MAT,Middle Atlantic,1,Electric Utility,,0.0,,,,,region,end_use,,,
+2023,MAT,Middle Atlantic,10,Other Industrial,10.68,579205.0,128.78,598884.0,219989.0,1.7,region,end_use,12436.0,24.872,5.177709874557736
+2023,MAT,Middle Atlantic,2,IPP Non-CHP,22.32,7486888.0,,6348169.0,,2.42,region,ipp_component,8761.05,17.5221,
+2023,MAT,Middle Atlantic,3,IPP CHP,55.02,2360074.0,,2094508.0,,0.42,region,ipp_component,4435.55,8.8711,
+2023,MAT,Middle Atlantic,8,Commercial and Institutional,8.29,1944.0,,1848.0,20057.0,0.7,region,end_use,12385.0,24.77,
+2023,MAT,Middle Atlantic,9,Coke Plants,6.81,5066105.0,,5015324.0,441607.0,1.04,region,end_use,14394.0,28.788,
+2023,MAT,Middle Atlantic,94,Independent Power Producers,27.07,9846962.0,35.91,8442677.0,,2.13,region,ipp_subtotal,7724.3,15.4486,2.3244824773765904
+2023,MAT,Middle Atlantic,98,Electric Power,27.07,9846962.0,35.91,8442677.0,,2.13,region,power_total,7724.3,15.4486,2.3244824773765904
+2023,MD,Maryland,10,Other Industrial,20.08,371939.0,,353168.0,16261.0,1.74,state,end_use,11522.0,23.044,
+2023,MD,Maryland,2,IPP Non-CHP,7.89,542704.0,,736974.0,,2.34,state,ipp_component,12841.6,25.6832,
+2023,MD,Maryland,3,IPP CHP,21.94,359698.0,,397613.0,,2.69,state,ipp_component,10898.3,21.7966,
+2023,MD,Maryland,94,Independent Power Producers,12.31,902402.0,,1134587.0,,2.45,state,ipp_subtotal,12067.0,24.134,
+2023,MD,Maryland,98,Electric Power,12.31,902402.0,,1134587.0,,2.45,state,power_total,12067.0,24.134,
+2023,ME,Maine,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2023,ME,Maine,3,IPP CHP,6.66,66107.0,,66107.0,,0.97,state,ipp_component,9794.8,19.5896,
+2023,ME,Maine,94,Independent Power Producers,6.66,66107.0,,66107.0,,0.97,state,ipp_subtotal,9794.8,19.5896,
+2023,ME,Maine,98,Electric Power,6.66,66107.0,,66107.0,,0.97,state,power_total,9794.8,19.5896,
+2023,MI,Michigan,1,Electric Utility,4.84,12684133.0,47.89,13598104.0,,0.42,state,end_use,9339.0,18.678,2.5639790127422635
+2023,MI,Michigan,10,Other Industrial,7.55,327354.0,,395398.0,180178.0,1.14,state,end_use,12118.0,24.236,
+2023,MI,Michigan,3,IPP CHP,7.95,107737.0,,101588.0,,1.49,state,ipp_component,12133.0,24.266,
+2023,MI,Michigan,9,Coke Plants,7.55,1397211.0,,1417961.0,324804.0,0.72,state,end_use,14324.0,28.648,
+2023,MI,Michigan,94,Independent Power Producers,7.95,107737.0,,101588.0,,1.49,state,ipp_subtotal,12133.0,24.266,
+2023,MI,Michigan,98,Electric Power,4.87,12791870.0,,13699692.0,,0.43,state,power_total,9362.55,18.7251,
+2023,MN,Minnesota,1,Electric Utility,5.64,7483384.0,42.56,8692935.0,,0.32,state,end_use,8818.3,17.6366,2.4131635349216967
+2023,MN,Minnesota,10,Other Industrial,4.23,913320.0,55.44,932977.0,44153.0,0.33,state,end_use,9276.0,18.552,2.988357050452781
+2023,MN,Minnesota,8,Commercial and Institutional,4.18,2289.0,,1787.0,5457.0,0.32,state,end_use,9496.0,18.992,
+2023,MN,Minnesota,98,Electric Power,5.64,7483384.0,42.56,8692935.0,,0.32,state,power_total,8818.3,17.6366,2.4131635349216967
+2023,MO,Missouri,1,Electric Utility,4.7,24119300.0,33.9,27815655.0,,0.27,state,end_use,8829.15,17.6583,1.9197771019860348
+2023,MO,Missouri,10,Other Industrial,8.59,757181.0,81.86,806925.0,113742.0,2.05,state,end_use,11185.0,22.37,3.659365221278498
+2023,MO,Missouri,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2023,MO,Missouri,8,Commercial and Institutional,9.53,2532.0,,2918.0,1041.0,2.87,state,end_use,11322.0,22.644,
+2023,MO,Missouri,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2023,MO,Missouri,98,Electric Power,4.7,24119300.0,33.9,27815655.0,,0.27,state,power_total,8829.15,17.6583,1.9197771019860348
+2023,MS,Mississippi,1,Electric Utility,5.45,962337.0,71.0,1172453.0,,0.34,state,end_use,9018.7,18.0374,3.9362657589231262
+2023,MS,Mississippi,10,Other Industrial,3.55,78762.0,,79512.0,6438.0,0.79,state,end_use,14766.0,29.532,
+2023,MS,Mississippi,2,IPP Non-CHP,14.63,2925597.0,,2925597.0,,0.48,state,ipp_component,5113.9,10.2278,
+2023,MS,Mississippi,94,Independent Power Producers,14.63,2925597.0,,2925597.0,,0.48,state,ipp_subtotal,5113.9,10.2278,
+2023,MS,Mississippi,98,Electric Power,10.84,3887934.0,,4098050.0,,0.42,state,power_total,6080.4,12.1608,
+2023,MT,Montana,1,Electric Utility,,0.0,,,,,state,end_use,,,
+2023,MT,Montana,10,Other Industrial,5.42,177153.0,68.02,211619.0,54947.0,0.38,state,end_use,9542.0,19.084,3.564242297212324
+2023,MT,Montana,2,IPP Non-CHP,8.86,7367857.0,,7092483.0,,0.7,state,ipp_component,8596.05,17.1921,
+2023,MT,Montana,8,Commercial and Institutional,9.03,457.0,,1529.0,2925.0,0.53,state,end_use,10264.0,20.528,
+2023,MT,Montana,94,Independent Power Producers,8.86,7367857.0,,7092483.0,,0.7,state,ipp_subtotal,8596.05,17.1921,
+2023,MT,Montana,98,Electric Power,8.86,7367857.0,,7092483.0,,0.7,state,power_total,8596.05,17.1921,
+2023,MTN,Mountain,1,Electric Utility,8.69,49930023.0,43.82,51946807.0,,0.46,region,end_use,9211.1,18.4222,2.3786518439708613
+2023,MTN,Mountain,10,Other Industrial,6.76,2320447.0,78.58,2407412.0,413765.0,0.58,region,end_use,10670.0,21.34,3.682286785379569
+2023,MTN,Mountain,2,IPP Non-CHP,9.4,8821806.0,,8588675.0,,0.65,region,ipp_component,8468.0,16.936,
+2023,MTN,Mountain,8,Commercial and Institutional,9.72,1391.0,,2368.0,3400.0,0.51,region,end_use,10777.0,21.554,
+2023,MTN,Mountain,94,Independent Power Producers,9.4,8821806.0,,8588675.0,,0.65,region,ipp_subtotal,8468.0,16.936,
+2023,MTN,Mountain,98,Electric Power,8.79,58751829.0,,60535482.0,,0.49,region,power_total,9099.55,18.1991,
+2023,NC,North Carolina,1,Electric Utility,9.82,5896774.0,117.24,5530508.0,,1.73,state,end_use,12548.55,25.0971,4.671456064644919
+2023,NC,North Carolina,10,Other Industrial,8.1,185650.0,187.07,188091.0,89057.0,0.92,state,end_use,13297.0,26.594,7.0342934496502965
+2023,NC,North Carolina,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2023,NC,North Carolina,8,Commercial and Institutional,8.46,32933.0,,34128.0,30941.0,1.51,state,end_use,12985.0,25.97,
+2023,NC,North Carolina,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2023,NC,North Carolina,98,Electric Power,9.82,5896774.0,117.24,5530508.0,,1.73,state,power_total,12548.55,25.0971,4.671456064644919
+2023,ND,North Dakota,1,Electric Utility,9.66,19160501.0,24.44,20089787.0,,0.73,state,end_use,6687.3,13.3746,1.827344369177396
+2023,ND,North Dakota,10,Other Industrial,6.28,4696337.0,25.32,4686403.0,190350.0,0.79,state,end_use,7375.0,14.75,1.7166101694915255
+2023,ND,North Dakota,8,Commercial and Institutional,5.39,10228.0,,14597.0,9249.0,0.34,state,end_use,9035.0,18.07,
+2023,ND,North Dakota,98,Electric Power,9.66,19160501.0,24.44,20089787.0,,0.73,state,power_total,6687.3,13.3746,1.827344369177396
+2023,NE,Nebraska,1,Electric Utility,4.86,10701874.0,22.86,11754373.0,,0.27,state,end_use,8585.8,17.1716,1.3312679074751332
+2023,NE,Nebraska,10,Other Industrial,5.01,671528.0,23.69,676817.0,7937.0,0.3,state,end_use,8811.0,17.622,1.3443422993984793
+2023,NE,Nebraska,98,Electric Power,4.86,10701874.0,22.86,11754373.0,,0.27,state,power_total,8585.8,17.1716,1.3312679074751332
+2023,NEW,New England,2,IPP Non-CHP,8.41,69687.0,,54050.0,,3.31,region,ipp_component,13184.15,26.3683,
+2023,NEW,New England,3,IPP CHP,6.66,66107.0,,66107.0,,0.97,region,ipp_component,9794.8,19.5896,
+2023,NEW,New England,94,Independent Power Producers,7.58,135794.0,,120157.0,,2.2,region,ipp_subtotal,11534.15,23.0683,
+2023,NEW,New England,98,Electric Power,7.58,135794.0,,120157.0,,2.2,region,power_total,11534.15,23.0683,
+2023,NH,New Hampshire,2,IPP Non-CHP,8.41,69687.0,,54050.0,,3.31,state,ipp_component,13184.15,26.3683,
+2023,NH,New Hampshire,94,Independent Power Producers,8.41,69687.0,,54050.0,,3.31,state,ipp_subtotal,13184.15,26.3683,
+2023,NH,New Hampshire,98,Electric Power,8.41,69687.0,,54050.0,,3.31,state,power_total,13184.15,26.3683,
+2023,NJ,New Jersey,1,Electric Utility,,0.0,,,,,state,end_use,,,
+2023,NJ,New Jersey,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2023,NJ,New Jersey,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2023,NJ,New Jersey,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2023,NJ,New Jersey,98,Electric Power,,0.0,,,,,state,power_total,,,
+2023,NM,New Mexico,1,Electric Utility,19.41,4032816.0,65.32,3503622.0,,0.85,state,end_use,9144.55,18.2891,3.571526209600253
+2023,NM,New Mexico,10,Other Industrial,12.74,61625.0,,64156.0,4475.0,0.75,state,end_use,11563.0,23.126,
+2023,NM,New Mexico,98,Electric Power,19.41,4032816.0,65.32,3503622.0,,0.85,state,power_total,9144.55,18.2891,3.571526209600253
+2023,NV,Nevada,1,Electric Utility,6.19,674959.0,105.5,799542.0,,0.46,state,end_use,10240.8,20.4816,5.15096476837747
+2023,NV,Nevada,10,Other Industrial,9.9,190526.0,114.5,178126.0,31948.0,0.48,state,end_use,11466.0,22.932,4.9930228501657075
+2023,NV,Nevada,2,IPP Non-CHP,5.35,625070.0,,667313.0,,0.32,state,ipp_component,8871.7,17.7434,
+2023,NV,Nevada,94,Independent Power Producers,5.35,625070.0,,667313.0,,0.32,state,ipp_subtotal,8871.7,17.7434,
+2023,NV,Nevada,98,Electric Power,5.84,1300029.0,,1466855.0,,0.4,state,power_total,9582.5,19.165,
+2023,NY,New York,1,Electric Utility,,0.0,,,,,state,end_use,,,
+2023,NY,New York,10,Other Industrial,9.75,190562.0,,188733.0,41670.0,2.23,state,end_use,12654.0,25.308,
+2023,NY,New York,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2023,NY,New York,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2023,NY,New York,98,Electric Power,,0.0,,,,,state,power_total,,,
+2023,OH,Ohio,1,Electric Utility,9.18,2071164.0,64.53,2562657.0,,3.26,state,end_use,12038.55,24.0771,2.6801400500890886
+2023,OH,Ohio,10,Other Industrial,7.99,340084.0,158.31,340580.0,21313.0,2.17,state,end_use,12566.0,25.132,6.299140537959573
+2023,OH,Ohio,2,IPP Non-CHP,8.93,10716806.0,,12417414.0,,3.15,state,ipp_component,12482.95,24.9659,
+2023,OH,Ohio,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2023,OH,Ohio,9,Coke Plants,7.16,3031886.0,,2986641.0,214550.0,0.91,state,end_use,14448.0,28.896,
+2023,OH,Ohio,94,Independent Power Producers,8.93,10716806.0,67.48,12417414.0,,3.15,state,ipp_subtotal,12482.95,24.9659,2.7028867375099637
+2023,OH,Ohio,98,Electric Power,8.97,12787970.0,66.98,14980071.0,,3.17,state,power_total,12411.0,24.822,2.6984126984126986
+2023,OK,Oklahoma,1,Electric Utility,5.04,3515896.0,39.37,5740885.0,,0.24,state,end_use,8598.25,17.1965,2.289419358590411
+2023,OK,Oklahoma,10,Other Industrial,7.07,155571.0,130.94,290054.0,243339.0,0.68,state,end_use,10691.0,21.382,6.123842484332616
+2023,OK,Oklahoma,98,Electric Power,5.04,3515896.0,39.37,5740885.0,,0.24,state,power_total,8598.25,17.1965,2.289419358590411
+2023,OR,Oregon,10,Other Industrial,8.79,27863.0,,40966.0,29121.0,0.6,state,end_use,11695.0,23.39,
+2023,PA,Pennsylvania,1,Electric Utility,,0.0,,,,,state,end_use,,,
+2023,PA,Pennsylvania,10,Other Industrial,11.11,388643.0,,410151.0,178319.0,1.45,state,end_use,12336.0,24.672,
+2023,PA,Pennsylvania,2,IPP Non-CHP,22.32,7486888.0,,6348169.0,,2.42,state,ipp_component,8761.05,17.5221,
+2023,PA,Pennsylvania,3,IPP CHP,55.02,2360074.0,,2094508.0,,0.42,state,ipp_component,4435.55,8.8711,
+2023,PA,Pennsylvania,8,Commercial and Institutional,8.29,1944.0,,1848.0,20057.0,0.7,state,end_use,12385.0,24.77,
+2023,PA,Pennsylvania,9,Coke Plants,6.81,5066105.0,,5015324.0,441607.0,1.04,state,end_use,14394.0,28.788,
+2023,PA,Pennsylvania,94,Independent Power Producers,27.07,9846962.0,35.91,8442677.0,,2.13,state,ipp_subtotal,7724.3,15.4486,2.3244824773765904
+2023,PA,Pennsylvania,98,Electric Power,27.07,9846962.0,35.91,8442677.0,,2.13,state,power_total,7724.3,15.4486,2.3244824773765904
+2023,PCC,Pacific Contiguous,10,Other Industrial,9.43,1379593.0,113.79,1394120.0,142499.0,0.57,region,end_use,11170.0,22.34,5.093554162936437
+2023,PCC,Pacific Contiguous,2,IPP Non-CHP,7.71,2795016.0,,2598987.0,,0.38,region,ipp_component,8607.55,17.2151,
+2023,PCC,Pacific Contiguous,3,IPP CHP,,0.0,,,,,region,ipp_component,,,
+2023,PCC,Pacific Contiguous,94,Independent Power Producers,7.71,2795016.0,,2598987.0,,0.38,region,ipp_subtotal,8607.55,17.2151,
+2023,PCC,Pacific Contiguous,98,Electric Power,7.71,2795016.0,,2598987.0,,0.38,region,power_total,8607.55,17.2151,
+2023,PCN,Pacific Noncontiguous,1,Electric Utility,6.8,546216.0,67.4,342146.0,,0.12,region,end_use,7438.65,14.8773,4.530391939397606
+2023,PCN,Pacific Noncontiguous,10,Other Industrial,,1082.0,,1082.0,,,region,end_use,,,
+2023,PCN,Pacific Noncontiguous,3,IPP CHP,,175675.0,,,,,region,ipp_component,7648.65,15.2973,
+2023,PCN,Pacific Noncontiguous,8,Commercial and Institutional,5.69,497824.0,,472986.0,27694.0,0.13,region,end_use,7613.0,15.226,
+2023,PCN,Pacific Noncontiguous,94,Independent Power Producers,,175675.0,,,,,region,ipp_subtotal,7648.65,15.2973,
+2023,PCN,Pacific Noncontiguous,98,Electric Power,6.8,721891.0,67.4,342146.0,,0.12,region,power_total,7489.75,14.9795,4.499482626255883
+2023,PR,Puerto Rico,2,IPP Non-CHP,6.04,1344648.0,,1381523.0,,0.56,territory,ipp_component,10750.0,21.5,
+2023,PR,Puerto Rico,94,Independent Power Producers,6.04,1344648.0,,1381523.0,,0.56,territory,ipp_subtotal,10750.0,21.5,
+2023,PR,Puerto Rico,98,Electric Power,6.04,1344648.0,,1381523.0,,0.56,territory,power_total,10750.0,21.5,
+2023,RI,Rhode Island,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2023,RI,Rhode Island,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2023,RI,Rhode Island,98,Electric Power,,0.0,,,,,state,power_total,,,
+2023,SAT,South Atlantic,1,Electric Utility,9.47,42046349.0,86.11,47057561.0,,2.3,region,end_use,11829.25,23.6585,3.6397066593401948
+2023,SAT,South Atlantic,10,Other Industrial,11.56,1418004.0,169.83,1410114.0,324200.0,1.32,region,end_use,12593.0,25.186,6.74303184308743
+2023,SAT,South Atlantic,2,IPP Non-CHP,10.63,4447779.0,,4520443.0,,3.29,region,ipp_component,12001.6,24.0032,
+2023,SAT,South Atlantic,3,IPP CHP,19.45,455941.0,,485344.0,,2.31,region,ipp_component,11310.85,22.6217,
+2023,SAT,South Atlantic,8,Commercial and Institutional,7.58,42222.0,198.86,47635.0,45899.0,1.32,region,end_use,12981.0,25.962,7.659656420922888
+2023,SAT,South Atlantic,9,Coke Plants,6.79,832294.0,,791602.0,65219.0,0.83,region,end_use,14563.0,29.126,
+2023,SAT,South Atlantic,94,Independent Power Producers,11.46,4903720.0,64.36,5005787.0,,3.19,region,ipp_subtotal,11937.35,23.8747,2.695740679464035
+2023,SAT,South Atlantic,98,Electric Power,9.66,46950069.0,84.02,52063348.0,,2.38,region,power_total,11840.55,23.6811,3.5479770787674556
+2023,SC,South Carolina,1,Electric Utility,9.34,6432324.0,88.29,7318657.0,,2.02,state,end_use,12277.7,24.5554,3.5955431391873076
+2023,SC,South Carolina,10,Other Industrial,8.3,72147.0,199.21,78080.0,46043.0,1.19,state,end_use,13175.0,26.35,7.560151802656546
+2023,SC,South Carolina,3,IPP CHP,9.75,96243.0,,87731.0,,0.87,state,ipp_component,12852.7,25.7054,
+2023,SC,South Carolina,94,Independent Power Producers,9.75,96243.0,,87731.0,,0.87,state,ipp_subtotal,12852.7,25.7054,
+2023,SC,South Carolina,98,Electric Power,9.34,6528567.0,,7406388.0,,2.01,state,power_total,12286.2,24.5724,
+2023,SD,South Dakota,1,Electric Utility,5.14,1087624.0,37.17,1082265.0,,0.31,state,end_use,8255.4,16.5108,2.251253724834654
+2023,SD,South Dakota,10,Other Industrial,5.34,267851.0,,268667.0,38791.0,0.36,state,end_use,8005.0,16.01,
+2023,SD,South Dakota,98,Electric Power,5.14,1087624.0,37.17,1082265.0,,0.31,state,power_total,8255.4,16.5108,2.251253724834654
+2023,TN,Tennessee,1,Electric Utility,7.88,8336423.0,76.95,2793357.0,,2.21,state,end_use,10399.7,20.7994,3.6996259507485796
+2023,TN,Tennessee,10,Other Industrial,7.78,1117005.0,,1119966.0,104936.0,1.37,state,end_use,12970.0,25.94,
+2023,TN,Tennessee,98,Electric Power,7.88,8336423.0,76.95,2793357.0,,2.21,state,power_total,10399.7,20.7994,3.6996259507485796
+2023,TX,Texas,1,Electric Utility,6.87,16569092.0,34.11,19278519.0,,0.42,state,end_use,8074.199999999999,16.1484,2.1122835698892772
+2023,TX,Texas,10,Other Industrial,9.3,202090.0,128.63,290895.0,171933.0,0.74,state,end_use,11497.0,22.994,5.594068017743759
+2023,TX,Texas,2,IPP Non-CHP,8.31,34136904.0,,34911180.0,,0.51,state,ipp_component,7812.5,15.625,
+2023,TX,Texas,94,Independent Power Producers,8.31,34136904.0,31.47,34911180.0,,0.51,state,ipp_subtotal,7812.5,15.625,2.01408
+2023,TX,Texas,98,Electric Power,7.78,50705996.0,32.41,54189699.0,,0.48,state,power_total,7898.0,15.796,2.0517852620916686
+2023,US,U.S. Total,1,Electric Utility,7.42,292614580.74,48.88,326208417.0,111524007.0,1.15,national,end_use,9538.0,19.076,2.562382050744391
+2023,US,U.S. Total,10,Other Industrial,7.16,22172806.0,83.39,22628735.0,2863230.0,0.99,national,end_use,10245.0,20.49,4.069790141532455
+2023,US,U.S. Total,2,IPP Non-CHP,10.29,89325222.0,39.99,93944607.0,20613593.0,1.48,national,ipp_component,8844.1,17.6882,2.2608292534005723
+2023,US,U.S. Total,3,IPP CHP,20.49,5265502.0,52.57,5045149.0,890787.0,2.46,national,ipp_component,8101.150000000001,16.2023,3.2446010751559964
+2023,US,U.S. Total,8,Commercial and Institutional,6.53,667711.0,95.76,658851.0,149130.0,0.71,national,end_use,8688.0,17.376,5.511049723756906
+2023,US,U.S. Total,9,Coke Plants,6.97,15848536.0,211.6,15748486.0,1551401.0,0.9,national,end_use,14430.0,28.86,7.331947331947332
+2023,US,U.S. Total,94,Independent Power Producers,10.78,94590724.0,40.63,98989756.0,21504380.0,1.52,national,ipp_subtotal,8802.75,17.6055,2.307801539291699
+2023,US,U.S. Total,98,Electric Power,8.16,387205304.74,46.96,425198173.0,133028387.0,1.23,national,power_total,9358.4,18.7168,2.508975893315097
+2023,UT,Utah,1,Electric Utility,11.79,7533224.0,53.6,6843292.0,,0.54,state,end_use,10850.7,21.7014,2.4698867354179916
+2023,UT,Utah,10,Other Industrial,9.01,307886.0,88.13,307057.0,49659.0,0.48,state,end_use,11448.0,22.896,3.8491439552760305
+2023,UT,Utah,2,IPP Non-CHP,45.73,334083.0,,334083.0,,0.65,state,ipp_component,5663.3,11.3266,
+2023,UT,Utah,94,Independent Power Producers,45.73,334083.0,,334083.0,,0.65,state,ipp_subtotal,5663.3,11.3266,
+2023,UT,Utah,98,Electric Power,12.64,7867307.0,53.6,7177375.0,,0.54,state,power_total,10630.45,21.2609,2.521059785803988
+2023,VA,Virginia,1,Electric Utility,19.41,775049.0,106.85,948935.0,,0.99,state,end_use,9728.4,19.4568,5.4916533037292865
+2023,VA,Virginia,10,Other Industrial,8.43,277334.0,163.66,291548.0,62301.0,1.18,state,end_use,13022.0,26.044,6.283980955306404
+2023,VA,Virginia,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2023,VA,Virginia,8,Commercial and Institutional,5.34,9289.0,,13507.0,12248.0,0.83,state,end_use,12973.0,25.946,
+2023,VA,Virginia,9,Coke Plants,6.79,832294.0,,791602.0,65219.0,0.83,state,end_use,14563.0,29.126,
+2023,VA,Virginia,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2023,VA,Virginia,98,Electric Power,19.41,775049.0,106.85,948935.0,,0.99,state,power_total,9728.4,19.4568,5.4916533037292865
+2023,WA,Washington,10,Other Industrial,4.6,75155.0,,74462.0,3023.0,0.34,state,end_use,9356.0,18.712,
+2023,WA,Washington,2,IPP Non-CHP,7.71,2795016.0,,2598987.0,,0.38,state,ipp_component,8607.55,17.2151,
+2023,WA,Washington,94,Independent Power Producers,7.71,2795016.0,,2598987.0,,0.38,state,ipp_subtotal,8607.55,17.2151,
+2023,WA,Washington,98,Electric Power,7.71,2795016.0,,2598987.0,,0.38,state,power_total,8607.55,17.2151,
+2023,WI,Wisconsin,1,Electric Utility,4.96,11766019.0,44.86,13160853.0,,0.4,state,end_use,9053.75,18.1075,2.4774264807400246
+2023,WI,Wisconsin,10,Other Industrial,6.62,326025.0,99.59,319447.0,76079.0,0.53,state,end_use,10647.0,21.294,4.676904292288908
+2023,WI,Wisconsin,98,Electric Power,4.96,11766019.0,44.86,13160853.0,,0.4,state,power_total,9053.75,18.1075,2.4774264807400246
+2023,WNC,West North Central,1,Electric Utility,5.76,82331833.0,30.37,92828803.0,,0.35,region,end_use,8265.15,16.5303,1.8372322341397314
+2023,WNC,West North Central,10,Other Industrial,5.97,9551247.0,35.37,9616791.0,545695.0,0.74,region,end_use,8380.0,16.76,2.1103818615751786
+2023,WNC,West North Central,3,IPP CHP,,0.0,,,,,region,ipp_component,,,
+2023,WNC,West North Central,8,Commercial and Institutional,6.72,30880.0,104.77,35936.0,26997.0,1.25,region,end_use,10098.0,20.196,5.18766092295504
+2023,WNC,West North Central,94,Independent Power Producers,,0.0,,,,,region,ipp_subtotal,,,
+2023,WNC,West North Central,98,Electric Power,5.76,82331833.0,30.37,92828803.0,,0.35,region,power_total,8265.15,16.5303,1.8372322341397314
+2023,WSC,West South Central,1,Electric Utility,5.88,30379773.0,37.62,36966616.0,,0.35,region,end_use,8379.55,16.759099999999997,2.244750613099749
+2023,WSC,West South Central,10,Other Industrial,8.01,774602.0,108.23,999877.0,445007.0,0.74,region,end_use,10125.0,20.25,5.344691358024692
+2023,WSC,West South Central,2,IPP Non-CHP,7.9,37028923.0,,39009454.0,,0.48,region,ipp_component,7878.15,15.7563,
+2023,WSC,West South Central,94,Independent Power Producers,7.9,37028923.0,33.69,39009454.0,,0.48,region,ipp_subtotal,7878.15,15.7563,2.1381923421107745
+2023,WSC,West South Central,98,Electric Power,6.88,67408696.0,35.6,75976070.0,,0.41,region,power_total,8104.100000000001,16.2082,2.1964190965067063
+2023,WV,West Virginia,1,Electric Utility,10.17,14874567.0,74.0,17142038.0,,2.86,state,end_use,12556.55,25.1131,2.9466692682305253
+2023,WV,West Virginia,10,Other Industrial,7.72,234463.0,,228710.0,17626.0,1.14,state,end_use,13389.0,26.778,
+2023,WV,West Virginia,2,IPP Non-CHP,11.33,3891759.0,,3688020.0,,3.53,state,ipp_component,11882.1,23.7642,
+2023,WV,West Virginia,94,Independent Power Producers,11.33,3891759.0,49.41,3688020.0,,3.53,state,ipp_subtotal,11882.1,23.7642,2.0791779230944023
+2023,WV,West Virginia,98,Electric Power,10.36,18766326.0,69.65,20830058.0,,2.97,state,power_total,12416.65,24.8333,2.8047017512775185
+2023,WY,Wyoming,1,Electric Utility,6.55,19423478.0,32.43,19837897.0,,0.4,state,end_use,8609.75,17.2195,1.8833299457010946
+2023,WY,Wyoming,10,Other Industrial,4.0,1168555.0,58.48,1174967.0,86243.0,0.62,state,end_use,10165.0,20.33,2.8765371372356126
+2023,WY,Wyoming,2,IPP Non-CHP,6.34,494796.0,,494796.0,,0.43,state,ipp_component,7944.8,15.8896,
+2023,WY,Wyoming,8,Commercial and Institutional,11.17,692.0,,692.0,100.0,0.46,state,end_use,11538.0,23.076,
+2023,WY,Wyoming,94,Independent Power Producers,6.34,494796.0,,494796.0,,0.43,state,ipp_subtotal,7944.8,15.8896,
+2023,WY,Wyoming,98,Electric Power,6.55,19918274.0,,20332693.0,,0.4,state,power_total,8593.25,17.1865,
+2024,90,Pacific,1,Electric Utility,7.8,597629.0,64.84,385941.0,,0.14,pacific_subtotal,end_use,7382.6,14.7652,4.3914068214450195
+2024,90,Pacific,2,IPP Non-CHP,8.2,1953640.0,,1629372.0,,0.38,pacific_subtotal,ipp_component,8492.6,16.9852,
+2024,90,Pacific,3,IPP CHP,,155022.0,,,,,pacific_subtotal,ipp_component,7556.55,15.1131,
+2024,90,Pacific,94,Independent Power Producers,8.2,2108662.0,,1629372.0,,0.38,pacific_subtotal,ipp_subtotal,8423.8,16.8476,
+2024,90,Pacific,98,Electric Power,8.14,2706291.0,,2015313.0,,0.34,pacific_subtotal,power_total,8193.849999999999,16.387699999999995,
+2024,AK,Alaska,1,Electric Utility,7.8,597629.0,64.84,385941.0,,0.14,state,end_use,7382.6,14.7652,4.3914068214450195
+2024,AK,Alaska,10,Other Industrial,,1261.0,,1261.0,,,state,end_use,,,
+2024,AK,Alaska,3,IPP CHP,,155022.0,,,,,state,ipp_component,7556.55,15.1131,
+2024,AK,Alaska,8,Commercial and Institutional,6.51,475676.0,,456211.0,23259.0,0.2,state,end_use,7513.0,15.026,
+2024,AK,Alaska,94,Independent Power Producers,,155022.0,,,,,state,ipp_subtotal,7556.55,15.1131,
+2024,AK,Alaska,98,Electric Power,7.8,752651.0,64.84,385941.0,,0.14,state,power_total,7418.4,14.8368,4.370214601531328
+2024,AL,Alabama,1,Electric Utility,6.0,11880360.0,48.2,10875554.0,,0.39,state,end_use,9054.1,18.1082,2.6617775372483186
+2024,AL,Alabama,10,Other Industrial,7.96,414584.0,152.99,402681.0,63283.0,1.46,state,end_use,12893.0,25.786,5.933064453579462
+2024,AL,Alabama,9,Coke Plants,6.11,448331.0,,451123.0,142649.0,0.67,state,end_use,14979.0,29.958,
+2024,AL,Alabama,98,Electric Power,6.0,11880360.0,48.2,10875554.0,,0.39,state,power_total,9054.1,18.1082,2.6617775372483186
+2024,AR,Arkansas,1,Electric Utility,4.69,7628680.0,35.71,7107816.0,,0.23,state,end_use,8730.2,17.4604,2.045199422693638
+2024,AR,Arkansas,10,Other Industrial,12.26,116804.0,,121000.0,27825.0,1.41,state,end_use,11479.0,22.958,
+2024,AR,Arkansas,2,IPP Non-CHP,4.66,1824121.0,,1607149.0,,0.25,state,ipp_component,8789.8,17.5796,
+2024,AR,Arkansas,94,Independent Power Producers,4.66,1824121.0,,1607149.0,,0.25,state,ipp_subtotal,8789.8,17.5796,
+2024,AR,Arkansas,98,Electric Power,4.69,9452801.0,,8714965.0,,0.23,state,power_total,8741.7,17.4834,
+2024,AZ,Arizona,1,Electric Utility,8.89,5956462.0,59.02,6243512.0,,0.47,state,end_use,9101.45,18.2029,3.242340506183081
+2024,AZ,Arizona,10,Other Industrial,9.74,160910.0,,170790.0,57394.0,0.64,state,end_use,11500.0,23.0,
+2024,AZ,Arizona,98,Electric Power,8.89,5956462.0,59.02,6243512.0,,0.47,state,power_total,9101.45,18.2029,3.242340506183081
+2024,CA,California,10,Other Industrial,8.46,1310547.0,114.08,1319805.0,134020.0,0.54,state,end_use,11095.0,22.19,5.141054529067147
+2024,CA,California,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2024,CA,California,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2024,CA,California,98,Electric Power,,0.0,,,,,state,power_total,,,
+2024,CO,Colorado,1,Electric Utility,6.81,9598510.0,41.31,9556078.0,,0.33,state,end_use,9267.3,18.5346,2.2288045061668447
+2024,CO,Colorado,10,Other Industrial,10.34,130196.0,,138327.0,19615.0,0.49,state,end_use,11768.0,23.536,
+2024,CO,Colorado,8,Commercial and Institutional,10.97,,,114.0,489.0,0.5,state,end_use,12562.0,25.124,
+2024,CO,Colorado,98,Electric Power,6.81,9598510.0,41.31,9556078.0,,0.33,state,power_total,9267.3,18.5346,2.2288045061668447
+2024,CT,Connecticut,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2024,CT,Connecticut,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2024,CT,Connecticut,98,Electric Power,,0.0,,,,,state,power_total,,,
+2024,DC,District of Columbia,8,Commercial and Institutional,,,,,2710.0,,state,end_use,,,
+2024,DE,Delaware,2,IPP Non-CHP,,107291.0,,,,,state,ipp_component,11690.45,23.3809,
+2024,DE,Delaware,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2024,DE,Delaware,94,Independent Power Producers,,107291.0,,,,,state,ipp_subtotal,11690.45,23.3809,
+2024,DE,Delaware,98,Electric Power,,107291.0,,,,,state,power_total,11690.45,23.3809,
+2024,ENC,East North Central,1,Electric Utility,6.9,47788526.78,52.07,45884524.0,,1.54,region,end_use,10035.3,20.0706,2.5943419728358896
+2024,ENC,East North Central,10,Other Industrial,6.93,3491571.0,106.3,3565056.0,647119.0,1.63,region,end_use,11626.0,23.252,4.571649750559092
+2024,ENC,East North Central,2,IPP Non-CHP,11.17,25607711.0,,26195090.0,,2.48,region,ipp_component,10201.6,20.4032,
+2024,ENC,East North Central,3,IPP CHP,8.12,1852144.0,,1600929.0,,3.29,region,ipp_component,11314.4,22.6288,
+2024,ENC,East North Central,8,Commercial and Institutional,10.26,76230.0,58.87,81017.0,26522.0,2.84,region,end_use,11114.0,22.228,2.6484614000359903
+2024,ENC,East North Central,9,Coke Plants,7.27,9245907.0,200.86,9416349.0,1036525.0,0.86,region,end_use,14464.0,28.928,6.9434457964601775
+2024,ENC,East North Central,94,Independent Power Producers,10.98,27459855.0,43.61,27796019.0,,2.53,region,ipp_subtotal,10276.65,20.5533,2.1218003921511386
+2024,ENC,East North Central,98,Electric Power,8.46,75248381.78,48.88,73680543.0,,1.92,region,power_total,10123.35,20.2467,2.4142205890342625
+2024,ESC,East South Central,1,Electric Utility,7.96,43517179.0,53.07,41354649.0,,1.91,region,end_use,10285.05,20.5701,2.5799582889728296
+2024,ESC,East South Central,10,Other Industrial,7.62,2277942.0,150.53,2359248.0,317940.0,1.38,region,end_use,12926.0,25.852,5.822760328021043
+2024,ESC,East South Central,2,IPP Non-CHP,14.14,2081901.0,,1867414.0,,0.57,region,ipp_component,5436.7,10.8734,
+2024,ESC,East South Central,8,Commercial and Institutional,,,,,3549.0,,region,end_use,,,
+2024,ESC,East South Central,9,Coke Plants,6.11,448331.0,,451123.0,142649.0,0.67,region,end_use,14979.0,29.958,
+2024,ESC,East South Central,94,Independent Power Producers,14.14,2081901.0,,1867414.0,,0.57,region,ipp_subtotal,5436.7,10.8734,
+2024,ESC,East South Central,98,Electric Power,8.1,45599080.0,,43222063.0,,1.88,region,power_total,10063.7,20.1274,
+2024,FL,Florida,1,Electric Utility,8.87,3814390.0,83.8,3594774.0,,2.85,state,end_use,11545.3,23.0906,3.6291824378751527
+2024,FL,Florida,10,Other Industrial,9.03,102038.0,,111840.0,42707.0,2.57,state,end_use,12659.0,25.318,
+2024,FL,Florida,98,Electric Power,8.87,3814390.0,83.8,3594774.0,,2.85,state,power_total,11545.3,23.0906,3.6291824378751527
+2024,GA,Georgia,1,Electric Utility,7.22,9267344.0,82.73,8178206.0,,1.52,state,end_use,10084.2,20.1684,4.101961484302176
+2024,GA,Georgia,10,Other Industrial,10.59,183323.0,115.19,169100.0,41960.0,0.83,state,end_use,12531.0,25.062,4.596201420477216
+2024,GA,Georgia,98,Electric Power,7.22,9267344.0,82.73,8178206.0,,1.52,state,power_total,10084.2,20.1684,4.101961484302176
+2024,IA,Iowa,1,Electric Utility,4.79,8134846.0,33.09,7788067.0,,0.27,state,end_use,8689.8,17.3796,1.9039563626320515
+2024,IA,Iowa,10,Other Industrial,5.33,2170257.0,,2159883.0,128617.0,0.67,state,end_use,8992.0,17.984,
+2024,IA,Iowa,8,Commercial and Institutional,7.14,14151.0,,15987.0,13086.0,2.45,state,end_use,10964.0,21.928,
+2024,IA,Iowa,98,Electric Power,4.79,8134846.0,33.09,7788067.0,,0.27,state,power_total,8689.8,17.3796,1.9039563626320515
+2024,ID,Idaho,10,Other Industrial,9.56,38791.0,,31585.0,91466.0,0.59,state,end_use,12007.0,24.014,
+2024,IL,Illinois,1,Electric Utility,6.11,730843.0,36.81,3832893.0,,0.77,state,end_use,11650.3,23.3006,1.579787644953349
+2024,IL,Illinois,10,Other Industrial,6.9,1510920.0,,1477857.0,28211.0,2.07,state,end_use,9832.0,19.664,
+2024,IL,Illinois,2,IPP Non-CHP,13.44,15348871.0,,15775178.0,,1.61,state,ipp_component,8695.35,17.3907,
+2024,IL,Illinois,8,Commercial and Institutional,10.42,56571.0,,61515.0,24400.0,3.24,state,end_use,11104.0,22.208,
+2024,IL,Illinois,9,Coke Plants,7.03,966827.0,,962905.0,119844.0,1.03,state,end_use,14431.0,28.862,
+2024,IL,Illinois,94,Independent Power Producers,13.44,15348871.0,30.71,15775178.0,,1.61,state,ipp_subtotal,8695.35,17.3907,1.7658863645511682
+2024,IL,Illinois,98,Electric Power,11.96,16079714.0,31.9,19608071.0,,1.44,state,power_total,8829.65,17.6593,1.806413617753818
+2024,IN,Indiana,1,Electric Utility,9.23,18956329.78,64.12,15478107.0,,2.81,state,end_use,10851.75,21.7035,2.954362199645219
+2024,IN,Indiana,10,Other Industrial,6.81,1102135.0,,1124724.0,228043.0,1.26,state,end_use,13587.0,27.174,
+2024,IN,Indiana,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2024,IN,Indiana,3,IPP CHP,8.12,1756374.0,,1600929.0,,3.29,state,ipp_component,11278.8,22.5576,
+2024,IN,Indiana,8,Commercial and Institutional,9.75,19659.0,,19502.0,2122.0,1.57,state,end_use,11148.0,22.296,
+2024,IN,Indiana,9,Coke Plants,7.27,3992155.0,,4071368.0,295681.0,0.85,state,end_use,14406.0,28.812,
+2024,IN,Indiana,94,Independent Power Producers,8.12,1756374.0,,1600929.0,,3.29,state,ipp_subtotal,11278.8,22.5576,
+2024,IN,Indiana,98,Electric Power,9.12,20712703.78,,17079036.0,,2.86,state,power_total,10887.95,21.7759,
+2024,KS,Kansas,1,Electric Utility,5.09,8479838.0,28.46,9142136.0,,0.27,state,end_use,8853.45,17.7069,1.6072830365563706
+2024,KS,Kansas,10,Other Industrial,10.48,84271.0,,107089.0,37594.0,2.12,state,end_use,11020.0,22.04,
+2024,KS,Kansas,98,Electric Power,5.09,8479838.0,28.46,9142136.0,,0.27,state,power_total,8853.45,17.7069,1.6072830365563706
+2024,KY,Kentucky,1,Electric Utility,8.71,21734310.0,52.8,25989482.0,,2.44,state,end_use,11053.7,22.1074,2.388340555651049
+2024,KY,Kentucky,10,Other Industrial,8.5,594744.0,147.72,598986.0,58312.0,1.61,state,end_use,12653.0,25.306,5.837350825891093
+2024,KY,Kentucky,8,Commercial and Institutional,,,,,3549.0,,state,end_use,,,
+2024,KY,Kentucky,98,Electric Power,8.71,21734310.0,52.8,25989482.0,,2.44,state,power_total,11053.7,22.1074,2.388340555651049
+2024,LA,Louisiana,1,Electric Utility,5.17,1991352.0,51.24,1742944.0,,0.69,state,end_use,8731.7,17.4634,2.934136536985925
+2024,LA,Louisiana,10,Other Industrial,5.98,266914.0,,266627.0,2961.0,0.48,state,end_use,7676.0,15.352,
+2024,LA,Louisiana,2,IPP Non-CHP,4.96,581874.0,,1391116.0,,0.29,state,ipp_component,8205.95,16.411900000000003,
+2024,LA,Louisiana,94,Independent Power Producers,4.96,581874.0,,1391116.0,,0.29,state,ipp_subtotal,8205.95,16.411900000000003,
+2024,LA,Louisiana,98,Electric Power,5.09,2573226.0,,3134060.0,,0.52,state,power_total,8612.8,17.2256,
+2024,MAT,Middle Atlantic,1,Electric Utility,,0.0,,,,,region,end_use,,,
+2024,MAT,Middle Atlantic,10,Other Industrial,10.47,460257.0,130.59,498481.0,245242.0,1.56,region,end_use,12485.0,24.97,5.229875851021226
+2024,MAT,Middle Atlantic,2,IPP Non-CHP,24.44,7339378.0,,5676203.0,,2.49,region,ipp_component,8890.95,17.7819,
+2024,MAT,Middle Atlantic,3,IPP CHP,55.44,2127068.0,,2006491.0,,0.43,region,ipp_component,4424.55,8.8491,
+2024,MAT,Middle Atlantic,8,Commercial and Institutional,8.85,2392.0,,1947.0,3776.0,0.79,region,end_use,12216.0,24.432,
+2024,MAT,Middle Atlantic,9,Coke Plants,6.92,4975345.0,,4969567.0,441313.0,1.05,region,end_use,14408.0,28.816,
+2024,MAT,Middle Atlantic,94,Independent Power Producers,29.21,9466446.0,33.8,7682694.0,,2.17,region,ipp_subtotal,7887.35,15.7747,2.1426714929602464
+2024,MAT,Middle Atlantic,98,Electric Power,29.21,9466446.0,33.8,7682694.0,,2.17,region,power_total,7887.35,15.7747,2.1426714929602464
+2024,MD,Maryland,10,Other Industrial,19.64,328843.0,,328325.0,15743.0,1.73,state,end_use,11552.0,23.104,
+2024,MD,Maryland,2,IPP Non-CHP,7.86,991847.0,,637185.0,,2.85,state,ipp_component,12902.0,25.804,
+2024,MD,Maryland,3,IPP CHP,20.78,179220.0,,65892.0,,1.78,state,ipp_component,10743.25,21.4865,
+2024,MD,Maryland,94,Independent Power Producers,8.89,1171067.0,,703077.0,,2.76,state,ipp_subtotal,12571.65,25.1433,
+2024,MD,Maryland,98,Electric Power,8.89,1171067.0,,703077.0,,2.76,state,power_total,12571.65,25.1433,
+2024,ME,Maine,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2024,ME,Maine,3,IPP CHP,5.13,42036.0,,42036.0,,0.97,state,ipp_component,10189.7,20.3794,
+2024,ME,Maine,94,Independent Power Producers,5.13,42036.0,,42036.0,,0.97,state,ipp_subtotal,10189.7,20.3794,
+2024,ME,Maine,98,Electric Power,5.13,42036.0,,42036.0,,0.97,state,power_total,10189.7,20.3794,
+2024,MI,Michigan,1,Electric Utility,5.0,14328090.0,47.58,13763532.0,,0.49,state,end_use,9376.8,18.7536,2.537112874328129
+2024,MI,Michigan,10,Other Industrial,7.47,281432.0,135.45,346047.0,267800.0,1.08,state,end_use,12108.0,24.216,5.593409316154608
+2024,MI,Michigan,3,IPP CHP,,95770.0,,,,,state,ipp_component,11968.0,23.936,
+2024,MI,Michigan,9,Coke Plants,7.25,1280435.0,,1299829.0,344196.0,0.7,state,end_use,14798.0,29.596,
+2024,MI,Michigan,94,Independent Power Producers,,95770.0,,,,,state,ipp_subtotal,11968.0,23.936,
+2024,MI,Michigan,98,Electric Power,5.0,14423860.0,47.58,13763532.0,,0.49,state,power_total,9394.0,18.788,2.5324675324675323
+2024,MN,Minnesota,1,Electric Utility,5.04,6719391.0,41.16,6583353.0,,0.27,state,end_use,8855.15,17.7103,2.3240713031399807
+2024,MN,Minnesota,10,Other Industrial,4.08,839304.0,54.64,835743.0,40595.0,0.3,state,end_use,9298.0,18.596,2.9382662938266293
+2024,MN,Minnesota,8,Commercial and Institutional,3.95,1908.0,,1255.0,5248.0,0.35,state,end_use,9452.0,18.904,
+2024,MN,Minnesota,98,Electric Power,5.04,6719391.0,41.16,6583353.0,,0.27,state,power_total,8855.15,17.7103,2.3240713031399807
+2024,MO,Missouri,1,Electric Utility,4.76,22898127.0,32.7,22237627.0,,0.28,state,end_use,8844.2,17.6884,1.8486691843241898
+2024,MO,Missouri,10,Other Industrial,8.83,807981.0,69.2,799061.0,97874.0,2.26,state,end_use,11160.0,22.32,3.100358422939068
+2024,MO,Missouri,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2024,MO,Missouri,8,Commercial and Institutional,9.22,6694.0,,5653.0,,3.06,state,end_use,11301.0,22.602,
+2024,MO,Missouri,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2024,MO,Missouri,98,Electric Power,4.76,22898127.0,32.7,22237627.0,,0.28,state,power_total,8844.2,17.6884,1.8486691843241898
+2024,MS,Mississippi,1,Electric Utility,6.14,963572.0,68.33,1001919.0,,0.62,state,end_use,8807.65,17.6153,3.879014266007391
+2024,MS,Mississippi,10,Other Industrial,3.48,97693.0,,126698.0,35442.0,0.76,state,end_use,14783.0,29.566,
+2024,MS,Mississippi,2,IPP Non-CHP,14.14,2081901.0,,1867414.0,,0.57,state,ipp_component,5436.7,10.8734,
+2024,MS,Mississippi,94,Independent Power Producers,14.14,2081901.0,,1867414.0,,0.57,state,ipp_subtotal,5436.7,10.8734,
+2024,MS,Mississippi,98,Electric Power,10.27,3045473.0,,2869333.0,,0.59,state,power_total,6503.25,13.0065,
+2024,MT,Montana,1,Electric Utility,,0.0,,,,,state,end_use,,,
+2024,MT,Montana,10,Other Industrial,5.19,159240.0,69.27,157940.0,52628.0,0.36,state,end_use,9495.0,18.99,3.647709320695103
+2024,MT,Montana,2,IPP Non-CHP,8.93,6300660.0,,6096268.0,,0.71,state,ipp_component,8601.95,17.2039,
+2024,MT,Montana,8,Commercial and Institutional,5.76,943.0,,1007.0,2989.0,0.48,state,end_use,10344.0,20.688,
+2024,MT,Montana,94,Independent Power Producers,8.93,6300660.0,,6096268.0,,0.71,state,ipp_subtotal,8601.95,17.2039,
+2024,MT,Montana,98,Electric Power,8.93,6300660.0,,6096268.0,,0.71,state,power_total,8601.95,17.2039,
+2024,MTN,Mountain,1,Electric Utility,9.14,44416586.0,50.22,47600017.0,,0.5,region,end_use,9258.15,18.5163,2.7122049221496733
+2024,MTN,Mountain,10,Other Industrial,6.96,1923208.0,78.17,1971776.0,434558.0,0.56,region,end_use,11260.0,22.52,3.47113676731794
+2024,MTN,Mountain,2,IPP Non-CHP,9.84,7793540.0,,7576207.0,,0.66,region,ipp_component,8443.35,16.8867,
+2024,MTN,Mountain,8,Commercial and Institutional,10.33,5047.0,,5225.0,3578.0,0.49,region,end_use,11510.0,23.02,
+2024,MTN,Mountain,94,Independent Power Producers,9.84,7793540.0,35.28,7576207.0,,0.66,region,ipp_subtotal,8443.35,16.8867,2.089218142088152
+2024,MTN,Mountain,98,Electric Power,9.23,52210126.0,48.26,55176224.0,,0.52,region,power_total,9136.5,18.273,2.641055108630219
+2024,NC,North Carolina,1,Electric Utility,10.06,7123102.0,112.0,6460066.0,,1.54,state,end_use,12500.1,25.0002,4.479964160286718
+2024,NC,North Carolina,10,Other Industrial,8.92,120704.0,156.63,127514.0,96001.0,0.99,state,end_use,12929.0,25.858,6.057313017248047
+2024,NC,North Carolina,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2024,NC,North Carolina,8,Commercial and Institutional,8.37,36788.0,,35911.0,30064.0,1.82,state,end_use,12979.0,25.958,
+2024,NC,North Carolina,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2024,NC,North Carolina,98,Electric Power,10.06,7123102.0,112.0,6460066.0,,1.54,state,power_total,12500.1,25.0002,4.479964160286718
+2024,ND,North Dakota,1,Electric Utility,10.66,19850573.0,24.93,20498483.0,,0.77,state,end_use,6655.05,13.3101,1.8730137264182838
+2024,ND,North Dakota,10,Other Industrial,7.12,5321787.0,24.3,5308259.0,179098.0,0.87,state,end_use,7292.0,14.584,1.6662095447065277
+2024,ND,North Dakota,8,Commercial and Institutional,7.46,6775.0,,8523.0,10997.0,0.41,state,end_use,8990.0,17.98,
+2024,ND,North Dakota,98,Electric Power,10.66,19850573.0,24.93,20498483.0,,0.77,state,power_total,6655.05,13.3101,1.8730137264182838
+2024,NE,Nebraska,1,Electric Utility,5.12,9771989.0,22.8,9236689.0,,0.27,state,end_use,8615.7,17.2314,1.32316584839305
+2024,NE,Nebraska,10,Other Industrial,4.97,536191.0,,555293.0,30097.0,0.39,state,end_use,8858.0,17.716,
+2024,NE,Nebraska,98,Electric Power,5.12,9771989.0,22.8,9236689.0,,0.27,state,power_total,8615.7,17.2314,1.32316584839305
+2024,NEW,New England,2,IPP Non-CHP,,98251.0,,,,,region,ipp_component,13244.45,26.4889,
+2024,NEW,New England,3,IPP CHP,5.13,42036.0,,42036.0,,0.97,region,ipp_component,10189.7,20.3794,
+2024,NEW,New England,94,Independent Power Producers,5.13,140287.0,,42036.0,,0.97,region,ipp_subtotal,12329.1,24.6582,
+2024,NEW,New England,98,Electric Power,5.13,140287.0,,42036.0,,0.97,region,power_total,12329.1,24.6582,
+2024,NH,New Hampshire,2,IPP Non-CHP,,98251.0,,,,,state,ipp_component,13244.45,26.4889,
+2024,NH,New Hampshire,94,Independent Power Producers,,98251.0,,,,,state,ipp_subtotal,13244.45,26.4889,
+2024,NH,New Hampshire,98,Electric Power,,98251.0,,,,,state,power_total,13244.45,26.4889,
+2024,NJ,New Jersey,1,Electric Utility,,0.0,,,,,state,end_use,,,
+2024,NJ,New Jersey,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2024,NJ,New Jersey,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2024,NJ,New Jersey,98,Electric Power,,0.0,,,,,state,power_total,,,
+2024,NM,New Mexico,1,Electric Utility,19.48,4630083.0,66.66,4630083.0,,0.83,state,end_use,9114.6,18.2292,3.656770456191166
+2024,NM,New Mexico,10,Other Industrial,12.0,50918.0,,49546.0,3103.0,0.79,state,end_use,10879.0,21.758,
+2024,NM,New Mexico,98,Electric Power,19.48,4630083.0,66.66,4630083.0,,0.83,state,power_total,9114.6,18.2292,3.656770456191166
+2024,NV,Nevada,1,Electric Utility,5.8,799014.0,92.75,1036489.0,,0.45,state,end_use,10149.5,20.299,4.569190600522194
+2024,NV,Nevada,10,Other Industrial,10.09,152507.0,,198091.0,77378.0,0.47,state,end_use,11629.0,23.258,
+2024,NV,Nevada,2,IPP Non-CHP,5.13,659720.0,,662496.0,,0.26,state,ipp_component,8982.15,17.9643,
+2024,NV,Nevada,94,Independent Power Producers,5.13,659720.0,,662496.0,,0.26,state,ipp_subtotal,8982.15,17.9643,
+2024,NV,Nevada,98,Electric Power,5.56,1458734.0,,1698985.0,,0.38,state,power_total,9621.55,19.2431,
+2024,NY,New York,1,Electric Utility,,0.0,,,,,state,end_use,,,
+2024,NY,New York,10,Other Industrial,9.41,104750.0,,126461.0,65218.0,2.2,state,end_use,12650.0,25.3,
+2024,NY,New York,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2024,NY,New York,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2024,NY,New York,98,Electric Power,,0.0,,,,,state,power_total,,,
+2024,OH,Ohio,1,Electric Utility,8.78,2110369.0,70.08,2201604.0,,3.31,state,end_use,12115.35,24.2307,2.8921987396154467
+2024,OH,Ohio,10,Other Industrial,7.19,316686.0,168.74,317427.0,21795.0,2.16,state,end_use,12812.0,25.624,6.585232594442711
+2024,OH,Ohio,2,IPP Non-CHP,8.75,10258840.0,,10419912.0,,3.41,state,ipp_component,12455.15,24.9103,
+2024,OH,Ohio,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2024,OH,Ohio,9,Coke Plants,7.34,3006490.0,,3082247.0,276804.0,0.9,state,end_use,14408.0,28.816,
+2024,OH,Ohio,94,Independent Power Producers,8.75,10258840.0,62.03,10419912.0,,3.41,state,ipp_subtotal,12455.15,24.9103,2.490134602955404
+2024,OH,Ohio,98,Electric Power,8.76,12369209.0,63.44,12621516.0,,3.39,state,power_total,12397.2,24.7944,2.558642274061885
+2024,OK,Oklahoma,1,Electric Utility,5.18,4153894.0,37.27,3234736.0,,0.25,state,end_use,8607.45,17.2149,2.1649849839383326
+2024,OK,Oklahoma,10,Other Industrial,7.01,147813.0,177.25,108847.0,204371.0,1.21,state,end_use,11898.0,23.796,7.448730879139351
+2024,OK,Oklahoma,98,Electric Power,5.18,4153894.0,37.27,3234736.0,,0.25,state,power_total,8607.45,17.2149,2.1649849839383326
+2024,OR,Oregon,10,Other Industrial,9.92,4383.0,,54.0,24792.0,0.51,state,end_use,12323.0,24.646,
+2024,PA,Pennsylvania,1,Electric Utility,,0.0,,,,,state,end_use,,,
+2024,PA,Pennsylvania,10,Other Industrial,10.84,355507.0,,372020.0,180024.0,1.34,state,end_use,12428.0,24.856,
+2024,PA,Pennsylvania,2,IPP Non-CHP,24.44,7339378.0,,5676203.0,,2.49,state,ipp_component,8890.95,17.7819,
+2024,PA,Pennsylvania,3,IPP CHP,55.44,2127068.0,,2006491.0,,0.43,state,ipp_component,4424.55,8.8491,
+2024,PA,Pennsylvania,8,Commercial and Institutional,8.85,2392.0,,1947.0,3776.0,0.79,state,end_use,12216.0,24.432,
+2024,PA,Pennsylvania,9,Coke Plants,6.92,4975345.0,,4969567.0,441313.0,1.05,state,end_use,14408.0,28.816,
+2024,PA,Pennsylvania,94,Independent Power Producers,29.21,9466446.0,33.8,7682694.0,,2.17,state,ipp_subtotal,7887.35,15.7747,2.1426714929602464
+2024,PA,Pennsylvania,98,Electric Power,29.21,9466446.0,33.8,7682694.0,,2.17,state,power_total,7887.35,15.7747,2.1426714929602464
+2024,PCC,Pacific Contiguous,10,Other Industrial,8.27,1383412.0,113.4,1389240.0,162749.0,0.54,region,end_use,11011.0,22.022,5.1493960584869685
+2024,PCC,Pacific Contiguous,2,IPP Non-CHP,8.2,1953640.0,,1629372.0,,0.38,region,ipp_component,8492.6,16.9852,
+2024,PCC,Pacific Contiguous,3,IPP CHP,,0.0,,,,,region,ipp_component,,,
+2024,PCC,Pacific Contiguous,94,Independent Power Producers,8.2,1953640.0,,1629372.0,,0.38,region,ipp_subtotal,8492.6,16.9852,
+2024,PCC,Pacific Contiguous,98,Electric Power,8.2,1953640.0,,1629372.0,,0.38,region,power_total,8492.6,16.9852,
+2024,PCN,Pacific Noncontiguous,1,Electric Utility,7.8,597629.0,64.84,385941.0,,0.14,region,end_use,7382.6,14.7652,4.3914068214450195
+2024,PCN,Pacific Noncontiguous,10,Other Industrial,,1261.0,,1261.0,,,region,end_use,,,
+2024,PCN,Pacific Noncontiguous,3,IPP CHP,,155022.0,,,,,region,ipp_component,7556.55,15.1131,
+2024,PCN,Pacific Noncontiguous,8,Commercial and Institutional,6.51,475676.0,,456211.0,23259.0,0.2,region,end_use,7513.0,15.026,
+2024,PCN,Pacific Noncontiguous,94,Independent Power Producers,,155022.0,,,,,region,ipp_subtotal,7556.55,15.1131,
+2024,PCN,Pacific Noncontiguous,98,Electric Power,7.8,752651.0,64.84,385941.0,,0.14,region,power_total,7418.4,14.8368,4.370214601531328
+2024,PR,Puerto Rico,2,IPP Non-CHP,6.69,1458116.0,,1385833.0,,0.58,territory,ipp_component,10819.65,21.6393,
+2024,PR,Puerto Rico,94,Independent Power Producers,6.69,1458116.0,,1385833.0,,0.58,territory,ipp_subtotal,10819.65,21.6393,
+2024,PR,Puerto Rico,98,Electric Power,6.69,1458116.0,,1385833.0,,0.58,territory,power_total,10819.65,21.6393,
+2024,RI,Rhode Island,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2024,RI,Rhode Island,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2024,RI,Rhode Island,98,Electric Power,,0.0,,,,,state,power_total,,,
+2024,SAT,South Atlantic,1,Electric Utility,9.6,43937028.0,83.83,40844856.0,,2.29,region,end_use,11809.7,23.6194,3.549201080467751
+2024,SAT,South Atlantic,10,Other Industrial,12.5,1325497.0,137.54,1330402.0,327825.0,1.38,region,end_use,12471.0,24.942,5.514393392670996
+2024,SAT,South Atlantic,2,IPP Non-CHP,10.92,3777492.0,,3381088.0,,3.16,region,ipp_component,11948.4,23.8968,
+2024,SAT,South Atlantic,3,IPP CHP,20.78,179220.0,,65892.0,,1.78,region,ipp_component,10743.25,21.4865,
+2024,SAT,South Atlantic,8,Commercial and Institutional,7.58,44410.0,182.04,46848.0,48327.0,1.6,region,end_use,13125.0,26.25,6.934857142857142
+2024,SAT,South Atlantic,9,Coke Plants,6.74,830253.0,,762186.0,40235.0,0.85,region,end_use,14565.0,29.13,
+2024,SAT,South Atlantic,94,Independent Power Producers,11.09,3956712.0,59.28,3446980.0,,3.13,region,ipp_subtotal,11893.8,23.7876,2.492054683952984
+2024,SAT,South Atlantic,98,Electric Power,9.72,47893740.0,81.91,44291836.0,,2.36,region,power_total,11816.65,23.6333,3.4658723072952147
+2024,SC,South Carolina,1,Electric Utility,9.21,7353377.0,80.3,6756390.0,,2.03,state,end_use,12139.5,24.279,3.3073849829070388
+2024,SC,South Carolina,10,Other Industrial,10.35,73071.0,146.13,70064.0,43035.0,1.5,state,end_use,12919.0,25.838,5.655623500270918
+2024,SC,South Carolina,98,Electric Power,9.21,7353377.0,80.3,6756390.0,,2.03,state,power_total,12139.5,24.279,3.3073849829070388
+2024,SD,South Dakota,1,Electric Utility,5.31,1099586.0,38.99,1086523.0,,0.33,state,end_use,8242.4,16.4848,2.3652091623798897
+2024,SD,South Dakota,10,Other Industrial,5.67,235292.0,,250661.0,54162.0,0.39,state,end_use,7981.0,15.962,
+2024,SD,South Dakota,98,Electric Power,5.31,1099586.0,38.99,1086523.0,,0.33,state,power_total,8242.4,16.4848,2.3652091623798897
+2024,TN,Tennessee,1,Electric Utility,7.84,8938937.0,65.86,3487694.0,,2.18,state,end_use,10211.4,20.4228,3.2248271539651765
+2024,TN,Tennessee,10,Other Industrial,7.5,1170921.0,,1230883.0,160903.0,1.31,state,end_use,12878.0,25.756,
+2024,TN,Tennessee,98,Electric Power,7.84,8938937.0,65.86,3487694.0,,2.18,state,power_total,10211.4,20.4228,3.2248271539651765
+2024,TX,Texas,1,Electric Utility,6.83,15349204.0,32.39,12863704.0,,0.45,state,end_use,8158.200000000001,16.3164,1.985119266504866
+2024,TX,Texas,10,Other Industrial,8.74,157594.0,118.86,216015.0,208825.0,0.53,state,end_use,11386.0,22.772,5.219567890391709
+2024,TX,Texas,2,IPP Non-CHP,8.26,31510384.0,,32616951.0,,0.51,state,ipp_component,7807.9,15.6158,
+2024,TX,Texas,94,Independent Power Producers,8.26,31510384.0,32.15,32616951.0,,0.51,state,ipp_subtotal,7807.9,15.6158,2.0588122286402233
+2024,TX,Texas,98,Electric Power,7.85,46859588.0,32.22,45480655.0,,0.49,state,power_total,7922.65,15.8453,2.0334105381406475
+2024,US,U.S. Total,1,Electric Utility,7.68,286334428.78,48.93,277592065.0,105218940.0,1.2,national,end_use,9568.4,19.1368,2.5568538104594287
+2024,US,U.S. Total,10,Other Industrial,7.35,21547356.0,78.04,21843942.0,3147452.0,1.04,national,end_use,10179.0,20.358,3.8333824540721095
+2024,US,U.S. Total,2,IPP Non-CHP,10.67,82568292.0,38.6,81940590.0,22047185.0,1.51,national,ipp_component,8883.35,17.7667,2.1726038037452087
+2024,US,U.S. Total,3,IPP CHP,23.43,4355490.0,33.36,3715348.0,559810.0,2.31,national,ipp_component,7781.55,15.5631,2.1435318156408427
+2024,US,U.S. Total,8,Commercial and Institutional,7.16,633283.0,99.2,622666.0,138342.0,0.74,national,end_use,8599.0,17.198,5.768112571229213
+2024,US,U.S. Total,9,Coke Plants,7.1,15499836.0,189.68,15599225.0,1660722.0,0.92,national,end_use,14466.0,28.932,6.556062491359049
+2024,US,U.S. Total,94,Independent Power Producers,11.14,86923782.0,38.37,85655938.0,22606995.0,1.54,national,ipp_subtotal,8828.1,17.6562,2.1731742957148197
+2024,US,U.S. Total,98,Electric Power,8.44,373258210.78,46.45,363248003.0,127825935.0,1.27,national,power_total,9396.0,18.792,2.471796509152831
+2024,UT,Utah,1,Electric Utility,11.28,7713834.0,79.36,9059769.0,,0.64,state,end_use,10847.35,21.6947,3.65803629457886
+2024,UT,Utah,10,Other Industrial,9.73,239780.0,89.21,254060.0,66807.0,0.58,state,end_use,11637.0,23.274,3.833032568531408
+2024,UT,Utah,2,IPP Non-CHP,48.37,407828.0,,392111.0,,0.68,state,ipp_component,5667.55,11.3351,
+2024,UT,Utah,94,Independent Power Producers,48.37,407828.0,,392111.0,,0.68,state,ipp_subtotal,5667.55,11.3351,
+2024,UT,Utah,98,Electric Power,12.09,8121662.0,79.36,9451880.0,,0.64,state,power_total,10587.25,21.1745,3.747904318874118
+2024,VA,Virginia,1,Electric Utility,23.67,1085092.0,85.78,961720.0,,0.98,state,end_use,9871.85,19.7437,4.3446770362191485
+2024,VA,Virginia,10,Other Industrial,9.84,250575.0,133.34,251915.0,65772.0,0.94,state,end_use,12827.0,25.654,5.1976299992203945
+2024,VA,Virginia,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2024,VA,Virginia,8,Commercial and Institutional,4.98,7622.0,,10937.0,15553.0,0.88,state,end_use,13605.0,27.21,
+2024,VA,Virginia,9,Coke Plants,6.74,830253.0,,762186.0,40235.0,0.85,state,end_use,14565.0,29.13,
+2024,VA,Virginia,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2024,VA,Virginia,98,Electric Power,23.67,1085092.0,85.78,961720.0,,0.98,state,power_total,9871.85,19.7437,4.3446770362191485
+2024,WA,Washington,10,Other Industrial,4.78,68482.0,,69381.0,3937.0,0.37,state,end_use,9412.0,18.824,
+2024,WA,Washington,2,IPP Non-CHP,8.2,1953640.0,,1629372.0,,0.38,state,ipp_component,8492.6,16.9852,
+2024,WA,Washington,94,Independent Power Producers,8.2,1953640.0,,1629372.0,,0.38,state,ipp_subtotal,8492.6,16.9852,
+2024,WA,Washington,98,Electric Power,8.2,1953640.0,,1629372.0,,0.38,state,power_total,8492.6,16.9852,
+2024,WI,Wisconsin,1,Electric Utility,5.0,11662895.0,42.06,10608388.0,,0.43,state,end_use,9039.6,18.0792,2.3264303730253553
+2024,WI,Wisconsin,10,Other Industrial,6.57,280398.0,112.08,299001.0,101270.0,0.91,state,end_use,11301.0,22.602,4.958853198831962
+2024,WI,Wisconsin,98,Electric Power,5.0,11662895.0,42.06,10608388.0,,0.43,state,power_total,9039.6,18.0792,2.3264303730253553
+2024,WNC,West North Central,1,Electric Utility,6.14,76954350.0,29.78,76572878.0,,0.38,region,end_use,8227.550000000001,16.4551,1.8097732617851
+2024,WNC,West North Central,10,Other Industrial,6.5,9995083.0,33.72,10015989.0,568037.0,0.87,region,end_use,8277.0,16.554,2.0369699166364628
+2024,WNC,West North Central,3,IPP CHP,,0.0,,,,,region,ipp_component,,,
+2024,WNC,West North Central,8,Commercial and Institutional,7.47,29528.0,140.77,31418.0,29331.0,1.92,region,end_use,10429.0,20.858,6.748969220442996
+2024,WNC,West North Central,94,Independent Power Producers,,0.0,,,,,region,ipp_subtotal,,,
+2024,WNC,West North Central,98,Electric Power,6.14,76954350.0,29.78,76572878.0,,0.38,region,power_total,8227.550000000001,16.4551,1.8097732617851
+2024,WSC,West South Central,1,Electric Utility,5.86,29123130.0,35.29,24949200.0,,0.37,region,end_use,8411.3,16.8226,2.097773233626193
+2024,WSC,West South Central,10,Other Industrial,8.04,689125.0,103.81,712489.0,443982.0,0.76,region,end_use,10092.0,20.184,5.143182718985335
+2024,WSC,West South Central,2,IPP Non-CHP,7.94,33916379.0,,35615216.0,,0.48,region,ipp_component,7867.5,15.735,
+2024,WSC,West South Central,94,Independent Power Producers,7.94,33916379.0,33.69,35615216.0,,0.48,region,ipp_subtotal,7867.5,15.735,2.141086749285033
+2024,WSC,West South Central,98,Electric Power,7.05,63039509.0,34.35,60564416.0,,0.44,region,power_total,8118.75,16.2375,2.115473441108545
+2024,WV,West Virginia,1,Electric Utility,10.08,15293723.0,73.68,14893700.0,,3.01,state,end_use,12578.6,25.1572,2.92878380741895
+2024,WV,West Virginia,10,Other Industrial,11.08,266943.0,,271644.0,22607.0,1.37,state,end_use,12827.0,25.654,
+2024,WV,West Virginia,2,IPP Non-CHP,11.71,2678354.0,,2743903.0,,3.24,state,ipp_component,11605.55,23.2111,
+2024,WV,West Virginia,94,Independent Power Producers,11.71,2678354.0,49.48,2743903.0,,3.24,state,ipp_subtotal,11605.55,23.2111,2.1317386939869287
+2024,WV,West Virginia,98,Electric Power,10.32,17972077.0,69.92,17637603.0,,3.04,state,power_total,12433.6,24.8672,2.8117359413202934
+2024,WY,Wyoming,1,Electric Utility,6.48,15718683.0,29.48,17074086.0,,0.42,state,end_use,8529.0,17.058,1.728221362410599
+2024,WY,Wyoming,10,Other Industrial,4.57,990866.0,58.27,971437.0,66167.0,0.59,state,end_use,11253.0,22.506,2.589087354483249
+2024,WY,Wyoming,2,IPP Non-CHP,6.91,425332.0,,425332.0,,0.49,state,ipp_component,7920.05,15.8401,
+2024,WY,Wyoming,8,Commercial and Institutional,11.43,4104.0,,4104.0,100.0,0.49,state,end_use,11767.0,23.534,
+2024,WY,Wyoming,94,Independent Power Producers,6.91,425332.0,,425332.0,,0.49,state,ipp_subtotal,7920.05,15.8401,
+2024,WY,Wyoming,98,Electric Power,6.49,16144015.0,,17499418.0,,0.42,state,power_total,8513.0,17.026,
+2025,90,Pacific,1,Electric Utility,7.36,615520.0,63.19,408694.0,,0.3,pacific_subtotal,end_use,7402.25,14.8045,4.268296801648147
+2025,90,Pacific,2,IPP Non-CHP,8.15,2159330.0,,1690255.0,,0.4,pacific_subtotal,ipp_component,8482.55,16.9651,
+2025,90,Pacific,3,IPP CHP,,171760.0,,,,,pacific_subtotal,ipp_component,7553.45,15.1069,
+2025,90,Pacific,94,Independent Power Producers,8.15,2331090.0,,1690255.0,,0.4,pacific_subtotal,ipp_subtotal,8414.1,16.8282,
+2025,90,Pacific,98,Electric Power,8.02,2946610.0,,2098949.0,,0.38,pacific_subtotal,power_total,8202.75,16.4055,
+2025,AK,Alaska,1,Electric Utility,7.36,615520.0,63.19,408694.0,,0.3,state,end_use,7402.25,14.8045,4.268296801648147
+2025,AK,Alaska,10,Other Industrial,,1261.0,,1261.0,,,state,end_use,,,
+2025,AK,Alaska,3,IPP CHP,,171760.0,,,,,state,ipp_component,7553.45,15.1069,
+2025,AK,Alaska,8,Commercial and Institutional,6.33,495218.0,,497894.0,26545.0,0.16,state,end_use,7493.0,14.986,
+2025,AK,Alaska,94,Independent Power Producers,,171760.0,,,,,state,ipp_subtotal,7553.45,15.1069,
+2025,AK,Alaska,98,Electric Power,7.36,787280.0,63.19,408694.0,,0.3,state,power_total,7435.2,14.8704,4.249381321282548
+2025,AL,Alabama,1,Electric Utility,5.76,12123343.0,45.55,11314683.0,,0.37,state,end_use,9083.05,18.1661,2.5074176625692908
+2025,AL,Alabama,10,Other Industrial,7.71,352325.0,164.78,323374.0,30857.0,1.25,state,end_use,13121.0,26.242,6.279247008612148
+2025,AL,Alabama,9,Coke Plants,6.44,441197.0,,472831.0,176409.0,0.67,state,end_use,14846.0,29.692,
+2025,AL,Alabama,98,Electric Power,5.76,12123343.0,45.55,11314683.0,,0.37,state,power_total,9083.05,18.1661,2.5074176625692908
+2025,AR,Arkansas,1,Electric Utility,4.69,9841450.0,38.4,10137728.0,,0.23,state,end_use,8764.5,17.529,2.1906554851959608
+2025,AR,Arkansas,10,Other Industrial,11.23,88371.0,,97950.0,19636.0,1.56,state,end_use,11813.0,23.626,
+2025,AR,Arkansas,2,IPP Non-CHP,4.63,2063132.0,,2170767.0,,0.32,state,ipp_component,8807.65,17.6153,
+2025,AR,Arkansas,94,Independent Power Producers,4.63,2063132.0,,2170767.0,,0.32,state,ipp_subtotal,8807.65,17.6153,
+2025,AR,Arkansas,98,Electric Power,4.68,11904582.0,,12308495.0,,0.25,state,power_total,8772.0,17.544,
+2025,AZ,Arizona,1,Electric Utility,8.3,5728990.0,59.69,5178445.0,,0.39,state,end_use,9112.45,18.2249,3.275189438625177
+2025,AZ,Arizona,10,Other Industrial,10.69,123658.0,,119158.0,52894.0,0.72,state,end_use,11480.0,22.96,
+2025,AZ,Arizona,98,Electric Power,8.3,5728990.0,59.69,5178445.0,,0.39,state,power_total,9112.45,18.2249,3.275189438625177
+2025,CA,California,10,Other Industrial,8.57,1107705.0,,1085257.0,121847.0,0.51,state,end_use,11509.0,23.018,
+2025,CA,California,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2025,CA,California,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2025,CA,California,98,Electric Power,,0.0,,,,,state,power_total,,,
+2025,CO,Colorado,1,Electric Utility,7.73,8089415.0,41.99,8162022.0,,0.34,state,end_use,9370.7,18.7414,2.2404943067220167
+2025,CO,Colorado,10,Other Industrial,9.47,131244.0,,140904.0,17342.0,0.61,state,end_use,11998.0,23.996,
+2025,CO,Colorado,8,Commercial and Institutional,,,,,489.0,,state,end_use,,,
+2025,CO,Colorado,98,Electric Power,7.73,8089415.0,41.99,8162022.0,,0.34,state,power_total,9370.7,18.7414,2.2404943067220167
+2025,CT,Connecticut,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2025,CT,Connecticut,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2025,CT,Connecticut,98,Electric Power,,0.0,,,,,state,power_total,,,
+2025,DC,District of Columbia,8,Commercial and Institutional,,,,,2710.0,,state,end_use,,,
+2025,DE,Delaware,2,IPP Non-CHP,,131547.0,,,,,state,ipp_component,11691.0,23.382,
+2025,DE,Delaware,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2025,DE,Delaware,94,Independent Power Producers,,131547.0,,,,,state,ipp_subtotal,11691.0,23.382,
+2025,DE,Delaware,98,Electric Power,,131547.0,,,,,state,power_total,11691.0,23.382,
+2025,ENC,East North Central,1,Electric Utility,6.62,55832326.19,49.82,48762459.0,,1.41,region,end_use,9916.2,19.8324,2.5120509872733505
+2025,ENC,East North Central,10,Other Industrial,7.18,3541532.0,98.47,3433788.0,515656.0,1.67,region,end_use,11422.0,22.844,4.310541061110138
+2025,ENC,East North Central,2,IPP Non-CHP,10.26,29680088.0,,28798342.0,,2.49,region,ipp_component,10283.05,20.5661,
+2025,ENC,East North Central,3,IPP CHP,8.32,1657901.0,,1547955.0,,3.08,region,ipp_component,11338.95,22.6779,
+2025,ENC,East North Central,8,Commercial and Institutional,10.39,67715.0,58.0,65503.0,22760.0,3.01,region,end_use,11091.0,22.182,2.6147326661256876
+2025,ENC,East North Central,9,Coke Plants,7.52,8695668.0,191.99,8765468.0,1126557.0,0.88,region,end_use,14470.0,28.94,6.634070490670353
+2025,ENC,East North Central,94,Independent Power Producers,10.15,31337989.0,40.97,30346297.0,,2.52,region,ipp_subtotal,10338.9,20.6778,1.981351981351981
+2025,ENC,East North Central,98,Electric Power,8.01,87170315.19,46.43,79108756.0,,1.85,region,power_total,10068.15,20.1363,2.3057860679469417
+2025,ESC,East South Central,1,Electric Utility,7.59,46144352.0,49.61,44326788.0,,1.89,region,end_use,10322.15,20.6443,2.403084628686853
+2025,ESC,East South Central,10,Other Industrial,6.95,2150837.0,151.77,2107116.0,241462.0,1.35,region,end_use,12972.0,25.944,5.8499074930619805
+2025,ESC,East South Central,2,IPP Non-CHP,14.33,2728570.0,,2728570.0,,0.6,region,ipp_component,5184.25,10.3685,
+2025,ESC,East South Central,8,Commercial and Institutional,,,,,3549.0,,region,end_use,,,
+2025,ESC,East South Central,9,Coke Plants,6.44,441197.0,,472831.0,176409.0,0.67,region,end_use,14846.0,29.692,
+2025,ESC,East South Central,94,Independent Power Producers,14.33,2728570.0,,2728570.0,,0.6,region,ipp_subtotal,5184.25,10.3685,
+2025,ESC,East South Central,98,Electric Power,7.79,48872922.0,,47055358.0,,1.85,region,power_total,10035.3,20.0706,
+2025,FL,Florida,1,Electric Utility,8.57,4741233.0,79.45,4702403.0,,2.75,state,end_use,11567.6,23.1352,3.4341609322590685
+2025,FL,Florida,10,Other Industrial,9.23,69808.0,,55595.0,28494.0,2.67,state,end_use,13064.0,26.128,
+2025,FL,Florida,98,Electric Power,8.57,4741233.0,79.45,4702403.0,,2.75,state,power_total,11567.6,23.1352,3.4341609322590685
+2025,GA,Georgia,1,Electric Utility,7.31,10116046.0,73.78,9541854.0,,1.59,state,end_use,10133.65,20.2673,3.6403467654793684
+2025,GA,Georgia,10,Other Industrial,11.03,139142.0,,111742.0,12543.0,0.79,state,end_use,12514.0,25.028,
+2025,GA,Georgia,98,Electric Power,7.31,10116046.0,73.78,9541854.0,,1.59,state,power_total,10133.65,20.2673,3.6403467654793684
+2025,IA,Iowa,1,Electric Utility,4.74,10916500.0,30.06,9641925.0,,0.28,state,end_use,8638.25,17.2765,1.7399357508754667
+2025,IA,Iowa,10,Other Industrial,5.59,2149424.0,,2147159.0,90403.0,0.79,state,end_use,9117.0,18.234,
+2025,IA,Iowa,8,Commercial and Institutional,7.73,7555.0,,9723.0,13773.0,1.83,state,end_use,10535.0,21.07,
+2025,IA,Iowa,98,Electric Power,4.74,10916500.0,30.06,9641925.0,,0.28,state,power_total,8638.25,17.2765,1.7399357508754667
+2025,ID,Idaho,10,Other Industrial,9.26,37259.0,,36572.0,99383.0,0.5,state,end_use,11995.0,23.99,
+2025,IL,Illinois,1,Electric Utility,5.26,935933.0,31.13,5607345.0,,0.68,state,end_use,11494.8,22.9896,1.3540905452900442
+2025,IL,Illinois,10,Other Industrial,7.37,1636114.0,,1639626.0,29750.0,2.24,state,end_use,9847.0,19.694,
+2025,IL,Illinois,2,IPP Non-CHP,12.11,17408017.0,,16382077.0,,1.53,state,ipp_component,8719.2,17.4384,
+2025,IL,Illinois,8,Commercial and Institutional,10.57,54877.0,,52731.0,20704.0,3.25,state,end_use,11077.0,22.154,
+2025,IL,Illinois,9,Coke Plants,7.39,899131.0,,918095.0,151781.0,0.98,state,end_use,14589.0,29.178,
+2025,IL,Illinois,94,Independent Power Producers,12.11,17408017.0,29.32,16382077.0,,1.53,state,ipp_subtotal,8719.2,17.4384,1.6813469125607852
+2025,IL,Illinois,98,Electric Power,10.33,18343950.0,29.78,21989422.0,,1.31,state,power_total,8860.8,17.7216,1.6804351751534852
+2025,IN,Indiana,1,Electric Utility,8.88,23632159.19,61.35,15346028.0,,2.67,state,end_use,10487.7,20.9754,2.9248548299436483
+2025,IN,Indiana,10,Other Industrial,7.02,1010233.0,,895558.0,131129.0,1.19,state,end_use,13444.0,26.888,
+2025,IN,Indiana,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2025,IN,Indiana,3,IPP CHP,8.4,1533608.0,,1415248.0,,3.24,state,ipp_component,11282.9,22.5658,
+2025,IN,Indiana,8,Commercial and Institutional,9.63,12838.0,,12772.0,2056.0,2.0,state,end_use,11148.0,22.296,
+2025,IN,Indiana,9,Coke Plants,7.6,3698494.0,,3745315.0,310350.0,0.88,state,end_use,14432.0,28.864,
+2025,IN,Indiana,94,Independent Power Producers,8.4,1533608.0,,1415248.0,,3.24,state,ipp_subtotal,11282.9,22.5658,
+2025,IN,Indiana,98,Electric Power,8.84,25165767.19,,16761276.0,,2.72,state,power_total,10536.15,21.0723,
+2025,KS,Kansas,1,Electric Utility,5.03,12212696.0,28.33,10554925.0,,0.28,state,end_use,8805.35,17.6107,1.6086810859307124
+2025,KS,Kansas,10,Other Industrial,13.01,77645.0,,64596.0,24545.0,2.98,state,end_use,10567.0,21.134,
+2025,KS,Kansas,98,Electric Power,5.03,12212696.0,28.33,10554925.0,,0.28,state,power_total,8805.35,17.6107,1.6086810859307124
+2025,KY,Kentucky,1,Electric Utility,8.25,23514636.0,49.76,28257188.0,,2.4,state,end_use,11073.85,22.1477,2.246734423890517
+2025,KY,Kentucky,10,Other Industrial,6.88,615620.0,144.89,604743.0,40585.0,1.4,state,end_use,12705.0,25.41,5.702085792994883
+2025,KY,Kentucky,8,Commercial and Institutional,,,,,3549.0,,state,end_use,,,
+2025,KY,Kentucky,98,Electric Power,8.25,23514636.0,49.76,28257188.0,,2.4,state,power_total,11073.85,22.1477,2.246734423890517
+2025,LA,Louisiana,1,Electric Utility,4.83,2287717.0,43.81,2326829.0,,0.36,state,end_use,8816.95,17.6339,2.4844192152615134
+2025,LA,Louisiana,10,Other Industrial,6.84,204889.0,,259919.0,1520.0,0.5,state,end_use,7489.0,14.978,
+2025,LA,Louisiana,2,IPP Non-CHP,5.05,1387700.0,,617620.0,,0.27,state,ipp_component,8073.9,16.1478,
+2025,LA,Louisiana,94,Independent Power Producers,5.05,1387700.0,,617620.0,,0.27,state,ipp_subtotal,8073.9,16.1478,
+2025,LA,Louisiana,98,Electric Power,4.88,3675417.0,,2944449.0,,0.34,state,power_total,8536.4,17.0728,
+2025,MAT,Middle Atlantic,1,Electric Utility,,0.0,,,,,region,end_use,,,
+2025,MAT,Middle Atlantic,10,Other Industrial,10.18,453102.0,116.2,416972.0,209707.0,1.44,region,end_use,12803.0,25.606,4.537998906506288
+2025,MAT,Middle Atlantic,2,IPP Non-CHP,25.2,11101518.0,,10864375.0,,2.35,region,ipp_component,8343.8,16.6876,
+2025,MAT,Middle Atlantic,3,IPP CHP,49.5,779737.0,,779737.0,,0.58,region,ipp_component,5819.35,11.6387,
+2025,MAT,Middle Atlantic,8,Commercial and Institutional,7.51,1097.0,,779.0,2355.0,1.2,region,end_use,13638.0,27.276,
+2025,MAT,Middle Atlantic,9,Coke Plants,6.94,4634621.0,,4644406.0,452802.0,1.02,region,end_use,14373.0,28.746,
+2025,MAT,Middle Atlantic,94,Independent Power Producers,26.34,11881255.0,42.3,11644112.0,,2.27,region,ipp_subtotal,8178.150000000001,16.3563,2.586159461491902
+2025,MAT,Middle Atlantic,98,Electric Power,26.34,11881255.0,42.3,11644112.0,,2.27,region,power_total,8178.150000000001,16.3563,2.586159461491902
+2025,MD,Maryland,10,Other Industrial,20.36,304590.0,,323017.0,34170.0,1.63,state,end_use,11458.0,22.916,
+2025,MD,Maryland,2,IPP Non-CHP,7.96,1041952.0,,1242928.0,,2.43,state,ipp_component,13078.95,26.1579,
+2025,MD,Maryland,94,Independent Power Producers,7.96,1041952.0,,1242928.0,,2.43,state,ipp_subtotal,13078.95,26.1579,
+2025,MD,Maryland,98,Electric Power,7.96,1041952.0,,1242928.0,,2.43,state,power_total,13078.95,26.1579,
+2025,ME,Maine,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2025,ME,Maine,3,IPP CHP,4.94,47961.0,,47961.0,,0.95,state,ipp_component,10310.45,20.6209,
+2025,ME,Maine,94,Independent Power Producers,4.94,47961.0,,47961.0,,0.95,state,ipp_subtotal,10310.45,20.6209,
+2025,ME,Maine,98,Electric Power,4.94,47961.0,,47961.0,,0.95,state,power_total,10310.45,20.6209,
+2025,MI,Michigan,1,Electric Utility,5.2,15864163.0,45.35,13645893.0,,0.54,state,end_use,9315.65,18.6313,2.434075990403246
+2025,MI,Michigan,10,Other Industrial,6.79,361404.0,,346556.0,233430.0,0.71,state,end_use,12118.0,24.236,
+2025,MI,Michigan,3,IPP CHP,7.61,124293.0,,132707.0,,1.54,state,ipp_component,12030.95,24.0619,
+2025,MI,Michigan,9,Coke Plants,7.48,1270776.0,,1272452.0,345872.0,0.74,state,end_use,14469.0,28.938,
+2025,MI,Michigan,94,Independent Power Producers,7.61,124293.0,,132707.0,,1.54,state,ipp_subtotal,12030.95,24.0619,
+2025,MI,Michigan,98,Electric Power,5.23,15988456.0,,13778600.0,,0.55,state,power_total,9336.75,18.6735,
+2025,MN,Minnesota,1,Electric Utility,4.75,8265818.0,43.36,7146786.0,,0.25,state,end_use,8846.05,17.6921,2.4508113790901023
+2025,MN,Minnesota,10,Other Industrial,4.14,772895.0,55.41,768623.0,36324.0,0.3,state,end_use,9306.0,18.612,2.9771115409413285
+2025,MN,Minnesota,8,Commercial and Institutional,4.2,3258.0,,2476.0,4325.0,0.34,state,end_use,9452.0,18.904,
+2025,MN,Minnesota,98,Electric Power,4.75,8265818.0,43.36,7146786.0,,0.25,state,power_total,8846.05,17.6921,2.4508113790901023
+2025,MO,Missouri,1,Electric Utility,4.76,26724784.0,34.11,25487129.0,,0.3,state,end_use,8864.8,17.7296,1.9239012724483349
+2025,MO,Missouri,10,Other Industrial,8.82,702068.0,69.53,693765.0,71710.0,2.33,state,end_use,11222.0,22.444,3.0979326323293535
+2025,MO,Missouri,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2025,MO,Missouri,8,Commercial and Institutional,8.97,5935.0,,5935.0,,3.03,state,end_use,11318.0,22.636,
+2025,MO,Missouri,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2025,MO,Missouri,98,Electric Power,4.76,26724784.0,34.11,25487129.0,,0.3,state,power_total,8864.8,17.7296,1.9239012724483349
+2025,MS,Mississippi,1,Electric Utility,5.9,1144524.0,57.25,1481541.0,,1.05,state,end_use,8732.2,17.4644,3.2780971576464117
+2025,MS,Mississippi,10,Other Industrial,3.43,129131.0,,141440.0,21288.0,0.73,state,end_use,14902.0,29.804,
+2025,MS,Mississippi,2,IPP Non-CHP,14.33,2728570.0,,2728570.0,,0.6,state,ipp_component,5184.25,10.3685,
+2025,MS,Mississippi,94,Independent Power Producers,14.33,2728570.0,,2728570.0,,0.6,state,ipp_subtotal,5184.25,10.3685,
+2025,MS,Mississippi,98,Electric Power,10.14,3873094.0,,4210111.0,,0.82,state,power_total,6232.7,12.4654,
+2025,MT,Montana,1,Electric Utility,,0.0,,,,,state,end_use,,,
+2025,MT,Montana,10,Other Industrial,5.11,160042.0,,158277.0,50719.0,0.32,state,end_use,9463.0,18.926,
+2025,MT,Montana,2,IPP Non-CHP,8.99,6137607.0,,5888646.0,,0.68,state,ipp_component,8614.4,17.2288,
+2025,MT,Montana,8,Commercial and Institutional,4.89,1251.0,,1002.0,2740.0,0.44,state,end_use,10651.0,21.302,
+2025,MT,Montana,94,Independent Power Producers,8.99,6137607.0,,5888646.0,,0.68,state,ipp_subtotal,8614.4,17.2288,
+2025,MT,Montana,98,Electric Power,8.99,6137607.0,,5888646.0,,0.68,state,power_total,8614.4,17.2288,
+2025,MTN,Mountain,1,Electric Utility,9.49,44530089.0,49.39,42087106.0,,0.5,region,end_use,9313.2,18.6264,2.651612764678091
+2025,MTN,Mountain,10,Other Industrial,7.12,1882353.0,78.3,1992835.0,532029.0,0.53,region,end_use,11388.0,22.776,3.4378292939936776
+2025,MTN,Mountain,2,IPP Non-CHP,9.36,7531619.0,,7262424.0,,0.63,region,ipp_component,8527.9,17.0558,
+2025,MTN,Mountain,8,Commercial and Institutional,9.74,5209.0,,4960.0,3329.0,0.45,region,end_use,11435.0,22.87,
+2025,MTN,Mountain,94,Independent Power Producers,9.36,7531619.0,,7262424.0,,0.63,region,ipp_subtotal,8527.9,17.0558,
+2025,MTN,Mountain,98,Electric Power,9.47,52061708.0,,49349530.0,,0.52,region,power_total,9199.6,18.3992,
+2025,NC,North Carolina,1,Electric Utility,9.66,7221119.0,106.87,6894348.0,,1.64,state,end_use,12536.0,25.072,4.262523931078494
+2025,NC,North Carolina,10,Other Industrial,8.88,105137.0,154.65,115436.0,110118.0,0.98,state,end_use,12999.0,25.998,5.94853450265405
+2025,NC,North Carolina,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2025,NC,North Carolina,8,Commercial and Institutional,7.79,47849.0,,49374.0,31589.0,1.67,state,end_use,13060.0,26.12,
+2025,NC,North Carolina,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2025,NC,North Carolina,98,Electric Power,9.66,7221119.0,106.87,6894348.0,,1.64,state,power_total,12536.0,25.072,4.262523931078494
+2025,ND,North Dakota,1,Electric Utility,9.94,19211377.0,27.34,19505716.0,,0.76,state,end_use,6692.5,13.385,2.0425849831901384
+2025,ND,North Dakota,10,Other Industrial,6.94,4826212.0,28.92,4836035.0,177791.0,0.88,state,end_use,7280.0,14.56,1.9862637362637363
+2025,ND,North Dakota,8,Commercial and Institutional,5.15,8647.0,,4503.0,6853.0,0.36,state,end_use,9198.0,18.396,
+2025,ND,North Dakota,98,Electric Power,9.94,19211377.0,27.34,19505716.0,,0.76,state,power_total,6692.5,13.385,2.0425849831901384
+2025,NE,Nebraska,1,Electric Utility,5.02,10849194.0,21.83,10391265.0,,0.28,state,end_use,8562.25,17.1245,1.2747817454524217
+2025,NE,Nebraska,10,Other Industrial,4.7,508243.0,,508496.0,30350.0,0.32,state,end_use,8824.0,17.648,
+2025,NE,Nebraska,98,Electric Power,5.02,10849194.0,21.83,10391265.0,,0.28,state,power_total,8562.25,17.1245,1.2747817454524217
+2025,NEW,New England,2,IPP Non-CHP,,102440.0,,,,,region,ipp_component,13250.0,26.5,
+2025,NEW,New England,3,IPP CHP,4.94,47961.0,,47961.0,,0.95,region,ipp_component,10310.45,20.6209,
+2025,NEW,New England,94,Independent Power Producers,4.94,150401.0,,47961.0,,0.95,region,ipp_subtotal,12312.6,24.6252,
+2025,NEW,New England,98,Electric Power,4.94,150401.0,,47961.0,,0.95,region,power_total,12312.6,24.6252,
+2025,NH,New Hampshire,2,IPP Non-CHP,,102440.0,,,,,state,ipp_component,13250.0,26.5,
+2025,NH,New Hampshire,94,Independent Power Producers,,102440.0,,,,,state,ipp_subtotal,13250.0,26.5,
+2025,NH,New Hampshire,98,Electric Power,,102440.0,,,,,state,power_total,13250.0,26.5,
+2025,NJ,New Jersey,1,Electric Utility,,0.0,,,,,state,end_use,,,
+2025,NJ,New Jersey,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2025,NJ,New Jersey,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2025,NJ,New Jersey,98,Electric Power,,0.0,,,,,state,power_total,,,
+2025,NM,New Mexico,1,Electric Utility,20.54,4479877.0,65.21,4501056.0,,0.85,state,end_use,9040.35,18.0807,3.6066081512330825
+2025,NM,New Mexico,10,Other Industrial,10.63,43456.0,,43345.0,2992.0,0.86,state,end_use,11618.0,23.236,
+2025,NM,New Mexico,98,Electric Power,20.54,4479877.0,65.21,4501056.0,,0.85,state,power_total,9040.35,18.0807,3.6066081512330825
+2025,NV,Nevada,1,Electric Utility,4.3,839338.0,108.02,261368.0,,0.31,state,end_use,9648.25,19.2965,5.597906356074935
+2025,NV,Nevada,10,Other Industrial,8.21,152167.0,,167786.0,93291.0,0.4,state,end_use,11971.0,23.942,
+2025,NV,Nevada,2,IPP Non-CHP,5.26,746390.0,,726156.0,,0.33,state,ipp_component,8859.85,17.7197,
+2025,NV,Nevada,94,Independent Power Producers,5.26,746390.0,,726156.0,,0.33,state,ipp_subtotal,8859.85,17.7197,
+2025,NV,Nevada,98,Electric Power,4.99,1585728.0,,987524.0,,0.33,state,power_total,9277.15,18.5543,
+2025,NY,New York,1,Electric Utility,,0.0,,,,,state,end_use,,,
+2025,NY,New York,10,Other Industrial,8.7,119521.0,,98163.0,42470.0,2.4,state,end_use,13084.0,26.168,
+2025,NY,New York,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2025,NY,New York,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2025,NY,New York,98,Electric Power,,0.0,,,,,state,power_total,,,
+2025,OH,Ohio,1,Electric Utility,8.64,2355920.0,71.9,1755217.0,,3.43,state,end_use,12510.55,25.0211,2.8735747029507097
+2025,OH,Ohio,10,Other Industrial,7.42,327405.0,173.68,324600.0,19271.0,1.97,state,end_use,12962.0,25.924,6.699583397623824
+2025,OH,Ohio,2,IPP Non-CHP,8.52,12272071.0,,12416265.0,,3.39,state,ipp_component,12501.35,25.0027,
+2025,OH,Ohio,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2025,OH,Ohio,9,Coke Plants,7.46,2827267.0,,2829606.0,318554.0,0.91,state,end_use,14483.0,28.966,
+2025,OH,Ohio,94,Independent Power Producers,8.52,12272071.0,54.5,12416265.0,,3.39,state,ipp_subtotal,12501.35,25.0027,2.179764585424774
+2025,OH,Ohio,98,Electric Power,8.54,14627991.0,56.65,14171482.0,,3.4,state,power_total,12502.85,25.0057,2.2654834697688924
+2025,OK,Oklahoma,1,Electric Utility,4.82,6245914.0,33.46,5195803.0,,0.24,state,end_use,8692.3,17.3846,1.9246919687539548
+2025,OK,Oklahoma,10,Other Industrial,5.16,155239.0,,157510.0,206497.0,0.69,state,end_use,10535.0,21.07,
+2025,OK,Oklahoma,98,Electric Power,4.82,6245914.0,33.46,5195803.0,,0.24,state,power_total,8692.3,17.3846,1.9246919687539548
+2025,OR,Oregon,10,Other Industrial,,,,,24792.0,,state,end_use,,,
+2025,PA,Pennsylvania,1,Electric Utility,,0.0,,,,,state,end_use,,,
+2025,PA,Pennsylvania,10,Other Industrial,10.43,333581.0,,318809.0,167237.0,1.29,state,end_use,12756.0,25.512,
+2025,PA,Pennsylvania,2,IPP Non-CHP,25.2,11101518.0,,10864375.0,,2.35,state,ipp_component,8343.8,16.6876,
+2025,PA,Pennsylvania,3,IPP CHP,49.5,779737.0,,779737.0,,0.58,state,ipp_component,5819.35,11.6387,
+2025,PA,Pennsylvania,8,Commercial and Institutional,7.51,1097.0,,779.0,2355.0,1.2,state,end_use,13638.0,27.276,
+2025,PA,Pennsylvania,9,Coke Plants,6.94,4634621.0,,4644406.0,452802.0,1.02,state,end_use,14373.0,28.746,
+2025,PA,Pennsylvania,94,Independent Power Producers,26.34,11881255.0,42.3,11644112.0,,2.27,state,ipp_subtotal,8178.150000000001,16.3563,2.586159461491902
+2025,PA,Pennsylvania,98,Electric Power,26.34,11881255.0,42.3,11644112.0,,2.27,state,power_total,8178.150000000001,16.3563,2.586159461491902
+2025,PCC,Pacific Contiguous,10,Other Industrial,8.35,1170456.0,122.72,1151487.0,154065.0,0.5,region,end_use,11388.0,22.776,5.3881278538812785
+2025,PCC,Pacific Contiguous,2,IPP Non-CHP,8.15,2159330.0,,1690255.0,,0.4,region,ipp_component,8482.55,16.9651,
+2025,PCC,Pacific Contiguous,3,IPP CHP,,0.0,,,,,region,ipp_component,,,
+2025,PCC,Pacific Contiguous,94,Independent Power Producers,8.15,2159330.0,,1690255.0,,0.4,region,ipp_subtotal,8482.55,16.9651,
+2025,PCC,Pacific Contiguous,98,Electric Power,8.15,2159330.0,,1690255.0,,0.4,region,power_total,8482.55,16.9651,
+2025,PCN,Pacific Noncontiguous,1,Electric Utility,7.36,615520.0,63.19,408694.0,,0.3,region,end_use,7402.25,14.8045,4.268296801648147
+2025,PCN,Pacific Noncontiguous,10,Other Industrial,,1261.0,,1261.0,,,region,end_use,,,
+2025,PCN,Pacific Noncontiguous,3,IPP CHP,,171760.0,,,,,region,ipp_component,7553.45,15.1069,
+2025,PCN,Pacific Noncontiguous,8,Commercial and Institutional,6.33,495218.0,,497894.0,26545.0,0.16,region,end_use,7493.0,14.986,
+2025,PCN,Pacific Noncontiguous,94,Independent Power Producers,,171760.0,,,,,region,ipp_subtotal,7553.45,15.1069,
+2025,PCN,Pacific Noncontiguous,98,Electric Power,7.36,787280.0,63.19,408694.0,,0.3,region,power_total,7435.2,14.8704,4.249381321282548
+2025,PR,Puerto Rico,2,IPP Non-CHP,6.32,1396843.0,,1423342.0,,0.59,territory,ipp_component,10861.15,21.7223,
+2025,PR,Puerto Rico,94,Independent Power Producers,6.32,1396843.0,,1423342.0,,0.59,territory,ipp_subtotal,10861.15,21.7223,
+2025,PR,Puerto Rico,98,Electric Power,6.32,1396843.0,,1423342.0,,0.59,territory,power_total,10861.15,21.7223,
+2025,RI,Rhode Island,2,IPP Non-CHP,,0.0,,,,,state,ipp_component,,,
+2025,RI,Rhode Island,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2025,RI,Rhode Island,98,Electric Power,,0.0,,,,,state,power_total,,,
+2025,SAT,South Atlantic,1,Electric Utility,9.58,48820150.0,82.06,46854539.0,,2.27,region,end_use,11759.25,23.5185,3.489168101707167
+2025,SAT,South Atlantic,10,Other Industrial,13.06,1090957.0,123.93,1085031.0,311571.0,1.35,region,end_use,12595.0,25.19,4.919809448193727
+2025,SAT,South Atlantic,2,IPP Non-CHP,9.46,3339154.0,,3451465.0,,2.98,region,ipp_component,12260.6,24.5212,
+2025,SAT,South Atlantic,3,IPP CHP,,0.0,,,,,region,ipp_component,,,
+2025,SAT,South Atlantic,8,Commercial and Institutional,7.4,65614.0,180.35,60845.0,43579.0,1.51,region,end_use,13201.0,26.402,6.8309218998560715
+2025,SAT,South Atlantic,9,Coke Plants,7.14,821052.0,,750730.0,36701.0,0.9,region,end_use,14611.0,29.222,
+2025,SAT,South Atlantic,94,Independent Power Producers,9.46,3339154.0,67.82,3451465.0,,2.98,region,ipp_subtotal,12260.6,24.5212,2.7657700275679815
+2025,SAT,South Atlantic,98,Electric Power,9.57,52159304.0,81.09,50306004.0,,2.32,region,power_total,11791.35,23.5827,3.438537572033737
+2025,SC,South Carolina,1,Electric Utility,9.1,7967653.0,89.61,8187926.0,,1.91,state,end_use,12115.8,24.2316,3.698063685435547
+2025,SC,South Carolina,10,Other Industrial,8.09,89458.0,145.41,80494.0,24966.0,1.37,state,end_use,12987.0,25.974,5.598290598290598
+2025,SC,South Carolina,98,Electric Power,9.1,7967653.0,89.61,8187926.0,,1.91,state,power_total,12115.8,24.2316,3.698063685435547
+2025,SD,South Dakota,1,Electric Utility,5.36,1331633.0,40.85,1329077.0,,0.29,state,end_use,8438.9,16.8778,2.420339143727263
+2025,SD,South Dakota,10,Other Industrial,5.77,232231.0,,204801.0,30218.0,0.41,state,end_use,8004.0,16.008,
+2025,SD,South Dakota,98,Electric Power,5.36,1331633.0,40.85,1329077.0,,0.29,state,power_total,8438.9,16.8778,2.420339143727263
+2025,TN,Tennessee,1,Electric Utility,7.75,9361849.0,58.82,3273376.0,,2.13,state,end_use,10233.15,20.4663,2.873992856549547
+2025,TN,Tennessee,10,Other Industrial,7.1,1053761.0,,1037559.0,148732.0,1.42,state,end_use,12891.0,25.782,
+2025,TN,Tennessee,98,Electric Power,7.75,9361849.0,58.82,3273376.0,,2.13,state,power_total,10233.15,20.4663,2.873992856549547
+2025,TX,Texas,1,Electric Utility,6.37,15234644.0,30.54,14324593.0,,0.39,state,end_use,8118.550000000001,16.2371,1.8808777429467083
+2025,TX,Texas,10,Other Industrial,9.02,123779.0,107.68,80011.0,164541.0,0.52,state,end_use,11468.0,22.936,4.694802929891873
+2025,TX,Texas,2,IPP Non-CHP,8.73,33580436.0,,31489487.0,,0.54,state,ipp_component,7772.45,15.5449,
+2025,TX,Texas,94,Independent Power Producers,8.73,33580436.0,30.69,31489487.0,,0.54,state,ipp_subtotal,7772.45,15.5449,1.9742809538819805
+2025,TX,Texas,98,Electric Power,7.96,48815080.0,30.65,45814080.0,,0.49,state,power_total,7880.45,15.7609,1.9446858999168828
+2025,US,U.S. Total,1,Electric Utility,7.43,319064164.19,47.79,298481362.0,90407066.0,1.17,national,end_use,9566.35,19.1327,2.497817872020154
+2025,US,U.S. Total,10,Other Industrial,7.25,20131494.0,76.43,20007355.0,2818025.0,1.04,national,end_use,10162.0,20.324,3.760578626254674
+2025,US,U.S. Total,2,IPP Non-CHP,11.27,93673987.0,38.09,89073305.0,18895197.0,1.61,national,ipp_component,8830.6,17.6612,2.1567050936516208
+2025,US,U.S. Total,3,IPP CHP,16.51,2657359.0,45.35,2375653.0,430918.0,2.53,national,ipp_component,9456.1,18.9122,2.397923033808864
+2025,US,U.S. Total,8,Commercial and Institutional,6.89,660248.0,102.06,652618.0,127068.0,0.63,national,end_use,8521.0,17.042,5.988733716699917
+2025,US,U.S. Total,9,Coke Plants,7.28,14592538.0,183.43,14633435.0,1792469.0,0.92,national,end_use,14459.0,28.918,6.343108098762017
+2025,US,U.S. Total,94,Independent Power Producers,11.41,96331346.0,38.28,91448958.0,19326115.0,1.64,national,ipp_subtotal,8847.85,17.6957,2.163237396655685
+2025,US,U.S. Total,98,Electric Power,8.31,415395510.19,45.56,389930320.0,109733181.0,1.28,national,power_total,9399.75,18.7995,2.423468709274183
+2025,UT,Utah,1,Electric Utility,11.37,8335892.0,79.26,8022691.0,,0.69,state,end_use,11139.55,22.2791,3.557594337293697
+2025,UT,Utah,10,Other Industrial,9.69,230551.0,89.4,255179.0,82853.0,0.43,state,end_use,11801.0,23.602,3.7878145919837305
+2025,UT,Utah,2,IPP Non-CHP,46.06,235483.0,,235483.0,,0.72,state,ipp_component,6144.65,12.2893,
+2025,UT,Utah,94,Independent Power Producers,46.06,235483.0,,235483.0,,0.72,state,ipp_subtotal,6144.65,12.2893,
+2025,UT,Utah,98,Electric Power,11.94,8571375.0,79.26,8258174.0,,0.69,state,power_total,11002.35,22.0047,3.6019577635686924
+2025,VA,Virginia,1,Electric Utility,26.63,2005040.0,81.43,1644648.0,,1.0,state,end_use,9633.95,19.2679,4.226200052937788
+2025,VA,Virginia,10,Other Industrial,9.72,197345.0,,187927.0,56292.0,1.38,state,end_use,13787.0,27.574,
+2025,VA,Virginia,3,IPP CHP,,0.0,,,,,state,ipp_component,,,
+2025,VA,Virginia,8,Commercial and Institutional,5.72,17765.0,,11471.0,9280.0,0.87,state,end_use,13808.0,27.616,
+2025,VA,Virginia,9,Coke Plants,7.14,821052.0,,750730.0,36701.0,0.9,state,end_use,14611.0,29.222,
+2025,VA,Virginia,94,Independent Power Producers,,0.0,,,,,state,ipp_subtotal,,,
+2025,VA,Virginia,98,Electric Power,26.63,2005040.0,81.43,1644648.0,,1.0,state,power_total,9633.95,19.2679,4.226200052937788
+2025,WA,Washington,10,Other Industrial,4.71,62751.0,,66230.0,7426.0,0.34,state,end_use,9405.0,18.81,
+2025,WA,Washington,2,IPP Non-CHP,8.15,2159330.0,,1690255.0,,0.4,state,ipp_component,8482.55,16.9651,
+2025,WA,Washington,94,Independent Power Producers,8.15,2159330.0,,1690255.0,,0.4,state,ipp_subtotal,8482.55,16.9651,
+2025,WA,Washington,98,Electric Power,8.15,2159330.0,,1690255.0,,0.4,state,power_total,8482.55,16.9651,
+2025,WI,Wisconsin,1,Electric Utility,5.02,13044151.0,45.8,12407976.0,,0.42,state,end_use,9029.35,18.0587,2.5361737002109783
+2025,WI,Wisconsin,10,Other Industrial,6.74,206376.0,109.0,227448.0,102076.0,0.58,state,end_use,11388.0,22.776,4.785739374780471
+2025,WI,Wisconsin,98,Electric Power,5.02,13044151.0,45.8,12407976.0,,0.42,state,power_total,9029.35,18.0587,2.5361737002109783
+2025,WNC,West North Central,1,Electric Utility,5.79,89512002.0,30.72,84056823.0,,0.37,region,end_use,8318.099999999999,16.636199999999995,1.84657554008728
+2025,WNC,West North Central,10,Other Industrial,6.42,9268718.0,36.57,9223475.0,461341.0,0.89,region,end_use,8297.0,16.594,2.2038086055200674
+2025,WNC,West North Central,3,IPP CHP,,0.0,,,,,region,ipp_component,,,
+2025,WNC,West North Central,8,Commercial and Institutional,7.16,25395.0,108.38,22637.0,24951.0,1.69,region,end_use,10356.0,20.712,5.232715334105833
+2025,WNC,West North Central,94,Independent Power Producers,,0.0,,,,,region,ipp_subtotal,,,
+2025,WNC,West North Central,98,Electric Power,5.79,89512002.0,30.72,84056823.0,,0.37,region,power_total,8318.099999999999,16.636199999999995,1.84657554008728
+2025,WSC,West South Central,1,Electric Utility,5.45,33609725.0,34.47,31984953.0,,0.31,region,end_use,8461.85,16.9237,2.0367886455089605
+2025,WSC,West South Central,10,Other Industrial,7.36,572278.0,91.13,595390.0,392194.0,0.72,region,end_use,9512.0,19.024,4.790264928511354
+2025,WSC,West South Central,2,IPP Non-CHP,8.37,37031268.0,,34277874.0,,0.52,region,ipp_component,7841.4,15.6828,
+2025,WSC,West South Central,94,Independent Power Producers,8.37,37031268.0,32.06,34277874.0,,0.52,region,ipp_subtotal,7841.4,15.6828,2.044277807534369
+2025,WSC,West South Central,98,Electric Power,6.9,70640993.0,33.22,66262827.0,,0.41,region,power_total,8136.6,16.2732,2.0413932109234816
+2025,WV,West Virginia,1,Electric Utility,9.88,16769059.0,73.22,15883360.0,,3.03,state,end_use,12544.35,25.0887,2.9184453558773473
+2025,WV,West Virginia,10,Other Industrial,11.31,185477.0,,210820.0,44988.0,1.04,state,end_use,12812.0,25.624,
+2025,WV,West Virginia,2,IPP Non-CHP,10.37,2165655.0,,2208537.0,,3.32,state,ipp_component,11901.4,23.8028,
+2025,WV,West Virginia,94,Independent Power Producers,10.37,2165655.0,54.54,2208537.0,,3.32,state,ipp_subtotal,11901.4,23.8028,2.2913270707647837
+2025,WV,West Virginia,98,Electric Power,9.94,18934714.0,70.94,18091897.0,,3.06,state,power_total,12470.8,24.9416,2.8442441543445485
+2025,WY,Wyoming,1,Electric Utility,6.46,17056577.0,29.41,15961524.0,,0.41,state,end_use,8515.95,17.0319,1.7267597860485324
+2025,WY,Wyoming,10,Other Industrial,5.71,1003976.0,57.67,1071614.0,132555.0,0.55,state,end_use,11363.0,22.726,2.537622106837983
+2025,WY,Wyoming,2,IPP Non-CHP,6.71,412139.0,,412139.0,,0.51,state,ipp_component,8000.75,16.0015,
+2025,WY,Wyoming,8,Commercial and Institutional,10.97,3958.0,,3958.0,100.0,0.45,state,end_use,11633.0,23.266,
+2025,WY,Wyoming,94,Independent Power Producers,6.71,412139.0,,412139.0,,0.51,state,ipp_subtotal,8000.75,16.0015,
+2025,WY,Wyoming,98,Electric Power,6.47,17468716.0,,16373663.0,,0.42,state,power_total,8503.75,17.0075,

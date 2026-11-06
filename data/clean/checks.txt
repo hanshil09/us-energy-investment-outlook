@@ -1,0 +1,36 @@
+[PASS] coal consumption units are short tons - short tons
+[PASS] coal receipts units are short tons - short tons
+[PASS] coal stocks units are short tons - short tons
+[PASS] coal price units are $/short ton
+[PASS] coal has no duplicate year-location-sector rows
+[PASS] coal has no negative volumes or prices
+[FIX ] price_usd_per_ton: 17 zeros set to missing (9 of them on rows that burned coal)
+[FIX ] heat_raw: 177 zeros set to missing (0 of them on rows that burned coal)
+[FIX ] ash_pct: 63 zeros set to missing (22 of them on rows that burned coal)
+[FIX ] sulfur_pct: 63 zeros set to missing (22 of them on rows that burned coal)
+[PASS] heat content is in a sensible coal range after conversion (4,000-16,000 Btu/lb) - range 4425-14979
+[PASS] Electric Power = Electric Utility + IPP (U.S., every year)
+[PASS] IPP = IPP CHP + IPP Non-CHP (U.S., every year)
+[PASS] 10 regions add up to the U.S. total
+[PASS] states (excl. Puerto Rico and the '90' subtotal) add up to the U.S. total
+[PASS] electricity has no duplicate country-year rows
+[PASS] electricity has no negative generation or demand
+[PASS] clean + fossil = total generation (within 0.01 TWh)
+[PASS] wind+solar <= renewables <= clean
+[INFO] countries per year: {2020: 213, 2021: 213, 2022: 213, 2023: 212, 2024: 196, 2025: 91}
+[INFO] the 91 countries with 2025 data made 93.5% of 2024 world demand
+[INFO] largest countries missing 2025 data: Saudi Arabia (455 TWh), Indonesia (372 TWh), United Arab Emirates (177 TWh), Iraq (157 TWh), Algeria (94 TWh)
+[PASS] demand_change_twh matches the year-on-year difference in demand (within 0.05 TWh) - max gap 0.000
+[PASS] U.S. appears in the electricity data for all 6 years
+[PASS] estimated U.S. coal power is a plausible share of fossil power (20-45%) - {2020: 32.0, 2021: 35.0, 2022: 32.0, 2023: 27.0, 2024: 26.0, 2025: 28.0}
+[PASS] gas price file covers 2020-2025 with no gaps
+[PASS] gas prices are positive and plausible ($1-$15 per Mcf)
+[INFO] assumptions: 1.037 MMBtu per Mcf of gas; heat rates coal 10.7, gas 7.5 MMBtu/MWh
+[PASS] every coal year has a gas price after the merge
+[INFO] coal vs gas, 5 year-on-year changes: correlation 0.82; coal moved the same direction as gas in 4 of 5 years (direction only: too few points to prove cause)
+[PASS] EIA Table 1.1 has the expected 16 columns
+[PASS] EIA annual rows cover 2016-2025
+[PASS] EIA monthly rows start January 2024 with no gaps
+[PASS] EIA sources add up to the utility-scale total (within 0.5%)
+[INFO] our coal-TWh estimate vs EIA official: max error 1.2% (2020-2025)
+[INFO] monthly (31 months, 2024-01 to 2026-07): correlation of gas price with coal's share of coal+gas power = 0.81

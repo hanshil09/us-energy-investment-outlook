@@ -1,6 +1,6 @@
 # SIG x BDAA Invitational: Coal vs. Clean Energy
 
-Investment thesis analysis using supplied Ember electricity and EIA U.S. coal data, plus delivered natural gas prices, monthly generation and an EIA projection scenario. [Download the 12-slide presentation](presentations/Energy_Investment_Outlook_Slides_2_to_5_Redesigned.pptx).
+Investment thesis analysis using supplied Ember electricity and EIA U.S. coal data, plus delivered natural gas prices, monthly generation and an EIA projection scenario. [Download the presentation](presentations/Energy_Investment_coaldiggers_diya.pptx).
 
 ## Setup
 
